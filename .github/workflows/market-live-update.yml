@@ -1,0 +1,61 @@
+name: market-live-update
+
+on:
+  # Fallback polling. The preferred trigger is repository_dispatch immediately
+  # after the public capture repository publishes a revision.
+  schedule:
+    - cron: "*/10 * * * *"
+  repository_dispatch:
+    types: [odds-capture-updated]
+  workflow_dispatch: {}
+
+concurrency:
+  group: market-data-v3-live-state
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: market_data_v3/requirements.txt
+
+      - run: pip install -r market_data_v3/requirements.txt
+
+      - name: Fetch the newest public capture revision
+        run: |
+          git clone --depth 1 https://github.com/tbdprojectusername/kx7v.git "$RUNNER_TEMP/capture"
+          echo "CAPTURE_SOURCE_REVISION=$(git -C "$RUNNER_TEMP/capture" rev-parse HEAD)" >> "$GITHUB_ENV"
+
+      - name: Build and validate the current market state
+        run: |
+          python -m market_data_v3.src.cli build-current-state \
+            --source-dir "$RUNNER_TEMP/capture/data"
+          cat market_data_v3/runtime/current_state.json >> "$GITHUB_STEP_SUMMARY"
+
+      # The V3 forecaster is intentionally not built yet. Its eventual scorer
+      # must execute HERE, in this same job, against current_moneyline_quotes,
+      # and record CAPTURE_SOURCE_REVISION in every decision. It must never read
+      # the 30-minute compaction or three-hour audit as its live input.
+
+      - name: Open a deduplicated freshness incident on failure
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          KEY="market-data-v3-live-$(date -u +%Y-%m-%d)"
+          if ! gh issue list --state open --search "${KEY} in:body" --json body | grep -q "$KEY"; then
+            gh issue create \
+              --title "DATA INCIDENT: market-data-v3 live update failed" \
+              --body "The fast live-state job failed. Inspect run ${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}.\n\nincident_key: ${KEY}"
+          fi

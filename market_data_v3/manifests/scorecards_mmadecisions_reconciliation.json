@@ -1,0 +1,20 @@
+{
+  "bootstrap_judge_round_rows": 28690,
+  "bootstrap_scorecards_sha256": "3609a9fc7582a296aa65b465b4042bfb894e6fd869ac4ce7d6c651aaba0a8f0c",
+  "bootstrap_scored_decisions": 3120,
+  "complete_three_judge_cards": 1509,
+  "contract": "MMADECISIONS-RECONCILIATION-1",
+  "coverage_csv": "reports/mmadecisions_historical_coverage.csv",
+  "coverage_sha256": "95a12dad9feec46b7cb8e0b3d715a5799ba2506fe68e0cc05d8b216d73147f8d",
+  "decisions_with_round_scores": 1621,
+  "development_through_2022_only": true,
+  "direct_scorecards_sha256": "3f41e31f7b78478d58b48c0bc553493087d13da3fae6c4cbbe356b3980fc8b66",
+  "exact_or_direct_only": 1621,
+  "generated_utc": "2026-08-30T15:00:41.083657+00:00",
+  "indexed_decisions": 3547,
+  "model_fit_performed": false,
+  "output": "store/reference/source=mmadecisions_reconciliation/dataset=ufc_scorecard_identity/data.parquet",
+  "output_sha256": "2a16686c68beed47fb12c9863994583d7ed4be6b51d3e66c830820f03900d6f7",
+  "point_deduction_adjusted_rows": 164,
+  "quarantined": 0
+}

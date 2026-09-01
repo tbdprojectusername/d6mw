@@ -1,0 +1,2 @@
+decision_id,decision_url,event_date,status,sha256,rows,attempts,error
+169,https://mmadecisions.com/decision/169/Randy-Couture-vs-Maurice-Smith,1997-12-21,failed,9b04b39589c6bee1fa451ad6374c73299db4d9c3b647205aa42eccc71e8d19ff,0,1,ValueError: out-of-range official score in decision 169

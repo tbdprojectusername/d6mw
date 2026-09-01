@@ -1,0 +1,144 @@
+{
+  "book_registry_version": "BOOK-REGISTRY-1",
+  "contract": "FIGHTODDS-PROP-SUMMARY-BOOTSTRAP-1",
+  "duplicate_natural_key_rows": 0,
+  "end_year": 2026,
+  "excluded_rows": 197922,
+  "excluded_rows_by_book": {
+    "BetCRIS": 974,
+    "BetDSI": 4832,
+    "Sportbet": 187540,
+    "SportsBetting": 4576
+  },
+  "generated_utc": "2026-08-23T23:20:58.630490+00:00",
+  "invalid_price_rows": 44,
+  "outputs": [
+    {
+      "duplicate_natural_key_rows": 0,
+      "excluded_rows": 11714,
+      "invalid_price_rows": 20,
+      "path": "store/history_props/source=fightodds_history/event_year=2015/props.parquet",
+      "rows": 19064,
+      "sha256": "6f3dd9d05879208aef41fa7ed4af9ddee0ad67e6fc0686463d79bb9af9999731",
+      "source_rows": 30778,
+      "year": 2015
+    },
+    {
+      "duplicate_natural_key_rows": 0,
+      "excluded_rows": 29548,
+      "invalid_price_rows": 24,
+      "path": "store/history_props/source=fightodds_history/event_year=2016/props.parquet",
+      "rows": 56848,
+      "sha256": "eaa3034e40ae1cfade2b03ad6415a75654aa32aa79a37b0406d93968ca818a75",
+      "source_rows": 86396,
+      "year": 2016
+    },
+    {
+      "duplicate_natural_key_rows": 0,
+      "excluded_rows": 26884,
+      "invalid_price_rows": 0,
+      "path": "store/history_props/source=fightodds_history/event_year=2017/props.parquet",
+      "rows": 73515,
+      "sha256": "02774c0d70ca1644623ec85c6806b03e90b2312d11b6085d7a60bdacb78842b0",
+      "source_rows": 100399,
+      "year": 2017
+    },
+    {
+      "duplicate_natural_key_rows": 0,
+      "excluded_rows": 23058,
+      "invalid_price_rows": 0,
+      "path": "store/history_props/source=fightodds_history/event_year=2018/props.parquet",
+      "rows": 57741,
+      "sha256": "d190bc6a98e8d674431b34c534091ed708b4cf80b33a9065cdec1be42e9ab461",
+      "source_rows": 80799,
+      "year": 2018
+    },
+    {
+      "duplicate_natural_key_rows": 0,
+      "excluded_rows": 24784,
+      "invalid_price_rows": 0,
+      "path": "store/history_props/source=fightodds_history/event_year=2019/props.parquet",
+      "rows": 57909,
+      "sha256": "8a79318765d309ec6a569619e7066f424209998c51d3870ab9666e51712848ef",
+      "source_rows": 82693,
+      "year": 2019
+    },
+    {
+      "duplicate_natural_key_rows": 0,
+      "excluded_rows": 25880,
+      "invalid_price_rows": 0,
+      "path": "store/history_props/source=fightodds_history/event_year=2020/props.parquet",
+      "rows": 74458,
+      "sha256": "9f0df623e973fd874ffbf4b564aaa8ec3f0cc55faf7728a73ecd7c9f0d198d62",
+      "source_rows": 100338,
+      "year": 2020
+    },
+    {
+      "duplicate_natural_key_rows": 0,
+      "excluded_rows": 27834,
+      "invalid_price_rows": 0,
+      "path": "store/history_props/source=fightodds_history/event_year=2021/props.parquet",
+      "rows": 138883,
+      "sha256": "f8bf0d88e2ce377e48514b0338acfb2f69af67b7b2512bacfc302d5653cb3283",
+      "source_rows": 166717,
+      "year": 2021
+    },
+    {
+      "duplicate_natural_key_rows": 0,
+      "excluded_rows": 28148,
+      "invalid_price_rows": 0,
+      "path": "store/history_props/source=fightodds_history/event_year=2022/props.parquet",
+      "rows": 151829,
+      "sha256": "24072912b17bf5b9604aca35e841609edc6aee316185fc296464dfa50d46ec63",
+      "source_rows": 179977,
+      "year": 2022
+    },
+    {
+      "duplicate_natural_key_rows": 0,
+      "excluded_rows": 72,
+      "invalid_price_rows": 0,
+      "path": "store/history_props/source=fightodds_history/event_year=2023/props.parquet",
+      "rows": 195859,
+      "sha256": "5dfe4c1fbe0252e6a4f7fc8e05d63016a43e4e6f7ed02128e0c4241b2ba212c8",
+      "source_rows": 195931,
+      "year": 2023
+    },
+    {
+      "duplicate_natural_key_rows": 0,
+      "excluded_rows": 0,
+      "invalid_price_rows": 0,
+      "path": "store/history_props/source=fightodds_history/event_year=2024/props.parquet",
+      "rows": 150437,
+      "sha256": "29a514813097763559a98e6ed14a7be41e04fd25552decf0f779c3e7097e1fa7",
+      "source_rows": 150437,
+      "year": 2024
+    },
+    {
+      "duplicate_natural_key_rows": 0,
+      "excluded_rows": 0,
+      "invalid_price_rows": 0,
+      "path": "store/history_props/source=fightodds_history/event_year=2025/props.parquet",
+      "rows": 208336,
+      "sha256": "69da451b1ab8033b010f2a868a0de076da3a4cf21276c8bf8837d78276a6ff96",
+      "source_rows": 208336,
+      "year": 2025
+    },
+    {
+      "duplicate_natural_key_rows": 0,
+      "excluded_rows": 0,
+      "invalid_price_rows": 0,
+      "path": "store/history_props/source=fightodds_history/event_year=2026/props.parquet",
+      "rows": 261996,
+      "sha256": "9f233540242d7ff804ce7f4e30cc982e0703e7b84244f8e280e0d4c511e59b2a",
+      "source_rows": 261996,
+      "year": 2026
+    }
+  ],
+  "rows": 1446875,
+  "source_db": "C:\\Users\\cmtub\\fightodds_local\\fightodds_history.db",
+  "source_db_bytes": 3081949184,
+  "source_db_sha256": "ec9b175c9d14f39df74000f28e90de8966b19970db5eb3451ab8305bbb281ebe",
+  "source_rows": 1644797,
+  "start_year": 2015,
+  "timing_warning": "endpoint summaries contain open/current/best/worst, not price ticks; available_to_model_at is intentionally null and all effective eligibility is false"
+}

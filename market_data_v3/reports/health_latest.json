@@ -1,0 +1,159 @@
+{
+  "checks": [
+    {
+      "name": "live_rows_positive",
+      "passed": true,
+      "value": 790945
+    },
+    {
+      "name": "quote_keys_unique",
+      "passed": true,
+      "value": 0
+    },
+    {
+      "name": "prices_valid",
+      "passed": true,
+      "value": 0
+    },
+    {
+      "name": "decision_time_present",
+      "passed": true,
+      "value": 0
+    },
+    {
+      "name": "miseojeu_absent",
+      "passed": true,
+      "value": 0
+    },
+    {
+      "name": "quarantine_ineligible",
+      "passed": true,
+      "value": 0
+    },
+    {
+      "name": "exchange_never_close",
+      "passed": true,
+      "value": 0
+    },
+    {
+      "name": "close_orientation_named",
+      "passed": true,
+      "value": 0
+    },
+    {
+      "name": "raw_live_rows_never_feature_certified",
+      "passed": true,
+      "value": 0
+    },
+    {
+      "name": "raw_live_rows_never_close_certified",
+      "passed": true,
+      "value": 0
+    },
+    {
+      "name": "raw_live_rows_never_execution_certified",
+      "passed": true,
+      "value": 0
+    },
+    {
+      "name": "post_cutoff_rows_quarantined",
+      "passed": true,
+      "value": 0
+    },
+    {
+      "name": "history_orientation_not_invented",
+      "passed": true,
+      "value": 0
+    },
+    {
+      "name": "unresolved_history_ineligible",
+      "passed": true,
+      "value": 0
+    },
+    {
+      "name": "prop_keys_unique",
+      "passed": true,
+      "value": 0
+    },
+    {
+      "name": "prop_summaries_not_point_in_time",
+      "passed": true,
+      "value": 0
+    },
+    {
+      "name": "prop_availability_not_invented",
+      "passed": true,
+      "value": 0
+    },
+    {
+      "name": "source_live_props_ineligible",
+      "passed": true,
+      "value": 0
+    },
+    {
+      "name": "live_prop_keys_unique",
+      "passed": true,
+      "value": 0
+    },
+    {
+      "name": "live_prop_current_prices_valid",
+      "passed": true,
+      "value": 0
+    },
+    {
+      "name": "live_props_await_identity_settlement_gates",
+      "passed": true,
+      "value": 0
+    },
+    {
+      "name": "reference_keys_unique",
+      "passed": true,
+      "value": 0
+    },
+    {
+      "name": "raw_reference_not_direct_feature",
+      "passed": true,
+      "value": 0
+    },
+    {
+      "name": "scorecard_values_valid",
+      "passed": true,
+      "value": 0
+    },
+    {
+      "name": "bootstrap_scorecard_values_valid",
+      "passed": true,
+      "value": 0
+    },
+    {
+      "name": "direct_scorecard_totals_reconcile",
+      "passed": true,
+      "value": 0
+    },
+    {
+      "name": "scorecard_conflicts_ineligible",
+      "passed": true,
+      "value": 0
+    },
+    {
+      "name": "snapshot_keys_unique",
+      "passed": true,
+      "value": 0
+    },
+    {
+      "name": "raw_snapshots_not_direct_feature",
+      "passed": true,
+      "value": 0
+    }
+  ],
+  "contract": "MARKET-DATA-VALIDATION-1",
+  "failures": [],
+  "generated_utc": "2026-09-01T14:21:27.805242+00:00",
+  "historical_prop_rows": 1446875,
+  "history_rows": 7101288,
+  "live_prop_rows": 85476,
+  "live_rows": 790945,
+  "reference_rows": 134880,
+  "snapshot_rows": 3056,
+  "status": "PASS"
+}

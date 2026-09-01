@@ -1,0 +1,18 @@
+{
+  "contract": "LIVE-RAW-CERTIFICATION-1",
+  "status": "COMPLETE",
+  "generated_utc": "2026-08-24T15:56:41.345165+00:00",
+  "baseline_local_rows": 638673,
+  "baseline_feature_certifications": 247501,
+  "baseline_close_certifications": 68154,
+  "baseline_execution_certifications": 84680,
+  "final_remote_rows": 658533,
+  "final_remote_parquet_files": 71,
+  "final_raw_feature_certifications": 0,
+  "final_raw_close_certifications": 0,
+  "final_raw_execution_certifications": 0,
+  "final_post_cutoff_bad_rows": 0,
+  "final_post_cutoff_quarantined_rows": 42,
+  "resolution": "newer autonomous canonical refresh retained during rebase",
+  "whole_store_validation": "PASS"
+}

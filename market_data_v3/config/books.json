@@ -1,0 +1,32 @@
+{
+  "version": "BOOK-REGISTRY-1",
+  "default": {
+    "venue_type": "sportsbook",
+    "family": "unverified",
+    "capture_enabled": true,
+    "feature_eligible": false,
+    "close_eligible": false,
+    "execution_eligible": false,
+    "status": "unreviewed"
+  },
+  "books": {
+    "betonline": {"canonical_name": "BetOnline", "family": "betonline", "venue_type": "sportsbook", "capture_enabled": true, "feature_eligible": true, "close_eligible": true, "execution_eligible": true, "status": "primary_close_cell_qa"},
+    "pinnacle": {"canonical_name": "Pinnacle", "family": "pinnacle", "venue_type": "sportsbook", "capture_enabled": true, "feature_eligible": true, "close_eligible": true, "execution_eligible": false, "status": "primary_close_quarantine_tail"},
+    "circa": {"canonical_name": "Circa", "family": "circa", "venue_type": "sportsbook", "capture_enabled": true, "feature_eligible": true, "close_eligible": false, "execution_eligible": true, "status": "provisional_close_pending_battery"},
+    "bookmaker": {"canonical_name": "Bookmaker", "family": "bookmaker", "venue_type": "sportsbook", "capture_enabled": true, "feature_eligible": true, "close_eligible": false, "execution_eligible": true, "status": "provisional_close_pending_battery"},
+    "betcris": {"canonical_name": "BetCRIS", "family": "bookmaker", "venue_type": "sportsbook", "capture_enabled": false, "feature_eligible": false, "close_eligible": false, "execution_eligible": false, "status": "clone_excluded"},
+    "betdsi": {"canonical_name": "BetDSI", "family": "bookmaker", "venue_type": "sportsbook", "capture_enabled": false, "feature_eligible": false, "close_eligible": false, "execution_eligible": false, "status": "clone_excluded"},
+    "sportsbetting": {"canonical_name": "SportsBetting", "family": "clone_unverified_master", "venue_type": "sportsbook", "capture_enabled": false, "feature_eligible": false, "close_eligible": false, "execution_eligible": false, "status": "clone_excluded"},
+    "sportbet": {"canonical_name": "Sportbet", "family": "excluded", "venue_type": "sportsbook", "capture_enabled": false, "feature_eligible": false, "close_eligible": false, "execution_eligible": false, "status": "operator_excluded"},
+    "sportsbet": {"canonical_name": "Sportsbet", "family": "excluded", "venue_type": "sportsbook", "capture_enabled": false, "feature_eligible": false, "close_eligible": false, "execution_eligible": false, "status": "operator_excluded"},
+    "ohmbet": {"canonical_name": "Ohmbet", "family": "excluded", "venue_type": "sportsbook", "capture_enabled": false, "feature_eligible": false, "close_eligible": false, "execution_eligible": false, "status": "operator_excluded"},
+    "miseojeu": {"canonical_name": "MiseOJeu", "family": "excluded", "venue_type": "sportsbook", "capture_enabled": false, "feature_eligible": false, "close_eligible": false, "execution_eligible": false, "status": "permanently_inactive"},
+    "polymarket": {"canonical_name": "Polymarket", "family": "polymarket", "venue_type": "exchange", "capture_enabled": true, "feature_eligible": true, "close_eligible": false, "execution_eligible": false, "status": "prefight_feature_only"},
+    "kalshi": {"canonical_name": "Kalshi", "family": "kalshi", "venue_type": "exchange", "capture_enabled": true, "feature_eligible": true, "close_eligible": false, "execution_eligible": false, "status": "prefight_feature_only"},
+    "sxbet": {"canonical_name": "SXBet", "family": "sxbet", "venue_type": "exchange", "capture_enabled": true, "feature_eligible": true, "close_eligible": false, "execution_eligible": false, "status": "prefight_feature_only"},
+    "draftkings": {"canonical_name": "DraftKings", "family": "draftkings", "venue_type": "sportsbook", "capture_enabled": true, "feature_eligible": true, "close_eligible": false, "execution_eligible": true, "status": "retail_feature_orientation_qa"},
+    "fanduel": {"canonical_name": "FanDuel", "family": "fanduel", "venue_type": "sportsbook", "capture_enabled": true, "feature_eligible": true, "close_eligible": false, "execution_eligible": true, "status": "retail_feature_orientation_qa"},
+    "bovada": {"canonical_name": "Bovada", "family": "bovada", "venue_type": "sportsbook", "capture_enabled": true, "feature_eligible": true, "close_eligible": false, "execution_eligible": true, "status": "execution_feature"}
+  }
+}
+

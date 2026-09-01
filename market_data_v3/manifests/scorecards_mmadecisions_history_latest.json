@@ -1,0 +1,25 @@
+{
+  "cache_only": false,
+  "contract": "MMADECISIONS-DIRECT-HISTORY-1",
+  "direct_feature_use": false,
+  "failed_pages": 0,
+  "generated_utc": "2026-08-30T14:59:24.299008+00:00",
+  "global_requests_per_second": 2.0,
+  "max_pages": 100,
+  "output": "store/reference/source=mmadecisions/dataset=official_scorecards/data.parquet",
+  "output_sha256": "3f41e31f7b78478d58b48c0bc553493087d13da3fae6c4cbbe356b3980fc8b66",
+  "page_index": "reports/mmadecisions_page_index_latest.parquet",
+  "page_index_sha256": "e42394449ed178b460a69a5917e403af383b7a9ba56756f4d559cf66e75de891",
+  "page_ledger_failures": 1,
+  "page_ledger_pages": 1485,
+  "parsed_pages": 100,
+  "raw_cache": "build/mmadecisions_raw",
+  "requested_pages": 100,
+  "rows_added_or_refreshed": 960,
+  "total_direct_rows": 20477,
+  "workers": 4,
+  "year_range": [
+    1995,
+    2024
+  ]
+}

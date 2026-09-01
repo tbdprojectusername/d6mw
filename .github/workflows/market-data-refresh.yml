@@ -1,0 +1,70 @@
+name: market-data-refresh
+
+on:
+  schedule:
+    # Durable compaction. Live scoring uses market-live-update.yml and never
+    # waits for this job.
+    - cron: "35 */3 * * *"
+  workflow_dispatch: {}
+
+concurrency:
+  group: market-data-v3-writer
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: market_data_v3/requirements.txt
+
+      - name: Install isolated data dependencies
+        run: pip install -r market_data_v3/requirements.txt
+
+      - name: Fetch the public capture repository into runner staging
+        run: |
+          git clone --depth 1 https://github.com/tbdprojectusername/kx7v.git "$RUNNER_TEMP/capture"
+          echo "CAPTURE_SOURCE_REVISION=$(git -C "$RUNNER_TEMP/capture" rev-parse HEAD)" >> "$GITHUB_ENV"
+
+      - name: Canonicalize current capture
+        run: |
+          python -m market_data_v3.src.cli ingest-live --source-dir "$RUNNER_TEMP/capture/data"
+          python -m market_data_v3.src.cli validate
+
+      - name: Persist immutable partitions and audit state
+        run: |
+          git config user.name "market-data-bot"
+          git config user.email "actions@github.com"
+          git add market_data_v3/store market_data_v3/manifests market_data_v3/reports
+          if ! git diff --cached --quiet; then
+            git commit -m "market-data: refresh ${CAPTURE_SOURCE_REVISION:0:12}"
+            OK=0
+            for attempt in 1 2 3; do
+              git pull --rebase --autostash origin "${GITHUB_REF_NAME}" && \
+              git push origin "HEAD:${GITHUB_REF_NAME}" && OK=1 && break
+              echo "push attempt $attempt failed"; sleep 5
+            done
+            [ "$OK" -eq 1 ] || exit 1
+          fi
+
+      - name: Open a deduplicated incident on failure
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          KEY="market-data-v3-refresh-$(date -u +%Y-%m-%d)"
+          if ! gh issue list --state open --search "${KEY} in:body" --json body | grep -q "$KEY"; then
+            gh issue create \
+              --title "DATA INCIDENT: market-data-v3 refresh failed" \
+              --body "The autonomous canonical refresh failed. Inspect run ${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}.\n\nincident_key: ${KEY}"
+          fi

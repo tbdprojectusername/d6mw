@@ -1,0 +1,68 @@
+name: market-data-health
+
+on:
+  schedule:
+    # Expensive full-store validation/catalog rebuild. It audits the hot path;
+    # it does not gate live state or scoring.
+    - cron: "50 */3 * * *"
+  workflow_dispatch: {}
+
+concurrency:
+  group: market-data-v3-health
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  health:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: market_data_v3/requirements.txt
+
+      - run: pip install -r market_data_v3/requirements.txt
+
+      - name: Independent contract and reproducibility check
+        run: |
+          python -m unittest discover -s market_data_v3/tests -p "test_*.py"
+          python -m market_data_v3.src.cli validate
+          python -m market_data_v3.src.cli build-catalog
+          python -m market_data_v3.src.cli inventory
+
+      - name: Publish health summary
+        if: always()
+        run: |
+          if [ -f market_data_v3/reports/HEALTH_LATEST.md ]; then
+            cat market_data_v3/reports/HEALTH_LATEST.md >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      - name: Upload independent health artifact
+        if: success()
+        uses: actions/upload-artifact@v5
+        with:
+          name: market-data-health-${{ github.run_id }}
+          path: |
+            market_data_v3/build/canonical.duckdb
+            market_data_v3/reports/HEALTH_LATEST.md
+            market_data_v3/reports/health_latest.json
+          retention-days: 30
+
+      - name: Open a deduplicated health incident
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          KEY="market-data-v3-health-$(date -u +%Y-%m-%d)"
+          if ! gh issue list --state open --search "${KEY} in:body" --json body | grep -q "$KEY"; then
+            gh issue create \
+              --title "DATA INCIDENT: market-data-v3 health failed" \
+              --body "The independent daily health check failed. Inspect run ${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}.\n\nincident_key: ${KEY}"
+          fi

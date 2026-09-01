@@ -1,0 +1,125 @@
+{
+  "contract": "MARKET-DATA-REFERENCE-RAW-1",
+  "direct_feature_use": false,
+  "generated_utc": "2026-08-30T14:59:00.345969+00:00",
+  "outputs": [
+    {
+      "columns": [
+        "event",
+        "url",
+        "date",
+        "location"
+      ],
+      "output": "store/reference/source=greco_ufcstats/dataset=event_details/data.parquet",
+      "output_sha256": "9bb9771600690eefffeca86320d938d70f3f9617802267c20e5836cc95cfbc0f",
+      "rows": 786,
+      "source_file": "ufc_event_details.csv",
+      "source_file_bytes": 101847,
+      "source_file_sha256": "a4868035737ac681c68707abe28462a49ebf1ce99be4691d7de151d1d63ce78d",
+      "table": "event_details"
+    },
+    {
+      "columns": [
+        "event",
+        "bout",
+        "url"
+      ],
+      "output": "store/reference/source=greco_ufcstats/dataset=fight_details/data.parquet",
+      "output_sha256": "2ca66bb744161306229c419d594f9d49612b82234b7d20ab480562f214f52a49",
+      "rows": 8885,
+      "source_file": "ufc_fight_details.csv",
+      "source_file_bytes": 1034672,
+      "source_file_sha256": "78a3a2595c488363681c2e92f0d4b218c7eafa5767f502ed194a9a01a68d5ffa",
+      "table": "fight_details"
+    },
+    {
+      "columns": [
+        "event",
+        "bout",
+        "outcome",
+        "weightclass",
+        "method",
+        "round",
+        "time",
+        "time_format",
+        "referee",
+        "details",
+        "url"
+      ],
+      "output": "store/reference/source=greco_ufcstats/dataset=fight_results/data.parquet",
+      "output_sha256": "a0dc7600fc0f56c68607b9689659ccd461c2373643051ee1b3dc594925c80d86",
+      "rows": 8885,
+      "source_file": "ufc_fight_results.csv",
+      "source_file_bytes": 2086960,
+      "source_file_sha256": "54fef9899f43890d5a8560da06e1b38030d3dc502a4d7730eba12acf9e988cbe",
+      "table": "fight_results"
+    },
+    {
+      "columns": [
+        "event",
+        "bout",
+        "round",
+        "fighter",
+        "kd",
+        "sig_str",
+        "sig_str_pct",
+        "total_str",
+        "td",
+        "td_pct",
+        "sub_att",
+        "rev",
+        "ctrl",
+        "head",
+        "body",
+        "leg",
+        "distance",
+        "clinch",
+        "ground"
+      ],
+      "output": "store/reference/source=greco_ufcstats/dataset=fight_stats/data.parquet",
+      "output_sha256": "162e89b6b249b2befce0fe6b81a6f728bedb360d3114af6075361253906594e1",
+      "rows": 41774,
+      "source_file": "ufc_fight_stats.csv",
+      "source_file_bytes": 7600977,
+      "source_file_sha256": "7a5bad480d551efe1dcab19cda29a8f93de2c52e1a11b777c924d45908130ad8",
+      "table": "fight_stats"
+    },
+    {
+      "columns": [
+        "first",
+        "last",
+        "nickname",
+        "url"
+      ],
+      "output": "store/reference/source=greco_ufcstats/dataset=fighter_details/data.parquet",
+      "output_sha256": "d136eff830d6d76af7c59e54121bf608be2a37f21bfb8f26a16e5ec7a8ecdfa4",
+      "rows": 4613,
+      "source_file": "ufc_fighter_details.csv",
+      "source_file_bytes": 339260,
+      "source_file_sha256": "63caf63490598c91b336bcc6743a6450d59693991af8211d86969562e85e6fcb",
+      "table": "fighter_details"
+    },
+    {
+      "columns": [
+        "fighter",
+        "height",
+        "weight",
+        "reach",
+        "stance",
+        "dob",
+        "url"
+      ],
+      "output": "store/reference/source=greco_ufcstats/dataset=fighter_tott/data.parquet",
+      "output_sha256": "d01ae762edaa583af6e2f9a9c7fa7deda3ae51dfaa08cf0436ed78fd57cdb95b",
+      "rows": 4614,
+      "source_file": "ufc_fighter_tott.csv",
+      "source_file_bytes": 506890,
+      "source_file_sha256": "a00a9f5a6137068508e1e4693c9fb550010b768188eb53841481a7ef049c2ab6",
+      "table": "fighter_tott"
+    }
+  ],
+  "rows": 69557,
+  "source": "greco_ufcstats",
+  "source_directory": "/home/runner/work/_temp/ufcstats",
+  "source_revision": "69d21e225e74a4065177e2268d45fa8c93ea16fb"
+}

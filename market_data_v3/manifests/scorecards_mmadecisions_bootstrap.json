@@ -1,0 +1,23 @@
+{
+  "contract": "MMADECISIONS-UFC-BOOTSTRAP-1",
+  "direct_feature_use": false,
+  "event_date_max": "2024-10-19",
+  "event_date_min": "1996-02-16",
+  "generated_utc": "2026-08-24T15:13:20.523451+00:00",
+  "indexed_ufc_decisions": 3547,
+  "judge_round_rows": 28690,
+  "license_status": "no_license_file_observed_do_not_redistribute_upstream_raw",
+  "outputs": [
+    {
+      "path": "store/reference/source=mmadecisions_snapshot/dataset=ufc_judge_rounds/data.parquet",
+      "sha256": "3609a9fc7582a296aa65b465b4042bfb894e6fd869ac4ce7d6c651aaba0a8f0c"
+    },
+    {
+      "path": "store/reference/source=mmadecisions_snapshot/dataset=ufc_decision_index/data.parquet",
+      "sha256": "c230c59c50a31693a6583158d3aa4eaec6db9c0cf6188434f91f48bf7530d7ee"
+    }
+  ],
+  "scorecard_fights": 3120,
+  "source_repository": "https://github.com/ehan03/UFC-Judging-Analysis",
+  "source_revision": "93b1f4343761695a351a70b3e38ae44fd546964d"
+}

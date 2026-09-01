@@ -1,0 +1,647 @@
+{
+  "contract": "MARKET-DATA-INVENTORY-1",
+  "generated_utc": "2026-08-30T15:00:47.380539+00:00",
+  "historical_props_by_category": [
+    {
+      "category": "A_5",
+      "market_phase": "prematch_or_unknown",
+      "row_count": 251164,
+      "subcategory": "A_13"
+    },
+    {
+      "category": "A_5",
+      "market_phase": "prematch_or_unknown",
+      "row_count": 223269,
+      "subcategory": "A_14"
+    },
+    {
+      "category": "A_1",
+      "market_phase": "prematch_or_unknown",
+      "row_count": 174208,
+      "subcategory": "A_0"
+    },
+    {
+      "category": "A_4",
+      "market_phase": "prematch_or_unknown",
+      "row_count": 147174,
+      "subcategory": "A_1"
+    },
+    {
+      "category": null,
+      "market_phase": "prematch_or_unknown",
+      "row_count": 136375,
+      "subcategory": null
+    },
+    {
+      "category": "A_5",
+      "market_phase": "prematch_or_unknown",
+      "row_count": 112620,
+      "subcategory": "A_15"
+    },
+    {
+      "category": "A_4",
+      "market_phase": "prematch_or_unknown",
+      "row_count": 59103,
+      "subcategory": "A_2"
+    },
+    {
+      "category": "A_5",
+      "market_phase": "prematch_or_unknown",
+      "row_count": 56440,
+      "subcategory": "A_12"
+    },
+    {
+      "category": "A_4",
+      "market_phase": "prematch_or_unknown",
+      "row_count": 47716,
+      "subcategory": "A_3"
+    },
+    {
+      "category": "A_4",
+      "market_phase": "prematch_or_unknown",
+      "row_count": 30549,
+      "subcategory": "A_4"
+    },
+    {
+      "category": "A_7",
+      "market_phase": "prematch_or_unknown",
+      "row_count": 28866,
+      "subcategory": "A_26"
+    },
+    {
+      "category": "A_5",
+      "market_phase": "prematch_or_unknown",
+      "row_count": 25211,
+      "subcategory": "A_17"
+    },
+    {
+      "category": "A_4",
+      "market_phase": "prematch_or_unknown",
+      "row_count": 21457,
+      "subcategory": "A_5"
+    },
+    {
+      "category": "A_5",
+      "market_phase": "prematch_or_unknown",
+      "row_count": 20884,
+      "subcategory": "A_30"
+    },
+    {
+      "category": "A_5",
+      "market_phase": "prematch_or_unknown",
+      "row_count": 18573,
+      "subcategory": "A_32"
+    },
+    {
+      "category": "A_3",
+      "market_phase": "prematch_or_unknown",
+      "row_count": 17497,
+      "subcategory": "A_0"
+    },
+    {
+      "category": "A_8",
+      "market_phase": "prematch_or_unknown",
+      "row_count": 14356,
+      "subcategory": "A_0"
+    },
+    {
+      "category": "A_4",
+      "market_phase": "prematch_or_unknown",
+      "row_count": 11837,
+      "subcategory": "A_6"
+    },
+    {
+      "category": "A_4",
+      "market_phase": "prematch_or_unknown",
+      "row_count": 8041,
+      "subcategory": "A_7"
+    },
+    {
+      "category": "A_2",
+      "market_phase": "source_live_category_excluded",
+      "row_count": 7748,
+      "subcategory": "A_0"
+    },
+    {
+      "category": "A_5",
+      "market_phase": "prematch_or_unknown",
+      "row_count": 6890,
+      "subcategory": "A_31"
+    },
+    {
+      "category": "A_5",
+      "market_phase": "prematch_or_unknown",
+      "row_count": 6467,
+      "subcategory": "A_23"
+    },
+    {
+      "category": "A_5",
+      "market_phase": "prematch_or_unknown",
+      "row_count": 4188,
+      "subcategory": "A_18"
+    },
+    {
+      "category": "A_4",
+      "market_phase": "prematch_or_unknown",
+      "row_count": 2825,
+      "subcategory": "A_9"
+    },
+    {
+      "category": "A_4",
+      "market_phase": "prematch_or_unknown",
+      "row_count": 2636,
+      "subcategory": "A_33"
+    },
+    {
+      "category": "A_4",
+      "market_phase": "prematch_or_unknown",
+      "row_count": 2262,
+      "subcategory": "A_11"
+    },
+    {
+      "category": "A_5",
+      "market_phase": "prematch_or_unknown",
+      "row_count": 2224,
+      "subcategory": "A_19"
+    },
+    {
+      "category": "A_5",
+      "market_phase": "prematch_or_unknown",
+      "row_count": 1450,
+      "subcategory": "A_24"
+    },
+    {
+      "category": "A_7",
+      "market_phase": "prematch_or_unknown",
+      "row_count": 1362,
+      "subcategory": "A_27"
+    },
+    {
+      "category": "A_5",
+      "market_phase": "prematch_or_unknown",
+      "row_count": 1351,
+      "subcategory": "A_21"
+    },
+    {
+      "category": "A_4",
+      "market_phase": "prematch_or_unknown",
+      "row_count": 1169,
+      "subcategory": "A_28"
+    },
+    {
+      "category": "A_4",
+      "market_phase": "prematch_or_unknown",
+      "row_count": 653,
+      "subcategory": "A_25"
+    },
+    {
+      "category": "A_4",
+      "market_phase": "prematch_or_unknown",
+      "row_count": 290,
+      "subcategory": "A_22"
+    },
+    {
+      "category": "A_5",
+      "market_phase": "prematch_or_unknown",
+      "row_count": 20,
+      "subcategory": "A_16"
+    }
+  ],
+  "historical_props_by_year": [
+    {
+      "books": 7,
+      "event_year": 2015,
+      "fights": 503,
+      "market_type": "moneyline_summary",
+      "row_count": 6314
+    },
+    {
+      "books": 5,
+      "event_year": 2015,
+      "fights": 213,
+      "market_type": "prop",
+      "row_count": 12750
+    },
+    {
+      "books": 9,
+      "event_year": 2016,
+      "fights": 552,
+      "market_type": "moneyline_summary",
+      "row_count": 6998
+    },
+    {
+      "books": 7,
+      "event_year": 2016,
+      "fights": 565,
+      "market_type": "prop",
+      "row_count": 49850
+    },
+    {
+      "books": 10,
+      "event_year": 2017,
+      "fights": 522,
+      "market_type": "moneyline_summary",
+      "row_count": 9142
+    },
+    {
+      "books": 7,
+      "event_year": 2017,
+      "fights": 522,
+      "market_type": "prop",
+      "row_count": 64373
+    },
+    {
+      "books": 8,
+      "event_year": 2018,
+      "fights": 521,
+      "market_type": "moneyline_summary",
+      "row_count": 7460
+    },
+    {
+      "books": 7,
+      "event_year": 2018,
+      "fights": 502,
+      "market_type": "prop",
+      "row_count": 50281
+    },
+    {
+      "books": 9,
+      "event_year": 2019,
+      "fights": 596,
+      "market_type": "moneyline_summary",
+      "row_count": 9226
+    },
+    {
+      "books": 6,
+      "event_year": 2019,
+      "fights": 540,
+      "market_type": "prop",
+      "row_count": 48683
+    },
+    {
+      "books": 13,
+      "event_year": 2020,
+      "fights": 741,
+      "market_type": "moneyline_summary",
+      "row_count": 13420
+    },
+    {
+      "books": 9,
+      "event_year": 2020,
+      "fights": 551,
+      "market_type": "prop",
+      "row_count": 61038
+    },
+    {
+      "books": 16,
+      "event_year": 2021,
+      "fights": 687,
+      "market_type": "moneyline_summary",
+      "row_count": 18059
+    },
+    {
+      "books": 12,
+      "event_year": 2021,
+      "fights": 586,
+      "market_type": "prop",
+      "row_count": 120824
+    },
+    {
+      "books": 14,
+      "event_year": 2022,
+      "fights": 656,
+      "market_type": "moneyline_summary",
+      "row_count": 19549
+    },
+    {
+      "books": 10,
+      "event_year": 2022,
+      "fights": 567,
+      "market_type": "prop",
+      "row_count": 132280
+    },
+    {
+      "books": 15,
+      "event_year": 2023,
+      "fights": 650,
+      "market_type": "moneyline_summary",
+      "row_count": 18846
+    },
+    {
+      "books": 13,
+      "event_year": 2023,
+      "fights": 576,
+      "market_type": "prop",
+      "row_count": 177013
+    },
+    {
+      "books": 19,
+      "event_year": 2024,
+      "fights": 641,
+      "market_type": "moneyline_summary",
+      "row_count": 19092
+    },
+    {
+      "books": 13,
+      "event_year": 2024,
+      "fights": 560,
+      "market_type": "prop",
+      "row_count": 131345
+    },
+    {
+      "books": 24,
+      "event_year": 2025,
+      "fights": 609,
+      "market_type": "moneyline_summary",
+      "row_count": 25059
+    },
+    {
+      "books": 21,
+      "event_year": 2025,
+      "fights": 561,
+      "market_type": "prop",
+      "row_count": 183277
+    },
+    {
+      "books": 30,
+      "event_year": 2026,
+      "fights": 675,
+      "market_type": "moneyline_summary",
+      "row_count": 21043
+    },
+    {
+      "books": 27,
+      "event_year": 2026,
+      "fights": 442,
+      "market_type": "prop",
+      "row_count": 240953
+    }
+  ],
+  "history_book_policy_feature_rows": [
+    {
+      "book": "Bovada",
+      "row_count": 622069
+    },
+    {
+      "book": "BetOnline",
+      "row_count": 499658
+    },
+    {
+      "book": "Pinnacle",
+      "row_count": 482424
+    },
+    {
+      "book": "DraftKings",
+      "row_count": 274698
+    },
+    {
+      "book": "SXBet",
+      "row_count": 245369
+    },
+    {
+      "book": "Bookmaker",
+      "row_count": 173413
+    },
+    {
+      "book": "Polymarket",
+      "row_count": 90721
+    },
+    {
+      "book": "FanDuel",
+      "row_count": 81320
+    },
+    {
+      "book": "Circa",
+      "row_count": 22187
+    },
+    {
+      "book": "Kalshi",
+      "row_count": 20040
+    }
+  ],
+  "history_by_year": [
+    {
+      "books": 6,
+      "event_year": 2015,
+      "fights": 190,
+      "row_count": 203687
+    },
+    {
+      "books": 9,
+      "event_year": 2016,
+      "fights": 492,
+      "row_count": 334745
+    },
+    {
+      "books": 10,
+      "event_year": 2017,
+      "fights": 497,
+      "row_count": 261166
+    },
+    {
+      "books": 8,
+      "event_year": 2018,
+      "fights": 508,
+      "row_count": 342969
+    },
+    {
+      "books": 9,
+      "event_year": 2019,
+      "fights": 563,
+      "row_count": 375412
+    },
+    {
+      "books": 13,
+      "event_year": 2020,
+      "fights": 852,
+      "row_count": 293880
+    },
+    {
+      "books": 16,
+      "event_year": 2021,
+      "fights": 1705,
+      "row_count": 545539
+    },
+    {
+      "books": 14,
+      "event_year": 2022,
+      "fights": 2111,
+      "row_count": 578293
+    },
+    {
+      "books": 15,
+      "event_year": 2023,
+      "fights": 2448,
+      "row_count": 849987
+    },
+    {
+      "books": 19,
+      "event_year": 2024,
+      "fights": 2548,
+      "row_count": 1654141
+    },
+    {
+      "books": 23,
+      "event_year": 2025,
+      "fights": 2747,
+      "row_count": 952705
+    },
+    {
+      "books": 29,
+      "event_year": 2026,
+      "fights": 1985,
+      "row_count": 708764
+    }
+  ],
+  "history_record_status": [
+    {
+      "record_status": "invalid_price",
+      "row_count": 3
+    },
+    {
+      "record_status": "orientation_pending",
+      "row_count": 7101285
+    }
+  ],
+  "live_by_source": [
+    {
+      "first_observed": "2026-07-27T19:09:21.183156+00:00",
+      "last_observed": "2026-08-30T07:07:41.354900+00:00",
+      "record_status": "accepted",
+      "row_count": 602904,
+      "source": "bfo_live"
+    },
+    {
+      "first_observed": "2026-08-13T13:20:49.217295+00:00",
+      "last_observed": "2026-08-30T12:03:05.641939+00:00",
+      "record_status": "accepted",
+      "row_count": 87593,
+      "source": "fightodds_live"
+    },
+    {
+      "first_observed": "2026-08-17T20:03:19.217823+00:00",
+      "last_observed": "2026-08-29T22:38:44.808693+00:00",
+      "record_status": "quarantined",
+      "row_count": 302,
+      "source": "fightodds_live"
+    },
+    {
+      "first_observed": "2026-07-26T04:18:01.319120+00:00",
+      "last_observed": "2026-08-30T07:07:51.774160+00:00",
+      "record_status": "accepted",
+      "row_count": 80410,
+      "source": "pinnacle_live"
+    },
+    {
+      "first_observed": "2026-08-01T17:16:55.114156+00:00",
+      "last_observed": "2026-08-29T09:25:42.073255+00:00",
+      "record_status": "quarantined",
+      "row_count": 50,
+      "source": "pinnacle_live"
+    }
+  ],
+  "live_close_eligible_by_book": [],
+  "live_props_by_source": [
+    {
+      "first_observed": "2026-08-24T11:50:19.772414+00:00",
+      "last_observed": "2026-08-29T22:26:32.303373+00:00",
+      "record_status": "inactive_offer",
+      "row_count": 4163,
+      "source": "fightodds_live"
+    },
+    {
+      "first_observed": "2026-08-24T14:57:43.530128+00:00",
+      "last_observed": "2026-08-30T12:04:32.313163+00:00",
+      "record_status": "quarantined",
+      "row_count": 1527,
+      "source": "fightodds_live"
+    },
+    {
+      "first_observed": "2026-08-23T23:29:09.145038+00:00",
+      "last_observed": "2026-08-30T12:04:32.313163+00:00",
+      "record_status": "raw_unverified",
+      "row_count": 66878,
+      "source": "fightodds_live"
+    }
+  ],
+  "parquet_bytes": 291680168,
+  "parquet_files": 149,
+  "reference_by_table": [
+    {
+      "dataset": "event_details",
+      "row_count": 786,
+      "source": "greco_ufcstats"
+    },
+    {
+      "dataset": "fight_details",
+      "row_count": 8885,
+      "source": "greco_ufcstats"
+    },
+    {
+      "dataset": "fight_results",
+      "row_count": 8885,
+      "source": "greco_ufcstats"
+    },
+    {
+      "dataset": "fight_stats",
+      "row_count": 41774,
+      "source": "greco_ufcstats"
+    },
+    {
+      "dataset": "fighter_details",
+      "row_count": 4613,
+      "source": "greco_ufcstats"
+    },
+    {
+      "dataset": "fighter_tott",
+      "row_count": 4614,
+      "source": "greco_ufcstats"
+    },
+    {
+      "dataset": "official_scorecards",
+      "row_count": 20477,
+      "source": "mmadecisions"
+    },
+    {
+      "dataset": "ufc_scorecard_identity",
+      "row_count": 1621,
+      "source": "mmadecisions_reconciliation"
+    },
+    {
+      "dataset": "ufc_decision_index",
+      "row_count": 3547,
+      "source": "mmadecisions_snapshot"
+    },
+    {
+      "dataset": "ufc_judge_rounds",
+      "row_count": 28690,
+      "source": "mmadecisions_snapshot"
+    },
+    {
+      "dataset": "scorecards_ocr",
+      "row_count": 2251,
+      "source": "ufc_datalab"
+    },
+    {
+      "dataset": "stats_raw",
+      "row_count": 8737,
+      "source": "ufc_datalab"
+    }
+  ],
+  "snapshots_by_table": [
+    {
+      "dataset": "rankings",
+      "first_snapshot": "2026-08-23",
+      "last_snapshot": "2026-08-30",
+      "row_count": 1664,
+      "source": "octagon_api"
+    },
+    {
+      "dataset": "roster",
+      "first_snapshot": "2026-08-23",
+      "last_snapshot": "2026-08-30",
+      "row_count": 1392,
+      "source": "octagon_api"
+    }
+  ]
+}
