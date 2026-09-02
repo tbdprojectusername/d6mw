@@ -3,11 +3,11 @@
   "decisions_refreshed": 12,
   "direct_feature_use": false,
   "discovery_year": 2026,
-  "generated_utc": "2026-08-30T14:59:16.996809+00:00",
+  "generated_utc": "2026-09-02T14:44:33.081660+00:00",
   "global_requests_per_second": 4.0,
   "known_pages_refreshed": 12,
   "output": "store/reference/source=mmadecisions/dataset=official_scorecards/data.parquet",
-  "output_sha256": "e29fe1fdf419a5037e5802387188ca1c2349c0c501360d022122d22d5322ad8d",
+  "output_sha256": "15e8b61b7dbd9ef41f938c5261bb5bbb48f2dace8bad2a3579274c2fa2f5eb3a",
   "pages": [
     {
       "rows": 9,
@@ -16,22 +16,22 @@
     },
     {
       "rows": 15,
-      "sha256": "97ab642e8a2fdcffbc2aa1ec9947139031378a6c2051f6f346deb161defaebe2",
+      "sha256": "05e773bf870761b9063ed33301adb670ce3d43b77a35f6ed167ae8a31eb110f8",
       "url": "https://mmadecisions.com/decision/16299/Gregory-Rodrigues-vs-Anthony-Hernandez"
     },
     {
       "rows": 5,
-      "sha256": "482abe1027f94c8afd0ad27bd8941d61f02043b4e4113eb3a5cb113d84c92dc2",
+      "sha256": "b98ab16dd0d23a96cf3399d08bc6e45f5093f79af4961a6d7eb6fa8c6ac15a2a",
       "url": "https://mmadecisions.com/decision/16300/Gino-van-Steenis-vs-Robert-Watley"
     },
     {
       "rows": 5,
-      "sha256": "ddccbc9963bb44601e1bc299de5905101def87a1854b94f693f560699ae74ada",
+      "sha256": "ca73d534dd1fcb218c770e049d0dc968ab90b2c75512b4d2bf43bf6ba48fe9c2",
       "url": "https://mmadecisions.com/decision/16301/Natan-Schulte-vs-Makkasharip-Zaynukov"
     },
     {
       "rows": 3,
-      "sha256": "aa1ac6ac916e1b5fb755660fa8de0c02ad36bd6d5ce44d05c3503c81d6bff37b",
+      "sha256": "a73878b815fe314cfb0fafe8a3a710d435c76bf36430bae57b26960d14b979d9",
       "url": "https://mmadecisions.com/decision/16302/Dakota-Bush-vs-Morquez-Forest"
     },
     {
@@ -41,37 +41,37 @@
     },
     {
       "rows": 5,
-      "sha256": "90802e8fb19acc0a98cf9aa6338dcc19354601255a366745e91361711c0476c1",
+      "sha256": "435bd558e03d93389b3d948f8a6f3a3aba8b9d3ab345904709776c2c7eeaf072",
       "url": "https://mmadecisions.com/decision/16304/Nkosi-Ndebele-vs-Marcirley-Alves"
     },
     {
       "rows": 7,
-      "sha256": "2217094d1e37070029762cb2bc24de0d8913874dc80df3103d1f85daa2a75828",
+      "sha256": "620bd49ca49b3aa76c3d6377621eba02a7ff4cb08d65137a5e11556d7474e030",
       "url": "https://mmadecisions.com/decision/16305/Sabrinna-de-Sousa-vs-Taila-Santos"
     },
     {
       "rows": 3,
-      "sha256": "c22d9d4f86e91350f707934169e83c296601540cfacba8d2023a3ead55fd591c",
+      "sha256": "2865e72447e0294e979fe87d7c711b5633f75850a582c076b346401001f667f4",
       "url": "https://mmadecisions.com/decision/16306/Cristiane-Cyborg-vs-Ketlen-Vieira"
     },
     {
       "rows": 9,
-      "sha256": "db4cb81734164d19b71b9e905878748558f8268d461cbf108792f3bbfb94a6b7",
+      "sha256": "85b7859b628fbbe95a6663cf53ffcaf86c3810b686d2d830275cd120cd5d9ec2",
       "url": "https://mmadecisions.com/decision/16307/Cam-Nelson-vs-Meng-Ding"
     },
     {
       "rows": 9,
-      "sha256": "1bbc6d07ebd396f98596ef6108e8977c8ef752780fac0487d67b824783be3a81",
+      "sha256": "7772ba34582b10bb2e74b3afa10393767e1840402965d5e2c6feee63bb84c623",
       "url": "https://mmadecisions.com/decision/16311/Sean-Woodson-vs-Jack-Jenkins"
     },
     {
       "rows": 9,
-      "sha256": "bb392d99ba9b31fb13f2b1e126808f37eba17924570a4c768c77f256910a1764",
+      "sha256": "a3b0c501ddb30ee6aeca6f6ae975ebf267f05767adf601bcf3cd90772ef2b4b9",
       "url": "https://mmadecisions.com/decision/16316/Su-Mudaerji-vs-Alex-Perez"
     }
   ],
   "pages_refreshed": 12,
   "source_pacing_seconds": 0.25,
-  "total_rows": 19517,
+  "total_rows": 20477,
   "workers": 6
 }
