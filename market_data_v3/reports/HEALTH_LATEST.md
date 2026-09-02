@@ -2,16 +2,16 @@
 
 Status: **PASS**
 
-Live rows: 865,131
+Live rows: 870,935
 Historical rows: 7,101,288
 Historical prop outcomes: 1,446,875
-Live prop observations: 107,422
+Live prop observations: 109,035
 Reference rows: 135,929
 Snapshot rows: 3,438
 
 | Check | Result | Value |
 |---|---:|---:|
-| live_rows_positive | PASS | 865131 |
+| live_rows_positive | PASS | 870935 |
 | quote_keys_unique | PASS | 0 |
 | prices_valid | PASS | 0 |
 | decision_time_present | PASS | 0 |
