@@ -3,11 +3,11 @@
   "decisions_refreshed": 12,
   "direct_feature_use": false,
   "discovery_year": 2026,
-  "generated_utc": "2026-09-02T14:44:33.081660+00:00",
+  "generated_utc": "2026-09-03T14:44:43.261962+00:00",
   "global_requests_per_second": 4.0,
   "known_pages_refreshed": 12,
   "output": "store/reference/source=mmadecisions/dataset=official_scorecards/data.parquet",
-  "output_sha256": "15e8b61b7dbd9ef41f938c5261bb5bbb48f2dace8bad2a3579274c2fa2f5eb3a",
+  "output_sha256": "a8255d87e1743b952cc3b6c21a1817cb0dc177142814e09c6cd86c1bd5cc8b51",
   "pages": [
     {
       "rows": 9,
@@ -26,22 +26,22 @@
     },
     {
       "rows": 5,
-      "sha256": "ca73d534dd1fcb218c770e049d0dc968ab90b2c75512b4d2bf43bf6ba48fe9c2",
+      "sha256": "9fef74da451c2932bb3473dfc32e9ec6b8fe46f2ceeaa95b81d6686a29eb19e5",
       "url": "https://mmadecisions.com/decision/16301/Natan-Schulte-vs-Makkasharip-Zaynukov"
     },
     {
       "rows": 3,
-      "sha256": "a73878b815fe314cfb0fafe8a3a710d435c76bf36430bae57b26960d14b979d9",
+      "sha256": "e44c64e31c38f46459a15c9760719a7fb24f7c3e1bb559f0db74fa19bbbbff65",
       "url": "https://mmadecisions.com/decision/16302/Dakota-Bush-vs-Morquez-Forest"
     },
     {
       "rows": 3,
-      "sha256": "8df2bd25c8cc3b0c6cfaf32f8a262515005743cfb8cfeb17e6f8c3ebe0f46987",
+      "sha256": "e35e2425e9d1369631f8381c5dfd44e4b944541ef86db18cda053182841e2b2c",
       "url": "https://mmadecisions.com/decision/16303/Javid-Basharat-vs-Movsar-Ibragimov"
     },
     {
       "rows": 5,
-      "sha256": "435bd558e03d93389b3d948f8a6f3a3aba8b9d3ab345904709776c2c7eeaf072",
+      "sha256": "53631c9a3eb3fa24589177e054d7a93e4af4c1f4dd99d90da43f2d9ca5b7ba68",
       "url": "https://mmadecisions.com/decision/16304/Nkosi-Ndebele-vs-Marcirley-Alves"
     },
     {
@@ -66,12 +66,12 @@
     },
     {
       "rows": 9,
-      "sha256": "a3b0c501ddb30ee6aeca6f6ae975ebf267f05767adf601bcf3cd90772ef2b4b9",
+      "sha256": "7dc003c0baea1290be76ccc0c84c76b1a4bd7e8522e0f9d7bc35fab27715779d",
       "url": "https://mmadecisions.com/decision/16316/Su-Mudaerji-vs-Alex-Perez"
     }
   ],
   "pages_refreshed": 12,
   "source_pacing_seconds": 0.25,
-  "total_rows": 20477,
+  "total_rows": 21425,
   "workers": 6
 }
