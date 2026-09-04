@@ -3,11 +3,11 @@
   "decisions_refreshed": 12,
   "direct_feature_use": false,
   "discovery_year": 2026,
-  "generated_utc": "2026-09-03T14:44:43.261962+00:00",
+  "generated_utc": "2026-09-04T14:34:58.946060+00:00",
   "global_requests_per_second": 4.0,
   "known_pages_refreshed": 12,
   "output": "store/reference/source=mmadecisions/dataset=official_scorecards/data.parquet",
-  "output_sha256": "a8255d87e1743b952cc3b6c21a1817cb0dc177142814e09c6cd86c1bd5cc8b51",
+  "output_sha256": "c507df322d3dd23b7b3e395a8a958b70f1c82a38076fd8d1eb170a37e7cc900b",
   "pages": [
     {
       "rows": 9,
@@ -36,12 +36,12 @@
     },
     {
       "rows": 3,
-      "sha256": "e35e2425e9d1369631f8381c5dfd44e4b944541ef86db18cda053182841e2b2c",
+      "sha256": "b7ac18db6a8ef922be5aabb13426190b45d100f0541dc0c0933f00a9e918179c",
       "url": "https://mmadecisions.com/decision/16303/Javid-Basharat-vs-Movsar-Ibragimov"
     },
     {
       "rows": 5,
-      "sha256": "53631c9a3eb3fa24589177e054d7a93e4af4c1f4dd99d90da43f2d9ca5b7ba68",
+      "sha256": "90802e8fb19acc0a98cf9aa6338dcc19354601255a366745e91361711c0476c1",
       "url": "https://mmadecisions.com/decision/16304/Nkosi-Ndebele-vs-Marcirley-Alves"
     },
     {
@@ -61,7 +61,7 @@
     },
     {
       "rows": 9,
-      "sha256": "7772ba34582b10bb2e74b3afa10393767e1840402965d5e2c6feee63bb84c623",
+      "sha256": "681cd32771348c07f846b26d5b9dfcd08cc6687cc6064779a41ac57634e5f708",
       "url": "https://mmadecisions.com/decision/16311/Sean-Woodson-vs-Jack-Jenkins"
     },
     {
@@ -72,6 +72,6 @@
   ],
   "pages_refreshed": 12,
   "source_pacing_seconds": 0.25,
-  "total_rows": 21425,
+  "total_rows": 22355,
   "workers": 6
 }
