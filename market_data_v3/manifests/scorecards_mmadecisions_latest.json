@@ -3,11 +3,11 @@
   "decisions_refreshed": 12,
   "direct_feature_use": false,
   "discovery_year": 2026,
-  "generated_utc": "2026-09-04T14:34:58.946060+00:00",
+  "generated_utc": "2026-09-05T13:33:58.822099+00:00",
   "global_requests_per_second": 4.0,
   "known_pages_refreshed": 12,
   "output": "store/reference/source=mmadecisions/dataset=official_scorecards/data.parquet",
-  "output_sha256": "c507df322d3dd23b7b3e395a8a958b70f1c82a38076fd8d1eb170a37e7cc900b",
+  "output_sha256": "574ea5faf5296f8fe6a859382775fe67f12240a43e1124b2713e1e7bccf4e5a3",
   "pages": [
     {
       "rows": 9,
@@ -21,22 +21,22 @@
     },
     {
       "rows": 5,
-      "sha256": "b98ab16dd0d23a96cf3399d08bc6e45f5093f79af4961a6d7eb6fa8c6ac15a2a",
+      "sha256": "482abe1027f94c8afd0ad27bd8941d61f02043b4e4113eb3a5cb113d84c92dc2",
       "url": "https://mmadecisions.com/decision/16300/Gino-van-Steenis-vs-Robert-Watley"
     },
     {
       "rows": 5,
-      "sha256": "9fef74da451c2932bb3473dfc32e9ec6b8fe46f2ceeaa95b81d6686a29eb19e5",
+      "sha256": "ca73d534dd1fcb218c770e049d0dc968ab90b2c75512b4d2bf43bf6ba48fe9c2",
       "url": "https://mmadecisions.com/decision/16301/Natan-Schulte-vs-Makkasharip-Zaynukov"
     },
     {
       "rows": 3,
-      "sha256": "e44c64e31c38f46459a15c9760719a7fb24f7c3e1bb559f0db74fa19bbbbff65",
+      "sha256": "b12142eaa5025cae1b33bbafa307ad3224b279a0a2cb869ed209013e2cc53025",
       "url": "https://mmadecisions.com/decision/16302/Dakota-Bush-vs-Morquez-Forest"
     },
     {
       "rows": 3,
-      "sha256": "b7ac18db6a8ef922be5aabb13426190b45d100f0541dc0c0933f00a9e918179c",
+      "sha256": "89b5a6bf75ae3cc42f03559f6ee8945bf5af78649e6cfe03589d14b029c26df3",
       "url": "https://mmadecisions.com/decision/16303/Javid-Basharat-vs-Movsar-Ibragimov"
     },
     {
@@ -46,12 +46,12 @@
     },
     {
       "rows": 7,
-      "sha256": "620bd49ca49b3aa76c3d6377621eba02a7ff4cb08d65137a5e11556d7474e030",
+      "sha256": "2217094d1e37070029762cb2bc24de0d8913874dc80df3103d1f85daa2a75828",
       "url": "https://mmadecisions.com/decision/16305/Sabrinna-de-Sousa-vs-Taila-Santos"
     },
     {
       "rows": 3,
-      "sha256": "2865e72447e0294e979fe87d7c711b5633f75850a582c076b346401001f667f4",
+      "sha256": "d8ec092170a729cdacd0f78c0b04722a34f6f1d86bfc635b0304a6ec5f7605c9",
       "url": "https://mmadecisions.com/decision/16306/Cristiane-Cyborg-vs-Ketlen-Vieira"
     },
     {
@@ -66,12 +66,12 @@
     },
     {
       "rows": 9,
-      "sha256": "7dc003c0baea1290be76ccc0c84c76b1a4bd7e8522e0f9d7bc35fab27715779d",
+      "sha256": "58aaba8ad89b21b4ab79a25581df579e446f95bfc29ba0e1f424e1ec8c2a0d6b",
       "url": "https://mmadecisions.com/decision/16316/Su-Mudaerji-vs-Alex-Perez"
     }
   ],
   "pages_refreshed": 12,
   "source_pacing_seconds": 0.25,
-  "total_rows": 22355,
+  "total_rows": 23261,
   "workers": 6
 }
