@@ -3,42 +3,12 @@
   "decisions_refreshed": 12,
   "direct_feature_use": false,
   "discovery_year": 2026,
-  "generated_utc": "2026-09-05T13:33:58.822099+00:00",
+  "generated_utc": "2026-09-06T13:49:24.201501+00:00",
   "global_requests_per_second": 4.0,
   "known_pages_refreshed": 12,
   "output": "store/reference/source=mmadecisions/dataset=official_scorecards/data.parquet",
-  "output_sha256": "574ea5faf5296f8fe6a859382775fe67f12240a43e1124b2713e1e7bccf4e5a3",
+  "output_sha256": "45596a34947bf9b12116e65cb0221d69e055d2b6f31ec72b9a66bc0967627449",
   "pages": [
-    {
-      "rows": 9,
-      "sha256": "f485d57d6e638781faeb0359b3ac46a4f3c1cd3693365a2e1f227ca1089f983f",
-      "url": "https://mmadecisions.com/decision/16298/Vitor-Petrino-vs-Sergey-Spivac"
-    },
-    {
-      "rows": 15,
-      "sha256": "05e773bf870761b9063ed33301adb670ce3d43b77a35f6ed167ae8a31eb110f8",
-      "url": "https://mmadecisions.com/decision/16299/Gregory-Rodrigues-vs-Anthony-Hernandez"
-    },
-    {
-      "rows": 5,
-      "sha256": "482abe1027f94c8afd0ad27bd8941d61f02043b4e4113eb3a5cb113d84c92dc2",
-      "url": "https://mmadecisions.com/decision/16300/Gino-van-Steenis-vs-Robert-Watley"
-    },
-    {
-      "rows": 5,
-      "sha256": "ca73d534dd1fcb218c770e049d0dc968ab90b2c75512b4d2bf43bf6ba48fe9c2",
-      "url": "https://mmadecisions.com/decision/16301/Natan-Schulte-vs-Makkasharip-Zaynukov"
-    },
-    {
-      "rows": 3,
-      "sha256": "b12142eaa5025cae1b33bbafa307ad3224b279a0a2cb869ed209013e2cc53025",
-      "url": "https://mmadecisions.com/decision/16302/Dakota-Bush-vs-Morquez-Forest"
-    },
-    {
-      "rows": 3,
-      "sha256": "89b5a6bf75ae3cc42f03559f6ee8945bf5af78649e6cfe03589d14b029c26df3",
-      "url": "https://mmadecisions.com/decision/16303/Javid-Basharat-vs-Movsar-Ibragimov"
-    },
     {
       "rows": 5,
       "sha256": "90802e8fb19acc0a98cf9aa6338dcc19354601255a366745e91361711c0476c1",
@@ -46,12 +16,12 @@
     },
     {
       "rows": 7,
-      "sha256": "2217094d1e37070029762cb2bc24de0d8913874dc80df3103d1f85daa2a75828",
+      "sha256": "9b08d37e76e7190bf586cd339ccb6ae81f93aac6e49307c13833698b3e24a77e",
       "url": "https://mmadecisions.com/decision/16305/Sabrinna-de-Sousa-vs-Taila-Santos"
     },
     {
       "rows": 3,
-      "sha256": "d8ec092170a729cdacd0f78c0b04722a34f6f1d86bfc635b0304a6ec5f7605c9",
+      "sha256": "c22d9d4f86e91350f707934169e83c296601540cfacba8d2023a3ead55fd591c",
       "url": "https://mmadecisions.com/decision/16306/Cristiane-Cyborg-vs-Ketlen-Vieira"
     },
     {
@@ -61,17 +31,47 @@
     },
     {
       "rows": 9,
-      "sha256": "681cd32771348c07f846b26d5b9dfcd08cc6687cc6064779a41ac57634e5f708",
+      "sha256": "8ba1486ecdb7d79a6a25c8132317f982501b46230da4ad77ea2a2b0b2f4fb155",
       "url": "https://mmadecisions.com/decision/16311/Sean-Woodson-vs-Jack-Jenkins"
     },
     {
       "rows": 9,
       "sha256": "58aaba8ad89b21b4ab79a25581df579e446f95bfc29ba0e1f424e1ec8c2a0d6b",
       "url": "https://mmadecisions.com/decision/16316/Su-Mudaerji-vs-Alex-Perez"
+    },
+    {
+      "rows": 9,
+      "sha256": "10ae4460daaa19cf67e144f1eae06353be00da6a8a565d04e8f5a949e42f2300",
+      "url": "https://mmadecisions.com/decision/16322/Nora-Cornolle-vs-Klaudia-Sygula"
+    },
+    {
+      "rows": 9,
+      "sha256": "e1cabf53e9ac97c4530b9e44b55969d42108abee8fcd9a79c2039d735ca82769",
+      "url": "https://mmadecisions.com/decision/16323/Fabia-Sintes-vs-Michael-Aljarouj"
+    },
+    {
+      "rows": 9,
+      "sha256": "6244897828380406893a8c285385b22d83f82edd68a81456d4e60c304f8b8993",
+      "url": "https://mmadecisions.com/decision/16324/Pavel-Andrusca-vs-Nathaniel-Wood"
+    },
+    {
+      "rows": 9,
+      "sha256": "bcd04d27c5d3662d76c9ef597597284ced36ce630a31c7ffe459ee8e2c2cf358",
+      "url": "https://mmadecisions.com/decision/16327/Felipe-Lima-vs-Morgan-Charriere"
+    },
+    {
+      "rows": 9,
+      "sha256": "deb13df736ae3256bfacfab81a6c0e84418e87d0a32e8c47fe25d0c2e43d9a5a",
+      "url": "https://mmadecisions.com/decision/16330/Daniil-Donchenko-vs-Punahele-Soriano"
+    },
+    {
+      "rows": 9,
+      "sha256": "27b8629611ffb667a2afb43a42399c815af3cc8fadda426bf1633c501e07b39f",
+      "url": "https://mmadecisions.com/decision/16331/Michael-Page-vs-Nursulton-Ruziboev"
     }
   ],
   "pages_refreshed": 12,
   "source_pacing_seconds": 0.25,
-  "total_rows": 23261,
+  "total_rows": 24227,
   "workers": 6
 }
