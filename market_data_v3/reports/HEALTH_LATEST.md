@@ -6,8 +6,8 @@ Live rows: 1,217,917
 Historical rows: 7,101,288
 Historical prop outcomes: 1,446,875
 Live prop observations: 204,326
-Reference rows: 139,909
-Snapshot rows: 4,966
+Reference rows: 141,011
+Snapshot rows: 5,348
 
 | Check | Result | Value |
 |---|---:|---:|
