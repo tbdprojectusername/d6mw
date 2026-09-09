@@ -3,15 +3,15 @@
   "decisions_refreshed": 12,
   "direct_feature_use": false,
   "discovery_year": 2026,
-  "generated_utc": "2026-09-08T14:47:58.749772+00:00",
+  "generated_utc": "2026-09-09T14:49:27.391582+00:00",
   "global_requests_per_second": 4.0,
   "known_pages_refreshed": 12,
   "output": "store/reference/source=mmadecisions/dataset=official_scorecards/data.parquet",
-  "output_sha256": "caaef3cf029e553084e7836e850266771fa8575319fa894342b36ed816e68a17",
+  "output_sha256": "58c42bd116462c45a5c65f0939149097ab71c17c6148c3a35efcedde898c9e8d",
   "pages": [
     {
       "rows": 5,
-      "sha256": "53631c9a3eb3fa24589177e054d7a93e4af4c1f4dd99d90da43f2d9ca5b7ba68",
+      "sha256": "90802e8fb19acc0a98cf9aa6338dcc19354601255a366745e91361711c0476c1",
       "url": "https://mmadecisions.com/decision/16304/Nkosi-Ndebele-vs-Marcirley-Alves"
     },
     {
@@ -21,7 +21,7 @@
     },
     {
       "rows": 3,
-      "sha256": "5fd7cb213ad4eeaff2ff487257a3eeee3745e01cf3d496560c416c48616e726b",
+      "sha256": "6b9b03684e38d3239b50453645783949e5d355850f017e69f02c244e74304fc3",
       "url": "https://mmadecisions.com/decision/16306/Cristiane-Cyborg-vs-Ketlen-Vieira"
     },
     {
@@ -36,42 +36,42 @@
     },
     {
       "rows": 9,
-      "sha256": "58aaba8ad89b21b4ab79a25581df579e446f95bfc29ba0e1f424e1ec8c2a0d6b",
+      "sha256": "169235d20d07bb4d384448df97348d219739d43259bb37f5c047ba4195d4aba7",
       "url": "https://mmadecisions.com/decision/16316/Su-Mudaerji-vs-Alex-Perez"
     },
     {
       "rows": 9,
-      "sha256": "9d3672f11c273defaa9441e3f13ebbe4920b07b01f573d064278632d561abd9c",
+      "sha256": "3423b63013cd3b8232eb8b037705dd0b3e01513d31171443e4355406c17e108e",
       "url": "https://mmadecisions.com/decision/16322/Nora-Cornolle-vs-Klaudia-Sygula"
     },
     {
       "rows": 9,
-      "sha256": "d645ce205c36932592f11365bdd31dd604c9418177b734d1ba5508d0620b89a0",
+      "sha256": "c05df8593923278aaf94045ad80b7699b38ba9b7ac81a7be23d79380c633cf43",
       "url": "https://mmadecisions.com/decision/16323/Fabia-Sintes-vs-Michael-Aljarouj"
     },
     {
       "rows": 9,
-      "sha256": "2d72e34fb929bbaaceb229f32c6f7695bae067c97e013fd298ad7e288c7905cb",
+      "sha256": "90197f3cffcafc3f77dad0bc53b021e64e7ece1c8719b54a00f819b414f5ea26",
       "url": "https://mmadecisions.com/decision/16324/Pavel-Andrusca-vs-Nathaniel-Wood"
     },
     {
       "rows": 9,
-      "sha256": "713609337b8796a191a6593daa7569637f651dfc33534a8749272c4ad4ed496a",
+      "sha256": "a1e94d4d19f4e29ead84bf2daf77de0d5fdecfd047741c690269a8db026b99f4",
       "url": "https://mmadecisions.com/decision/16327/Felipe-Lima-vs-Morgan-Charriere"
     },
     {
       "rows": 9,
-      "sha256": "0c928000272956de21b5e9a2d5934f9d62e10814754c95f5e458dca9439124e0",
+      "sha256": "54d31855f4ce678eafe312d96531e32ad432f0d826162d0409e8cc30cc20520c",
       "url": "https://mmadecisions.com/decision/16330/Daniil-Donchenko-vs-Punahele-Soriano"
     },
     {
       "rows": 9,
-      "sha256": "2b53cbd950c1d26c0116c65aab96c0077d3c2e85b0ddcf8bd04b22bd820ab5bf",
+      "sha256": "a2d6798ac0ec2128a69b2bb19965924ac242748ad3a0eba1447ce0c9e011b541",
       "url": "https://mmadecisions.com/decision/16331/Michael-Page-vs-Nursulton-Ruziboev"
     }
   ],
   "pages_refreshed": 12,
   "source_pacing_seconds": 0.25,
-  "total_rows": 25938,
+  "total_rows": 26778,
   "workers": 6
 }
