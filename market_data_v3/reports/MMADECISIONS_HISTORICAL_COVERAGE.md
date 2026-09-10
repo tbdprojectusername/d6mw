@@ -1,11 +1,11 @@
 # Historical UFC judging coverage
 
-Generated: 2026-09-09T14:50:48.041044+00:00
+Generated: 2026-09-10T14:42:06.313980+00:00
 
 - Indexed UFC decisions: 3,547
 - Bootstrap fights with valid judge-round scores: 3,120
-- Directly re-parsed and reconciled fights: 2,375
-- Directly verified complete three-judge cards: 2,230
+- Directly re-parsed and reconciled fights: 2,470
+- Directly verified complete three-judge cards: 2,321
 - Official rows with a separate deduction-neutral value: 164
 - Quarantined direct/snapshot conflicts: 0
 - No model fit was performed. Rows dated 2023 onward remain validation-only.
@@ -32,8 +32,8 @@ Generated: 2026-09-09T14:50:48.041044+00:00
 | 2013 | 178 | 165 | 92.70% | 161 | 154 | 0 |
 | 2014 | 244 | 235 | 96.31% | 0 | 0 | 0 |
 | 2015 | 223 | 218 | 97.76% | 0 | 0 | 0 |
-| 2016 | 247 | 225 | 91.09% | 0 | 0 | 0 |
-| 2017 | 225 | 210 | 93.33% | 147 | 141 | 0 |
+| 2016 | 247 | 225 | 91.09% | 32 | 31 | 0 |
+| 2017 | 225 | 210 | 93.33% | 210 | 201 | 0 |
 | 2018 | 230 | 212 | 92.17% | 212 | 192 | 0 |
 | 2019 | 277 | 265 | 95.67% | 265 | 258 | 0 |
 | 2020 | 227 | 224 | 98.68% | 224 | 224 | 0 |
