@@ -3,25 +3,25 @@
   "decisions_refreshed": 12,
   "direct_feature_use": false,
   "discovery_year": 2026,
-  "generated_utc": "2026-09-11T14:39:09.331745+00:00",
+  "generated_utc": "2026-09-12T13:46:37.429141+00:00",
   "global_requests_per_second": 4.0,
   "known_pages_refreshed": 12,
   "output": "store/reference/source=mmadecisions/dataset=official_scorecards/data.parquet",
-  "output_sha256": "8acd4beb8d58fdde3e243b19e6ddd5f42c1790eb9e0a112e48f9a8c761de9f63",
+  "output_sha256": "2e4f71be155f55f63ffb201dcc4e85eb0cd087cd3b1d8d87e93209aca28b5322",
   "pages": [
     {
       "rows": 5,
-      "sha256": "90802e8fb19acc0a98cf9aa6338dcc19354601255a366745e91361711c0476c1",
+      "sha256": "1a8f4aae905ec1fb3b558f16073604e38d694400e70fa2f34d20746cf76a673e",
       "url": "https://mmadecisions.com/decision/16304/Nkosi-Ndebele-vs-Marcirley-Alves"
     },
     {
       "rows": 7,
-      "sha256": "620bd49ca49b3aa76c3d6377621eba02a7ff4cb08d65137a5e11556d7474e030",
+      "sha256": "2217094d1e37070029762cb2bc24de0d8913874dc80df3103d1f85daa2a75828",
       "url": "https://mmadecisions.com/decision/16305/Sabrinna-de-Sousa-vs-Taila-Santos"
     },
     {
       "rows": 3,
-      "sha256": "8dc2647af709886e9d7f3c0c84a798f5bbf1b8e7f05dd0c32de750c784cb450e",
+      "sha256": "3cf69353229f00c1e51adf8b0283353ee05bebd6e49cd1d1ef999d3fb3183718",
       "url": "https://mmadecisions.com/decision/16306/Cristiane-Cyborg-vs-Ketlen-Vieira"
     },
     {
@@ -36,7 +36,7 @@
     },
     {
       "rows": 9,
-      "sha256": "58aaba8ad89b21b4ab79a25581df579e446f95bfc29ba0e1f424e1ec8c2a0d6b",
+      "sha256": "169235d20d07bb4d384448df97348d219739d43259bb37f5c047ba4195d4aba7",
       "url": "https://mmadecisions.com/decision/16316/Su-Mudaerji-vs-Alex-Perez"
     },
     {
@@ -56,22 +56,22 @@
     },
     {
       "rows": 9,
-      "sha256": "db501d64d5e1e9782f5fb2b92b0ad9ef99f4519825f4c985e9a4b99a567f1dd6",
+      "sha256": "5fc0764da39a3a4735e521e8ac5b1d6312a95da383aa2cc81effb3ce4109d436",
       "url": "https://mmadecisions.com/decision/16327/Felipe-Lima-vs-Morgan-Charriere"
     },
     {
       "rows": 9,
-      "sha256": "9e303ff0ffba6ce2734b5b6f2f98ef19e59696794bf7776300ace92696878abc",
+      "sha256": "35f730b8d66abeaaa448f0885dc6556f050e8c76b264d6d000f5867f67073576",
       "url": "https://mmadecisions.com/decision/16330/Daniil-Donchenko-vs-Punahele-Soriano"
     },
     {
       "rows": 9,
-      "sha256": "f1d7ec9b5b97c3c0a996bf57bc8564028328b7e986f0a129351399a0abc8a391",
+      "sha256": "bf2f566f675e31d6340b04da3886af9e77d893c3e22b93d1a3d9d73ecbe9d6d1",
       "url": "https://mmadecisions.com/decision/16331/Michael-Page-vs-Nursulton-Ruziboev"
     }
   ],
   "pages_refreshed": 12,
   "source_pacing_seconds": 0.25,
-  "total_rows": 28546,
+  "total_rows": 29424,
   "workers": 6
 }
