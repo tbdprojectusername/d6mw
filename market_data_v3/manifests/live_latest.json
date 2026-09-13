@@ -1,8 +1,8 @@
 {
-  "accepted_rows": 1616717,
+  "accepted_rows": 1632135,
   "book_registry_version": "BOOK-REGISTRY-1",
   "contract": "MARKET-DATA-LIVE-1",
-  "generated_utc": "2026-09-12T23:21:36.096277+00:00",
+  "generated_utc": "2026-09-13T05:18:31.035803+00:00",
   "input_files": [
     {
       "bytes": 12781529,
@@ -41,10 +41,10 @@
       "sha256": "9b44c5744a01128e8fda02edfac2036378a9b4054422afdf24b08f2f0b9d7ed7"
     },
     {
-      "bytes": 77597994,
+      "bytes": 79186155,
       "kind": "bfo",
       "name": "bfo_2026-09.csv",
-      "sha256": "2e8057a76584ef7e60f2c3d93266fb1f22602a32a8f79664b17587bb3de324fc"
+      "sha256": "6624541966427a0d10dbea8036d394e8452fa743254db40967b1059af0eed2bc"
     },
     {
       "bytes": 753946,
@@ -59,10 +59,10 @@
       "sha256": "6e46e05e71fef7ebcf5e20a2ffa2a007734fe990acf523db2e1acb425e8e1006"
     },
     {
-      "bytes": 23754670,
+      "bytes": 23999584,
       "kind": "pinnacle",
       "name": "pinnacle_2026-09.csv",
-      "sha256": "e8107527cf0fc0dc3e4601205579681317d21c346426ce9af53e311b67a96869"
+      "sha256": "fe3a4dd35003ebd3038323de285109f65a010d0f45d2e42cad2af49f57c19c14"
     }
   ],
   "outputs": [
@@ -175,46 +175,46 @@
       "sha256": "ce23ee67b02218b3e60ae71a955fe9423262abfc5750067d8f9495d1c6e9c5df"
     },
     {
-      "changed": false,
+      "changed": true,
       "path": "store/live_quotes/source=bfo_live/observed_date=2026-08-14/quotes.parquet",
       "rows": 31792,
-      "sha256": "dbd8e360880ea400f9fc37695d64931464e02a071f424fa19bf0bca32e0a9ab4"
+      "sha256": "536d9f9f08dc17daf11df75951aa951c0039d9ec01bb68cd146dfce8bd8d85d7"
     },
     {
-      "changed": false,
+      "changed": true,
       "path": "store/live_quotes/source=bfo_live/observed_date=2026-08-15/quotes.parquet",
       "rows": 49160,
-      "sha256": "d81dc531075622bed0608156f671812484db8be93b73d3c34499822d94a02fad"
+      "sha256": "007159b8fbc5c9290b4817537c0f1459e762aa090aef73e8446ede3e9cf72026"
     },
     {
-      "changed": false,
+      "changed": true,
       "path": "store/live_quotes/source=bfo_live/observed_date=2026-08-16/quotes.parquet",
       "rows": 41054,
-      "sha256": "4d8d346b5a3b1a775d2a5aa541bc70746623a6e841ca01ca68ed584cd21549dc"
+      "sha256": "195d714f67d83935cd1498c64f41b250e030eeb2a29c5140b49a217bb65d3ff7"
     },
     {
-      "changed": false,
+      "changed": true,
       "path": "store/live_quotes/source=bfo_live/observed_date=2026-08-17/quotes.parquet",
       "rows": 26810,
-      "sha256": "5820dc5bb5b8431957ca90c006e3c65ba8801c88a53880f324f6dca4d608537b"
+      "sha256": "bcd68409004e683135311a25b58c2fd61e87a7e4fb967cbb09c04f2d50045d1c"
     },
     {
-      "changed": false,
+      "changed": true,
       "path": "store/live_quotes/source=bfo_live/observed_date=2026-08-18/quotes.parquet",
       "rows": 24836,
-      "sha256": "76cb348111ae48022fb60077daa4a29b31320bf2e66fd16f98d37487777f0d6b"
+      "sha256": "8b77f223576484a895b1b2cae413f616aa8ac644d53e94075bad52b05e980ecd"
     },
     {
-      "changed": false,
+      "changed": true,
       "path": "store/live_quotes/source=bfo_live/observed_date=2026-08-19/quotes.parquet",
       "rows": 25082,
-      "sha256": "300672db5a2804782ac5c03ad0ad2fd46f4e090a02f16279fa881a10e32c3f36"
+      "sha256": "036ffc4658c83df397b03bc4da746f461cde2523e0ef8fdab0459b7a8fc559b7"
     },
     {
-      "changed": false,
+      "changed": true,
       "path": "store/live_quotes/source=bfo_live/observed_date=2026-08-20/quotes.parquet",
       "rows": 24412,
-      "sha256": "79ed71b1cea11d2166a7c22982fdaf477cb5bfa020a8df6cedbfcccd71bde8ed"
+      "sha256": "eee6929c0a8fe3e29320bfdd13052f8d85ab68cd77b9df04256a00b427076f38"
     },
     {
       "changed": false,
@@ -283,76 +283,82 @@
       "sha256": "0cf388a40be1457f03cee8d7c20c5dad6cae026231946fc63147489ae0d5d1f4"
     },
     {
-      "changed": false,
+      "changed": true,
       "path": "store/live_quotes/source=bfo_live/observed_date=2026-09-01/quotes.parquet",
       "rows": 19176,
-      "sha256": "ac658049d9e1d7269f0bd3a3928805f02ec74c9c8b535e8e4df052ca69eaa2b0"
+      "sha256": "a4a0433b11250804f1248bd3781445f5a67992dca7c0ecc93c8c699546f72019"
     },
     {
-      "changed": false,
+      "changed": true,
       "path": "store/live_quotes/source=bfo_live/observed_date=2026-09-02/quotes.parquet",
       "rows": 50520,
-      "sha256": "ebfc0d91d210cea3996b27403875c37da20647ea80c9e08c6686d707d07823ab"
+      "sha256": "cb6083e1d3a550ca79790a31d745e10f886ee227124c1a5eea16b3e91b0b42ab"
     },
     {
-      "changed": false,
+      "changed": true,
       "path": "store/live_quotes/source=bfo_live/observed_date=2026-09-03/quotes.parquet",
       "rows": 54792,
-      "sha256": "74c856ae15604ef12250c4da7a4c230d9428cb2febc6fea3fd1a2d204e6d5a22"
+      "sha256": "f05ca55533fac82da71a695fb63cdffca68e5de3a1ac0d811c2979ecb8110b39"
     },
     {
-      "changed": false,
+      "changed": true,
       "path": "store/live_quotes/source=bfo_live/observed_date=2026-09-04/quotes.parquet",
       "rows": 65916,
-      "sha256": "c1f99c7c1874ab3d4a2723520e94226d52ff45860cc4a71c49636f777939245c"
+      "sha256": "e22c41a0fc420b09ef66a0b2729f15d660e1c78ecb63b871753d91e29f7215fb"
     },
     {
-      "changed": false,
+      "changed": true,
       "path": "store/live_quotes/source=bfo_live/observed_date=2026-09-05/quotes.parquet",
       "rows": 68842,
-      "sha256": "d6c2d14c883bd38f67528a03220b7546d334e31cd553fced3ee3fc5cc59b5291"
+      "sha256": "83aecb93cce2aa030abb141aeff96d796429e4210ca769314a2feee16c59bca7"
     },
     {
-      "changed": false,
+      "changed": true,
       "path": "store/live_quotes/source=bfo_live/observed_date=2026-09-06/quotes.parquet",
       "rows": 62374,
-      "sha256": "0d560f6b932b4a5ee10403d9f6f494f61ce38d7831baf74f4ee2ed2cc2087ebb"
+      "sha256": "4f0c08dff90cef1b3033eb11f960250ce980220be4654fb945ab0f9d724b0492"
     },
     {
-      "changed": false,
+      "changed": true,
       "path": "store/live_quotes/source=bfo_live/observed_date=2026-09-07/quotes.parquet",
       "rows": 58134,
-      "sha256": "5aad93c3a2f7a2c87bda8ed7890d47c780fa935d3898aab007ce367427659a5f"
+      "sha256": "9b634270a1826742ab9e387958ddb22c46adf9e40cdfbfbef89ca7573df157bb"
     },
     {
-      "changed": false,
+      "changed": true,
       "path": "store/live_quotes/source=bfo_live/observed_date=2026-09-08/quotes.parquet",
       "rows": 57470,
-      "sha256": "cbe9f87119e6a3094aca3a2cad0c8dcdee688416b3fdd4206be767f3eea9e5d2"
+      "sha256": "91cf12678dad60b8652868625d1c47f655cc6394f3923a922411957d51645d75"
     },
     {
-      "changed": false,
+      "changed": true,
       "path": "store/live_quotes/source=bfo_live/observed_date=2026-09-09/quotes.parquet",
       "rows": 62066,
-      "sha256": "05227e103d37ff23b99af944d4b9d08626b2ccb5987df7d885c511e0534d14d2"
+      "sha256": "4cc322e472415171d34d0dfe6b6374e38a5d6b9868cf5294e452ba997a1dda3a"
     },
     {
-      "changed": false,
+      "changed": true,
       "path": "store/live_quotes/source=bfo_live/observed_date=2026-09-10/quotes.parquet",
       "rows": 63388,
-      "sha256": "f8f6b25b90c55ea79647b0a874f42a6cd1dfd985a87a9fb42ded695fa9eccc05"
+      "sha256": "452537fba35633c523d7449c65a020ce504ecabc336a879e8daa0f0239db93ec"
     },
     {
-      "changed": false,
+      "changed": true,
       "path": "store/live_quotes/source=bfo_live/observed_date=2026-09-11/quotes.parquet",
       "rows": 57216,
-      "sha256": "9db28dd1379a65c968c96aeb58af1b9a81b02909b4bf75b93bfac20770ce17e1"
+      "sha256": "8cc781b2f5cce907cf69e75d1f615b38a6ca23ec8c9b6a50c59720257fc413e0"
     },
     {
       "changed": true,
       "path": "store/live_quotes/source=bfo_live/observed_date=2026-09-12/quotes.parquet",
-      "rows": 53106,
-      "sha256": "f2ccab073f9ed42883c79d031ffe4d247a49ff972f2f270c2dcb2240748b9208"
+      "rows": 55110,
+      "sha256": "610bfe512ca46a86b48de8918c23c6771a87f710921e37b118c16bc4336bf199"
+    },
+    {
+      "changed": true,
+      "path": "store/live_quotes/source=bfo_live/observed_date=2026-09-13/quotes.parquet",
+      "rows": 12024,
+      "sha256": "7771ca8ae5103bfa66b3e81234694b9e5f74d6278d7d2365281e83c9da5ec233"
     },
     {
       "changed": false,
@@ -535,7 +541,7 @@
       "sha256": "392c44b8dcadb2fc3764a76b8661178808f5c6b3dc1dae90f4169e5cef8fb003"
     },
     {
-      "changed": true,
+      "changed": false,
       "path": "store/live_quotes/source=fightodds_live/observed_date=2026-09-12/quotes.parquet",
       "rows": 7228,
       "sha256": "8041237619e3a0cc7184b262fd53aa3e90f3e5a9d9b01a6ded37fb458f641196"
@@ -831,8 +837,14 @@
     {
       "changed": true,
       "path": "store/live_quotes/source=pinnacle_live/observed_date=2026-09-12/quotes.parquet",
-      "rows": 8994,
-      "sha256": "2da1b49a872be6f009a8ae4717b5917aec5d3bcc2d6a110a6728ccd443fa43bc"
+      "rows": 9206,
+      "sha256": "a081a5739eb44a09ae6ba3ea29c47be774544793753b60d842e6b58936f2f0f2"
+    },
+    {
+      "changed": true,
+      "path": "store/live_quotes/source=pinnacle_live/observed_date=2026-09-13/quotes.parquet",
+      "rows": 1188,
+      "sha256": "e22ce9a996f0f76de9f363241c2adb42b9c1d8cc9a9989a444689e1fbd88401b"
     }
   ],
   "prop_input_files": [
@@ -971,15 +983,15 @@
       "sha256": "87a87c9bf76293d2f75736180fd8259746c4b863f810a789efc9a32e0494c6a8"
     },
     {
-      "changed": true,
+      "changed": false,
       "path": "store/live_props/source=fightodds_live/observed_date=2026-09-12/props.parquet",
       "rows": 32277,
       "sha256": "9a5218086380792e1a48bea2e4cd9ced66bf23ab014303bc1870dfa99dabb73b"
     }
   ],
   "prop_rows": 330253,
-  "quarantined_rows": 574,
-  "rows": 1617291,
+  "quarantined_rows": 584,
+  "rows": 1632719,
   "source_directory": "/home/runner/work/_temp/capture/data",
-  "source_revision": "a032b252b2fdc02c4ab3934fad60ccc26bf9ebc2"
+  "source_revision": "dc7c7694c84e39b9a096fbcd5f9a175ce5675fe4"
 }
