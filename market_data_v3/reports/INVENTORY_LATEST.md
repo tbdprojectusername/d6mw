@@ -1,6 +1,6 @@
 # Market data inventory
 
-Generated: 2026-09-14T16:39:53.040529+00:00
+Generated: 2026-09-14T19:19:28.142168+00:00
 Parquet: 231 files / 339.1 MiB
 
 ## Live capture

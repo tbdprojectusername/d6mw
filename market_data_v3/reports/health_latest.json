@@ -148,7 +148,7 @@
   ],
   "contract": "MARKET-DATA-VALIDATION-1",
   "failures": [],
-  "generated_utc": "2026-09-14T16:39:51.327609+00:00",
+  "generated_utc": "2026-09-14T19:19:26.716649+00:00",
   "historical_prop_rows": 1446875,
   "history_rows": 7101288,
   "live_prop_rows": 330253,
