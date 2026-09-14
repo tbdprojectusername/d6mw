@@ -1,6 +1,6 @@
 {
   "contract": "MARKET-DATA-INVENTORY-1",
-  "generated_utc": "2026-09-13T14:44:49.226595+00:00",
+  "generated_utc": "2026-09-14T16:39:53.040529+00:00",
   "historical_props_by_category": [
     {
       "category": "A_5",
@@ -506,9 +506,9 @@
   "live_by_source": [
     {
       "first_observed": "2026-07-27T19:09:21.183156+00:00",
-      "last_observed": "2026-09-13T12:08:47.812659+00:00",
+      "last_observed": "2026-09-14T13:08:14.512137+00:00",
       "record_status": "accepted",
-      "row_count": 1309048,
+      "row_count": 1339596,
       "source": "bfo_live"
     },
     {
@@ -527,9 +527,9 @@
     },
     {
       "first_observed": "2026-07-26T04:18:01.319120+00:00",
-      "last_observed": "2026-09-13T12:08:54.593985+00:00",
+      "last_observed": "2026-09-14T11:02:22.652946+00:00",
       "record_status": "accepted",
-      "row_count": 177330,
+      "row_count": 182514,
       "source": "pinnacle_live"
     },
     {
@@ -564,27 +564,27 @@
       "source": "fightodds_live"
     }
   ],
-  "parquet_bytes": 353831814,
-  "parquet_files": 227,
+  "parquet_bytes": 355623976,
+  "parquet_files": 231,
   "reference_by_table": [
     {
       "dataset": "event_details",
-      "row_count": 787,
+      "row_count": 788,
       "source": "greco_ufcstats"
     },
     {
       "dataset": "fight_details",
-      "row_count": 8899,
+      "row_count": 8912,
       "source": "greco_ufcstats"
     },
     {
       "dataset": "fight_results",
-      "row_count": 8899,
+      "row_count": 8912,
       "source": "greco_ufcstats"
     },
     {
       "dataset": "fight_stats",
-      "row_count": 41836,
+      "row_count": 41906,
       "source": "greco_ufcstats"
     },
     {
@@ -599,12 +599,12 @@
     },
     {
       "dataset": "official_scorecards",
-      "row_count": 31273,
+      "row_count": 32193,
       "source": "mmadecisions"
     },
     {
       "dataset": "ufc_scorecard_identity",
-      "row_count": 2746,
+      "row_count": 2846,
       "source": "mmadecisions_reconciliation"
     },
     {
@@ -632,15 +632,15 @@
     {
       "dataset": "rankings",
       "first_snapshot": "2026-08-23",
-      "last_snapshot": "2026-09-13",
-      "row_count": 4160,
+      "last_snapshot": "2026-09-14",
+      "row_count": 4368,
       "source": "octagon_api"
     },
     {
       "dataset": "roster",
       "first_snapshot": "2026-08-23",
-      "last_snapshot": "2026-09-13",
-      "row_count": 3480,
+      "last_snapshot": "2026-09-14",
+      "row_count": 3654,
       "source": "octagon_api"
     }
   ]
