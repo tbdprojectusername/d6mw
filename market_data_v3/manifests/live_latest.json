@@ -1,8 +1,8 @@
 {
-  "accepted_rows": 1707789,
+  "accepted_rows": 1717135,
   "book_registry_version": "BOOK-REGISTRY-1",
   "contract": "MARKET-DATA-LIVE-1",
-  "generated_utc": "2026-09-15T12:11:23.592393+00:00",
+  "generated_utc": "2026-09-15T17:18:15.129152+00:00",
   "input_files": [
     {
       "bytes": 12781529,
@@ -11,10 +11,10 @@
       "sha256": "89e2fb42a55ef9b9377981e67bc88edeedb5f3a90e2bc51d2e286aa01560c2e4"
     },
     {
-      "bytes": 9018651,
+      "bytes": 9191127,
       "kind": "fightodds",
       "name": "fightodds_2026-09.csv",
-      "sha256": "c520df7bc18355f334ec60f77c072c9067776f8b6e94dec162957bdec661827e"
+      "sha256": "7a76a6a29ffe1e96a68188a54f5df6dc46874a76baf4f69d162a6c578a317f5e"
     },
     {
       "bytes": 54199,
@@ -41,10 +41,10 @@
       "sha256": "9b44c5744a01128e8fda02edfac2036378a9b4054422afdf24b08f2f0b9d7ed7"
     },
     {
-      "bytes": 86378323,
+      "bytes": 87132314,
       "kind": "bfo",
       "name": "bfo_2026-09.csv",
-      "sha256": "beb066a6d7ab9dcdbf977019a1253165872bd8c9dac99b7363cef4138a093a81"
+      "sha256": "09e8fd40241e266f6ecb8a70679942502752f5c30dc0267736f51e30a46513b7"
     },
     {
       "bytes": 753946,
@@ -59,10 +59,10 @@
       "sha256": "6e46e05e71fef7ebcf5e20a2ffa2a007734fe990acf523db2e1acb425e8e1006"
     },
     {
-      "bytes": 26465007,
+      "bytes": 26886243,
       "kind": "pinnacle",
       "name": "pinnacle_2026-09.csv",
-      "sha256": "fc2b785a94ecf0fc940d8fc653e77b6314a02e6311556813e859a8c63061d82f"
+      "sha256": "eff4e9e087ed08ebf6015f1dbf48ae0789424c8f43a42d1b240b77f6e474ba35"
     }
   ],
   "outputs": [
@@ -369,8 +369,8 @@
     {
       "changed": true,
       "path": "store/live_quotes/source=bfo_live/observed_date=2026-09-15/quotes.parquet",
-      "rows": 16346,
-      "sha256": "f0ff4575a1dd8371b9444611c531c59102040f479fec9e4ce994a19450d89463"
+      "rows": 23114,
+      "sha256": "7a6bcadee03640ea9efa377a8e7870b5a6bfbcb47a96d9de99dafb6694b1f385"
     },
     {
       "changed": false,
@@ -557,6 +557,12 @@
       "path": "store/live_quotes/source=fightodds_live/observed_date=2026-09-12/quotes.parquet",
       "rows": 7228,
       "sha256": "8041237619e3a0cc7184b262fd53aa3e90f3e5a9d9b01a6ded37fb458f641196"
+    },
+    {
+      "changed": true,
+      "path": "store/live_quotes/source=fightodds_live/observed_date=2026-09-15/quotes.parquet",
+      "rows": 1282,
+      "sha256": "3f8a6d9858bd402bfec166e9fa4cd3e54e3c9fb12a2f60d976bf5571aac4e167"
     },
     {
       "changed": false,
@@ -867,8 +873,8 @@
     {
       "changed": true,
       "path": "store/live_quotes/source=pinnacle_live/observed_date=2026-09-15/quotes.parquet",
-      "rows": 3096,
-      "sha256": "6fb6c46eab49366fae284c04e3339d300d30132ddb457878a63c55b60b459dac"
+      "rows": 4392,
+      "sha256": "01e4fed82f6e7a633dc3e3f1f19d5386f2f09ad4f6ec155ef6dc7b7dc5060899"
     }
   ],
   "prop_input_files": [
@@ -883,6 +889,12 @@
       "kind": "fightodds_props",
       "name": "fightodds_props_2026-09.csv",
       "sha256": "18ed71d18cfc26fec139548799413bd6855ec31aefd76a50fcb26b5946dc8196"
+    },
+    {
+      "bytes": 2452716,
+      "kind": "fightodds_props",
+      "name": "fightodds_props_2026-09_p2.csv",
+      "sha256": "5fe202c463ca55aef1fbfc223e040d5f5d0fff547b55a03276909ba509e4798e"
     }
   ],
   "prop_outputs": [
@@ -1011,11 +1023,17 @@
       "path": "store/live_props/source=fightodds_live/observed_date=2026-09-12/props.parquet",
       "rows": 32277,
       "sha256": "9a5218086380792e1a48bea2e4cd9ced66bf23ab014303bc1870dfa99dabb73b"
+    },
+    {
+      "changed": true,
+      "path": "store/live_props/source=fightodds_live/observed_date=2026-09-15/props.parquet",
+      "rows": 5949,
+      "sha256": "972b45bc364f4a36909450dee9b030c568e381da5e42c508784deefc72b68ef9"
     }
   ],
-  "prop_rows": 330253,
+  "prop_rows": 336202,
   "quarantined_rows": 584,
-  "rows": 1708373,
+  "rows": 1717719,
   "source_directory": "/home/runner/work/_temp/capture/data",
-  "source_revision": "1a421d2d3fff2aa21a1ccc363c8b832c61ff82be"
+  "source_revision": "4157b038a4d0b3ab876a3b90bf8d64eb1d188103"
 }
