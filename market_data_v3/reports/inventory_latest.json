@@ -1,6 +1,6 @@
 {
   "contract": "MARKET-DATA-INVENTORY-1",
-  "generated_utc": "2026-09-14T19:19:28.142168+00:00",
+  "generated_utc": "2026-09-15T15:19:31.513394+00:00",
   "historical_props_by_category": [
     {
       "category": "A_5",
@@ -506,9 +506,9 @@
   "live_by_source": [
     {
       "first_observed": "2026-07-27T19:09:21.183156+00:00",
-      "last_observed": "2026-09-14T13:08:14.512137+00:00",
+      "last_observed": "2026-09-15T11:57:01.478158+00:00",
       "record_status": "accepted",
-      "row_count": 1339596,
+      "row_count": 1362754,
       "source": "bfo_live"
     },
     {
@@ -527,9 +527,9 @@
     },
     {
       "first_observed": "2026-07-26T04:18:01.319120+00:00",
-      "last_observed": "2026-09-14T11:02:22.652946+00:00",
+      "last_observed": "2026-09-15T11:57:07.502989+00:00",
       "record_status": "accepted",
-      "row_count": 182514,
+      "row_count": 186934,
       "source": "pinnacle_live"
     },
     {
@@ -564,8 +564,8 @@
       "source": "fightodds_live"
     }
   ],
-  "parquet_bytes": 355623976,
-  "parquet_files": 231,
+  "parquet_bytes": 357032563,
+  "parquet_files": 235,
   "reference_by_table": [
     {
       "dataset": "event_details",
@@ -599,12 +599,12 @@
     },
     {
       "dataset": "official_scorecards",
-      "row_count": 32193,
+      "row_count": 33095,
       "source": "mmadecisions"
     },
     {
       "dataset": "ufc_scorecard_identity",
-      "row_count": 2846,
+      "row_count": 2942,
       "source": "mmadecisions_reconciliation"
     },
     {
@@ -632,15 +632,15 @@
     {
       "dataset": "rankings",
       "first_snapshot": "2026-08-23",
-      "last_snapshot": "2026-09-14",
-      "row_count": 4368,
+      "last_snapshot": "2026-09-15",
+      "row_count": 4576,
       "source": "octagon_api"
     },
     {
       "dataset": "roster",
       "first_snapshot": "2026-08-23",
-      "last_snapshot": "2026-09-14",
-      "row_count": 3654,
+      "last_snapshot": "2026-09-15",
+      "row_count": 3828,
       "source": "octagon_api"
     }
   ]
