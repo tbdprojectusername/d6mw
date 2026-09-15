@@ -43,6 +43,25 @@ class PipelineTests(unittest.TestCase):
         self.assertEqual([p.name for p in found["fightodds"]], ["fightodds_2026-08.csv"])
         self.assertFalse(any("miseojeu" in p.name for paths in found.values() for p in paths))
 
+    def test_month_parts_are_discovered_in_order(self):
+        # kx7v rolls a month into `_pN` parts at 90 MiB (GitHub's 100 MiB blob limit
+        # froze the props feed on 2026-09-12). Every part of every feed is found,
+        # base first, and the namespace still excludes sidecars.
+        for name in ["bfo_2026-09.csv", "bfo_2026-09_p2.csv", "fightodds_2026-09_p3.csv",
+                     "fightodds_2026-09.csv", "fightodds_props_2026-09_p2.csv",
+                     "pinnacle_2026-09_p2.csv", "quarantine_fightodds_2026-09_p2.csv",
+                     "fightodds_notes_2026-09_p2.csv"]:
+            self._write(name, "x\n")
+        found = discover(self.source)
+        self.assertEqual([p.name for p in found["bfo"]], ["bfo_2026-09.csv", "bfo_2026-09_p2.csv"])
+        self.assertEqual([p.name for p in found["fightodds"]],
+                         ["fightodds_2026-09.csv", "fightodds_2026-09_p3.csv"])
+        self.assertEqual([p.name for p in found["fightodds_props"]], ["fightodds_props_2026-09_p2.csv"])
+        self.assertEqual([p.name for p in found["pinnacle"]], ["pinnacle_2026-09_p2.csv"])
+        self.assertEqual([p.name for p in found["fightodds_quarantine"]],
+                         ["quarantine_fightodds_2026-09_p2.csv"])
+        self.assertFalse(any("notes" in p.name for paths in found.values() for p in paths))
+
     def test_ingest_quarantine_and_validate(self):
         self._write(
             "fightodds_2026-08.csv",

@@ -39,15 +39,19 @@ QUOTE_COLUMNS = [
 ]
 
 
+# A month may arrive in numbered PARTS (`bfo_2026-09.csv`, `bfo_2026-09_p2.csv`, ...):
+# kx7v rolls a file at 90 MiB because GitHub refuses blobs over 100 MiB (the props
+# file crossed it on 2026-09-12 and the feed froze for three days). `discover`
+# iterates in name order, so the base part precedes `_p2`; rows are deduplicated
+# on their keys downstream regardless.
+_MONTH = r"_\d{4}-\d{2}(?:_p\d+)?\.csv$"
 PATTERNS = {
-    "fightodds_props": re.compile(r"^fightodds_props_\d{4}-\d{2}\.csv$", re.I),
-    "fightodds": re.compile(r"^fightodds_\d{4}-\d{2}\.csv$", re.I),
-    "fightodds_quarantine": re.compile(
-        r"^quarantine_fightodds_\d{4}-\d{2}\.csv$", re.I
-    ),
-    "bfo": re.compile(r"^bfo_\d{4}-\d{2}\.csv$", re.I),
-    "pinnacle": re.compile(r"^pinnacle_\d{4}-\d{2}\.csv$", re.I),
-    "bfo_events": re.compile(r"^bfo_events_\d{4}-\d{2}\.csv$", re.I),
+    "fightodds_props": re.compile(r"^fightodds_props" + _MONTH, re.I),
+    "fightodds": re.compile(r"^fightodds" + _MONTH, re.I),
+    "fightodds_quarantine": re.compile(r"^quarantine_fightodds" + _MONTH, re.I),
+    "bfo": re.compile(r"^bfo" + _MONTH, re.I),
+    "pinnacle": re.compile(r"^pinnacle" + _MONTH, re.I),
+    "bfo_events": re.compile(r"^bfo_events" + _MONTH, re.I),
 }
 
 
