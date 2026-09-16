@@ -3,15 +3,15 @@
   "decisions_refreshed": 12,
   "direct_feature_use": false,
   "discovery_year": 2026,
-  "generated_utc": "2026-09-15T15:17:54.382709+00:00",
+  "generated_utc": "2026-09-16T15:11:22.233429+00:00",
   "global_requests_per_second": 4.0,
   "known_pages_refreshed": 12,
   "output": "store/reference/source=mmadecisions/dataset=official_scorecards/data.parquet",
-  "output_sha256": "d763b4829449a95f1bef8d5b3e49d4f31b635a49ca9b87bf5bc8598a3e3cdab7",
+  "output_sha256": "43cf7c9d774722f12ee6598e00209002a0d18713231a2cee5287f2685b86a46e",
   "pages": [
     {
       "rows": 9,
-      "sha256": "b831f712d96397384c33c53778d6083fe1fa92f75065c561e4d77ff5b3a94b2e",
+      "sha256": "4aeb63affee3a413d0d8c2da88a2160f78cdaa335fe1ccfd683ab98f4bd68a94",
       "url": "https://mmadecisions.com/decision/16327/Felipe-Lima-vs-Morgan-Charriere"
     },
     {
@@ -21,7 +21,7 @@
     },
     {
       "rows": 9,
-      "sha256": "3739815f0735248c594d72d50050fbfa05fb3c8fca9839a3116476d82e3fa88a",
+      "sha256": "b8dc29ede52175df20becf29d50a89a4e654d9f51bc202bff1d23b71e6566eec",
       "url": "https://mmadecisions.com/decision/16331/Michael-Page-vs-Nursulton-Ruziboev"
     },
     {
@@ -31,12 +31,12 @@
     },
     {
       "rows": 9,
-      "sha256": "782023ef7063fa2cfa34b4cb2a353be61b76d2ab7e9518a5ef3e7bd0a4832f51",
+      "sha256": "eece22bc1e2cbaa3beb338934f6376613560d6f954c5ab31b65a6bb60a418f91",
       "url": "https://mmadecisions.com/decision/16336/Rong-Zhu-vs-Rafa-Garcia"
     },
     {
       "rows": 9,
-      "sha256": "13129f643139d1757911adbd0ec86955a78e903875558a9366b71493c6478e04",
+      "sha256": "4202eb30006c0d5d99265514fdb171abdc6e1ea1fe39d75613755999e42a7617",
       "url": "https://mmadecisions.com/decision/16339/Ignacio-Bahamondes-vs-Muslim-Salikhov"
     },
     {
@@ -46,7 +46,7 @@
     },
     {
       "rows": 9,
-      "sha256": "c8fe9409c1dc168844f63dce9233c9c69fc403937ab1fb73b76543fab48e3d55",
+      "sha256": "91db933de5a86362208f7705d4d1d10e167da0bc34e549dac6db656789bb49cd",
       "url": "https://mmadecisions.com/decision/16341/David-Martinez-vs-Dan-Ige"
     },
     {
@@ -56,22 +56,22 @@
     },
     {
       "rows": 9,
-      "sha256": "3d4876783c43b2fb65d35a3ff1f1a55984fc7d8b3fe059011c9f5066619cae0b",
+      "sha256": "fadc889cd6b7be1cc4655aa39675133847cfe8c8d911d4aa8021cf5264a6a783",
       "url": "https://mmadecisions.com/decision/16343/Alexa-Grasso-vs-Manon-Fiorot"
     },
     {
       "rows": 9,
-      "sha256": "09dc34cfe7b1f97f241118570c13e65628c7d0f99b540638f8b24e339b2f941d",
+      "sha256": "d13635c06c04c46b8d68535d6b6888a8bed7d59162e430289c3de5cc636cc855",
       "url": "https://mmadecisions.com/decision/16344/Tommy-McMillen-vs-Marwan-Rahiki"
     },
     {
       "rows": 9,
-      "sha256": "405ea39a007bb2720baf424f886778b86343074d57d7526ed8e6e01245f8154d",
+      "sha256": "0e5ad121a6eb8508d154aa01855949105a2e743f2a2c11fb3f07bb31343a795f",
       "url": "https://mmadecisions.com/decision/16345/Brandon-Moreno-vs-Joseph-Morales"
     }
   ],
   "pages_refreshed": 12,
   "source_pacing_seconds": 0.25,
-  "total_rows": 32193,
+  "total_rows": 33095,
   "workers": 6
 }
