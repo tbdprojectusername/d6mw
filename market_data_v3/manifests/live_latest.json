@@ -1,8 +1,8 @@
 {
-  "accepted_rows": 1795847,
+  "accepted_rows": 1803131,
   "book_registry_version": "BOOK-REGISTRY-1",
   "contract": "MARKET-DATA-LIVE-1",
-  "generated_utc": "2026-09-17T17:21:03.554742+00:00",
+  "generated_utc": "2026-09-17T21:45:02.280440+00:00",
   "input_files": [
     {
       "bytes": 12781529,
@@ -11,10 +11,10 @@
       "sha256": "89e2fb42a55ef9b9377981e67bc88edeedb5f3a90e2bc51d2e286aa01560c2e4"
     },
     {
-      "bytes": 10015756,
+      "bytes": 10090878,
       "kind": "fightodds",
       "name": "fightodds_2026-09.csv",
-      "sha256": "5e6164dfe0f4f3783f667d3d4af09f62a6df15593271ca33a03f7523e9964713"
+      "sha256": "450e54dba8733a91182696fa47e955b806e0d861704544683b187cc3346a6c50"
     },
     {
       "bytes": 54199,
@@ -41,10 +41,16 @@
       "sha256": "9b44c5744a01128e8fda02edfac2036378a9b4054422afdf24b08f2f0b9d7ed7"
     },
     {
-      "bytes": 94190990,
+      "bytes": 94398720,
       "kind": "bfo",
       "name": "bfo_2026-09.csv",
-      "sha256": "28e90f4fc1382f7e8dabd4999d1f4e7ea590d95b25117a1b1b7073f3715b082b"
+      "sha256": "97efbb9a67e6c6b4409a280a44fc8113680d17bd8c46a109159649c62935bee1"
+    },
+    {
+      "bytes": 457107,
+      "kind": "bfo",
+      "name": "bfo_2026-09_p2.csv",
+      "sha256": "628b1945cd0fcf55d934656e2ba0b54935eb37c17efd4098c09b2856b3a7c2d3"
     },
     {
       "bytes": 753946,
@@ -59,10 +65,10 @@
       "sha256": "6e46e05e71fef7ebcf5e20a2ffa2a007734fe990acf523db2e1acb425e8e1006"
     },
     {
-      "bytes": 30102025,
+      "bytes": 30368553,
       "kind": "pinnacle",
       "name": "pinnacle_2026-09.csv",
-      "sha256": "5bff6f2eeccb8abbbc590998db97d24f5089198b6a4e09c6be2702fce6fbd922"
+      "sha256": "74bb671fd810bd7be7e2f48bdec24052acae38e3ae6e04c45a7dc2c16a6f5c81"
     }
   ],
   "outputs": [
@@ -381,8 +387,8 @@
     {
       "changed": true,
       "path": "store/live_quotes/source=bfo_live/observed_date=2026-09-17/quotes.parquet",
-      "rows": 22506,
-      "sha256": "29b01ca6c44383e43c028231c70e86fa95775323729d012425114fa0c988f363"
+      "rows": 28458,
+      "sha256": "c45785778a0e081a390c76ca27f63fa8977dcc6901fb07d3aa3f12de00efd126"
     },
     {
       "changed": false,
@@ -585,8 +591,8 @@
     {
       "changed": true,
       "path": "store/live_quotes/source=fightodds_live/observed_date=2026-09-17/quotes.parquet",
-      "rows": 2236,
-      "sha256": "9ef931421fda7c3657af844dc4fc9de95c85b82fdc4fc011c8cd2d17aeefbec1"
+      "rows": 2800,
+      "sha256": "2a34f15022bce5d68d9dc6b5513d793e48719100849822ff5fd32d72e739afaf"
     },
     {
       "changed": false,
@@ -909,8 +915,8 @@
     {
       "changed": true,
       "path": "store/live_quotes/source=pinnacle_live/observed_date=2026-09-17/quotes.parquet",
-      "rows": 3070,
-      "sha256": "b95b2cf9d61da3acb28aaf1cd41535a767cb3753ee056c531e0a08adcc0bd4da"
+      "rows": 3838,
+      "sha256": "10e139e36a6d1dcc9ec8f2af46e9a44c58fb6c2d0bb1e5873ec9a580792224fa"
     }
   ],
   "prop_input_files": [
@@ -927,10 +933,10 @@
       "sha256": "18ed71d18cfc26fec139548799413bd6855ec31aefd76a50fcb26b5946dc8196"
     },
     {
-      "bytes": 15022570,
+      "bytes": 17253450,
       "kind": "fightodds_props",
       "name": "fightodds_props_2026-09_p2.csv",
-      "sha256": "ef83ab10e274b45f0f0634b3e5c4975a9ce420cc049c6fe4ef44e7a69db16c88"
+      "sha256": "c9b4c51b9be147b6f270e87b81830ae803f6b8441ea08c4d527957c4810536ef"
     }
   ],
   "prop_outputs": [
@@ -1075,13 +1081,13 @@
     {
       "changed": true,
       "path": "store/live_props/source=fightodds_live/observed_date=2026-09-17/props.parquet",
-      "rows": 13199,
-      "sha256": "4e9ecd8ee9a9d8081677383be13b889e2fa7e49acd11aa586da4da0db407cb79"
+      "rows": 18631,
+      "sha256": "975446d6ddaa51ff93ef3f4abf3504affdcd1df02914ef639c842a49af283e37"
     }
   ],
-  "prop_rows": 366850,
+  "prop_rows": 372282,
   "quarantined_rows": 590,
-  "rows": 1796437,
+  "rows": 1803721,
   "source_directory": "/home/runner/work/_temp/capture/data",
-  "source_revision": "360a66da61862e0b9e5a45c1c2a0551801514fc0"
+  "source_revision": "14790a369f4e3bde40b1e097b360f629c497c66e"
 }
