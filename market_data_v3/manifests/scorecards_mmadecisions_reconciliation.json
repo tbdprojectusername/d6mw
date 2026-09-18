@@ -8,13 +8,13 @@
   "coverage_sha256": "5836f99ef098f14aff4a21af5fc98bc6a6430d3a4440936a89cee32eb26c8c61",
   "decisions_with_round_scores": 3120,
   "development_through_2022_only": true,
-  "direct_scorecards_sha256": "942e81b424314d6f1397fe86874d8539071dfc1f89a67e135b37db01db4518e2",
+  "direct_scorecards_sha256": "03e769bcd3536c33b87c052410c108670adb89807397f14d38ee8ce4e07be41e",
   "exact_or_direct_only": 3120,
-  "generated_utc": "2026-09-17T15:21:54.954948+00:00",
+  "generated_utc": "2026-09-18T14:40:24.179367+00:00",
   "indexed_decisions": 3547,
   "model_fit_performed": false,
   "output": "store/reference/source=mmadecisions_reconciliation/dataset=ufc_scorecard_identity/data.parquet",
-  "output_sha256": "16173199a872cd89af775f8960eef0a0054d0ac6e3762168722c59c6c4fa039f",
+  "output_sha256": "3bb1759610a62de32a1ac3ffc25fc733a0fa77e770d27b4e2fa4062758c90363",
   "point_deduction_adjusted_rows": 164,
   "quarantined": 0
 }

@@ -3,11 +3,11 @@
   "decisions_refreshed": 12,
   "direct_feature_use": false,
   "discovery_year": 2026,
-  "generated_utc": "2026-09-17T15:20:31.418738+00:00",
+  "generated_utc": "2026-09-18T14:40:04.618574+00:00",
   "global_requests_per_second": 4.0,
   "known_pages_refreshed": 12,
   "output": "store/reference/source=mmadecisions/dataset=official_scorecards/data.parquet",
-  "output_sha256": "68536d8536bf1576f9e128a75266470da23b9eb521be81a00cee346c8c4be3c7",
+  "output_sha256": "03e769bcd3536c33b87c052410c108670adb89807397f14d38ee8ce4e07be41e",
   "pages": [
     {
       "rows": 9,
@@ -16,7 +16,7 @@
     },
     {
       "rows": 9,
-      "sha256": "ed218d590fd5a78eca8141a4616efef09d52a10996edc52a715bb1a266ebf674",
+      "sha256": "83a588ab903cedc57e1e4a8365c7b9b9f10ae7c9952dea4300f3c39e62f3ab0b",
       "url": "https://mmadecisions.com/decision/16330/Daniil-Donchenko-vs-Punahele-Soriano"
     },
     {
@@ -26,52 +26,52 @@
     },
     {
       "rows": 9,
-      "sha256": "d11953d5cb20016b693f60936e6556dbda20aa4affbe2897ed31bbeaff30f328",
+      "sha256": "d8baaecc00c3a9dd76256d476c358d576508d7b9959eb61ab5f30de32e137af6",
       "url": "https://mmadecisions.com/decision/16334/Regina-Tarin-vs-J.J.-Aldrich"
     },
     {
       "rows": 9,
-      "sha256": "eece22bc1e2cbaa3beb338934f6376613560d6f954c5ab31b65a6bb60a418f91",
+      "sha256": "51ec1405d94319c040a66484159c214a92bf4e2b7e10a180a2efb8d966b479f4",
       "url": "https://mmadecisions.com/decision/16336/Rong-Zhu-vs-Rafa-Garcia"
     },
     {
       "rows": 9,
-      "sha256": "4202eb30006c0d5d99265514fdb171abdc6e1ea1fe39d75613755999e42a7617",
+      "sha256": "ca88a68c0d32f6571546d164e62465491a872c271d452e2b4150ee56da4493ff",
       "url": "https://mmadecisions.com/decision/16339/Ignacio-Bahamondes-vs-Muslim-Salikhov"
     },
     {
       "rows": 9,
-      "sha256": "a79b4abc15586d476f8775cce47d4f2bd175ab97506e94384fafa2751ee80432",
+      "sha256": "edbcfe76e9ec28bc963abba4a1897fa69f5291c73d64a1996f307776e0476c4d",
       "url": "https://mmadecisions.com/decision/16340/Tim-Elliott-vs-Edgar-Chairez"
     },
     {
       "rows": 9,
-      "sha256": "91db933de5a86362208f7705d4d1d10e167da0bc34e549dac6db656789bb49cd",
+      "sha256": "5cefe7b5fcdf4108d562c16510067fc05ba9e2ab139ebba81723ecd1c899f6f7",
       "url": "https://mmadecisions.com/decision/16341/David-Martinez-vs-Dan-Ige"
     },
     {
       "rows": 9,
-      "sha256": "58694ea02bb784cc60c6fde3b7331f1ea349546984e82d2ebf4f7cbea40b9904",
+      "sha256": "825e55fca0bc1071bc9d38157e8b60ea454ea1714bdd3040010504b113e5c718",
       "url": "https://mmadecisions.com/decision/16342/Curtis-Blaydes-vs-Waldo-Cortes-Acosta"
     },
     {
       "rows": 9,
-      "sha256": "a7e1239c6b8b341d79ec1244c52a227f837f9ba7d1be6dce272e27f14f09e181",
+      "sha256": "593e0ca73608e7b5cc841ac38b800b442b9f0d5871453ac5d7828b0f63b8571e",
       "url": "https://mmadecisions.com/decision/16343/Alexa-Grasso-vs-Manon-Fiorot"
     },
     {
       "rows": 9,
-      "sha256": "6695620ad2290940e51bcc92660536e149446eb0eecd1affe779f2ef2fd455c6",
+      "sha256": "87ed1679a075648864b5d4142c4923182e9cbbd488ad9d656f710eb6af10c71a",
       "url": "https://mmadecisions.com/decision/16344/Tommy-McMillen-vs-Marwan-Rahiki"
     },
     {
       "rows": 9,
-      "sha256": "a1774b84d308f60a0b7ab285339a5450b8a140fafb6c16366f56943670b7f33d",
+      "sha256": "9c01ff5af9d85da602c72280a5950f89fed6fdfa5fbe2b3ba24ffff0e2ac8da8",
       "url": "https://mmadecisions.com/decision/16345/Brandon-Moreno-vs-Joseph-Morales"
     }
   ],
   "pages_refreshed": 12,
   "source_pacing_seconds": 0.25,
-  "total_rows": 34019,
+  "total_rows": 34790,
   "workers": 6
 }
