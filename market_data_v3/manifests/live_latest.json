@@ -1,8 +1,8 @@
 {
-  "accepted_rows": 1835823,
+  "accepted_rows": 1844181,
   "book_registry_version": "BOOK-REGISTRY-1",
   "contract": "MARKET-DATA-LIVE-1",
-  "generated_utc": "2026-09-18T16:44:15.880343+00:00",
+  "generated_utc": "2026-09-18T21:20:25.758488+00:00",
   "input_files": [
     {
       "bytes": 12781529,
@@ -11,10 +11,10 @@
       "sha256": "89e2fb42a55ef9b9377981e67bc88edeedb5f3a90e2bc51d2e286aa01560c2e4"
     },
     {
-      "bytes": 10444467,
+      "bytes": 10561229,
       "kind": "fightodds",
       "name": "fightodds_2026-09.csv",
-      "sha256": "b8d205fa74812164217ce772c4b9a7e7f8fb19b506ac261d8113d8d5f6dda785"
+      "sha256": "7d24aab19e72c91bbbe703dcd65aceb3d89848f997b02f31391bb12e1d1a24b5"
     },
     {
       "bytes": 54199,
@@ -47,10 +47,10 @@
       "sha256": "97efbb9a67e6c6b4409a280a44fc8113680d17bd8c46a109159649c62935bee1"
     },
     {
-      "bytes": 3462899,
+      "bytes": 4220781,
       "kind": "bfo",
       "name": "bfo_2026-09_p2.csv",
-      "sha256": "37a9627a8e4996ecfb298bfb22baf94f49ef5781682b310fa48066f9b6dbcb01"
+      "sha256": "78fe204b72328c81367d9becd22b1a00f8e7e7f11d25c9d95f66b59426a9278b"
     },
     {
       "bytes": 753946,
@@ -65,10 +65,10 @@
       "sha256": "6e46e05e71fef7ebcf5e20a2ffa2a007734fe990acf523db2e1acb425e8e1006"
     },
     {
-      "bytes": 31501297,
+      "bytes": 31767819,
       "kind": "pinnacle",
       "name": "pinnacle_2026-09.csv",
-      "sha256": "4293a973b2cef45e3808ef45429d34bd46ce8916f614e00cd7b61d5cf0f8809a"
+      "sha256": "b87850d3c6ace18e596ecd9b1707384169efe4299f48f3f956da1c011811af87"
     }
   ],
   "outputs": [
@@ -393,8 +393,8 @@
     {
       "changed": true,
       "path": "store/live_quotes/source=bfo_live/observed_date=2026-09-18/quotes.parquet",
-      "rows": 23628,
-      "sha256": "eed5163cb3721a27d8bbf093507e596b002031da17785fd2b7774b2eacbfb3a2"
+      "rows": 30348,
+      "sha256": "f96489dbb9f1238c707b06c15de1f45a8b85b6a3efbf1f980f31c1267d229cbf"
     },
     {
       "changed": false,
@@ -603,8 +603,8 @@
     {
       "changed": true,
       "path": "store/live_quotes/source=fightodds_live/observed_date=2026-09-18/quotes.parquet",
-      "rows": 2282,
-      "sha256": "679b6b42390b23e6f93b67c273a7799e9bad3e11dedcad82db425b0fec5505e3"
+      "rows": 3152,
+      "sha256": "85f1da2ae538a18b2f26c214188ab3c8d56991b3fbecd1cef5ab2ff05b986fff"
     },
     {
       "changed": false,
@@ -933,8 +933,8 @@
     {
       "changed": true,
       "path": "store/live_quotes/source=pinnacle_live/observed_date=2026-09-18/quotes.parquet",
-      "rows": 2856,
-      "sha256": "f17dfcab506f3f110783c5571f1c7105a693fded8faf7b57d79be992520e175b"
+      "rows": 3624,
+      "sha256": "723e024fcde2a68f9b2075e4407e503c968c74a45f599832bc1fc85b9c8d16c8"
     }
   ],
   "prop_input_files": [
@@ -951,10 +951,10 @@
       "sha256": "18ed71d18cfc26fec139548799413bd6855ec31aefd76a50fcb26b5946dc8196"
     },
     {
-      "bytes": 23727986,
+      "bytes": 26144718,
       "kind": "fightodds_props",
       "name": "fightodds_props_2026-09_p2.csv",
-      "sha256": "51055dcfbf07d0d5bcb54b011317db73897825add939d3a31004e69d62b942a8"
+      "sha256": "e62fdb708d32bc05665776eca1f1300fd4eff0cd9ad5cda8ae52ad28b627da91"
     }
   ],
   "prop_outputs": [
@@ -1105,13 +1105,13 @@
     {
       "changed": true,
       "path": "store/live_props/source=fightodds_live/observed_date=2026-09-18/props.parquet",
-      "rows": 14210,
-      "sha256": "8bd15265dd2677a16fe0e5e40648c58e7d0684715877e0b0713b6bacb51ba6ef"
+      "rows": 20071,
+      "sha256": "0e6f3e6ce27980dc780b6c42bc0b42e2ac473049a7275cd05bd91d882696b683"
     }
   ],
-  "prop_rows": 388077,
+  "prop_rows": 393938,
   "quarantined_rows": 590,
-  "rows": 1836413,
+  "rows": 1844771,
   "source_directory": "/home/runner/work/_temp/capture/data",
-  "source_revision": "39a5cc4a420c22d8272d4e56d053ffb66925fdd7"
+  "source_revision": "08c373224f57dab710a13977b2d780d47bbf47b6"
 }
