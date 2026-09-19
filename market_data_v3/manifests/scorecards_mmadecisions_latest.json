@@ -3,20 +3,20 @@
   "decisions_refreshed": 12,
   "direct_feature_use": false,
   "discovery_year": 2026,
-  "generated_utc": "2026-09-18T14:40:04.618574+00:00",
+  "generated_utc": "2026-09-19T14:00:12.423473+00:00",
   "global_requests_per_second": 4.0,
   "known_pages_refreshed": 12,
   "output": "store/reference/source=mmadecisions/dataset=official_scorecards/data.parquet",
-  "output_sha256": "03e769bcd3536c33b87c052410c108670adb89807397f14d38ee8ce4e07be41e",
+  "output_sha256": "207c4e096bc156f0f4db4d7284154f251d8b2e5c3eade13e747cf97396718350",
   "pages": [
     {
       "rows": 9,
-      "sha256": "4aeb63affee3a413d0d8c2da88a2160f78cdaa335fe1ccfd683ab98f4bd68a94",
+      "sha256": "2100a6b6b3c6185cf0b25bef8b8d3506f7374188c8b6149240e71aad7c4435c4",
       "url": "https://mmadecisions.com/decision/16327/Felipe-Lima-vs-Morgan-Charriere"
     },
     {
       "rows": 9,
-      "sha256": "83a588ab903cedc57e1e4a8365c7b9b9f10ae7c9952dea4300f3c39e62f3ab0b",
+      "sha256": "0bd13b72e59f4a703983432530cef9e1543c0b7d8103f79a323a564fcbc34fd8",
       "url": "https://mmadecisions.com/decision/16330/Daniil-Donchenko-vs-Punahele-Soriano"
     },
     {
@@ -36,12 +36,12 @@
     },
     {
       "rows": 9,
-      "sha256": "ca88a68c0d32f6571546d164e62465491a872c271d452e2b4150ee56da4493ff",
+      "sha256": "3b8a45e389cdb59cba423efef61946d0c6687e3a818329ebacd4665ce9dc8402",
       "url": "https://mmadecisions.com/decision/16339/Ignacio-Bahamondes-vs-Muslim-Salikhov"
     },
     {
       "rows": 9,
-      "sha256": "edbcfe76e9ec28bc963abba4a1897fa69f5291c73d64a1996f307776e0476c4d",
+      "sha256": "c90b9ca5c4df79215387e358b70de31252163001ffd138a960a00c551f90c644",
       "url": "https://mmadecisions.com/decision/16340/Tim-Elliott-vs-Edgar-Chairez"
     },
     {
@@ -51,22 +51,22 @@
     },
     {
       "rows": 9,
-      "sha256": "825e55fca0bc1071bc9d38157e8b60ea454ea1714bdd3040010504b113e5c718",
+      "sha256": "258eabe7e1f6945b27cee662a59e02c4a63e95d14fd5a252f548569ca84cf97d",
       "url": "https://mmadecisions.com/decision/16342/Curtis-Blaydes-vs-Waldo-Cortes-Acosta"
     },
     {
       "rows": 9,
-      "sha256": "593e0ca73608e7b5cc841ac38b800b442b9f0d5871453ac5d7828b0f63b8571e",
+      "sha256": "fd4a5687de98b61c9dcbfa5c4f0229295756b1aa21c452af018d19c84377cefe",
       "url": "https://mmadecisions.com/decision/16343/Alexa-Grasso-vs-Manon-Fiorot"
     },
     {
       "rows": 9,
-      "sha256": "87ed1679a075648864b5d4142c4923182e9cbbd488ad9d656f710eb6af10c71a",
+      "sha256": "420bf0d914aeeb34e03e0bb6d137603df4045dd339facf264629f71786c528bf",
       "url": "https://mmadecisions.com/decision/16344/Tommy-McMillen-vs-Marwan-Rahiki"
     },
     {
       "rows": 9,
-      "sha256": "9c01ff5af9d85da602c72280a5950f89fed6fdfa5fbe2b3ba24ffff0e2ac8da8",
+      "sha256": "2080aa2c27b2f2eb0dd3b4f7582ecb26674e7b8bf9a5aed81f3845a411b16fa5",
       "url": "https://mmadecisions.com/decision/16345/Brandon-Moreno-vs-Joseph-Morales"
     }
   ],
