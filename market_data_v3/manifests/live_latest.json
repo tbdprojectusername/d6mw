@@ -1,8 +1,8 @@
 {
-  "accepted_rows": 2016461,
+  "accepted_rows": 2025779,
   "book_registry_version": "BOOK-REGISTRY-1",
   "contract": "MARKET-DATA-LIVE-1",
-  "generated_utc": "2026-09-22T17:24:29.812291+00:00",
+  "generated_utc": "2026-09-22T21:43:44.462454+00:00",
   "input_files": [
     {
       "bytes": 12781529,
@@ -11,10 +11,10 @@
       "sha256": "89e2fb42a55ef9b9377981e67bc88edeedb5f3a90e2bc51d2e286aa01560c2e4"
     },
     {
-      "bytes": 13773092,
+      "bytes": 14033226,
       "kind": "fightodds",
       "name": "fightodds_2026-09.csv",
-      "sha256": "7d22c7b4281707b4baaf875357231aa3d02e2bc8f64bc2734d19a391e27860a9"
+      "sha256": "1954c79e66cf77a9445ff5179339a672c0eb7eb367d703b68307184153a668dd"
     },
     {
       "bytes": 54199,
@@ -23,10 +23,10 @@
       "sha256": "4319b1db9549cbfb5b40f4f7f80e1a822e2ffde50662fec7f5639932dc33450c"
     },
     {
-      "bytes": 33177,
+      "bytes": 35199,
       "kind": "fightodds_quarantine",
       "name": "quarantine_fightodds_2026-09.csv",
-      "sha256": "ec438e4a2a21e4aaabb766d9a975e632f96d238815a2ff05677093bb910fa91e"
+      "sha256": "63ceb52604c949d0ccd4dbbe5dd9fd83c8633f7c74c17d6fb41ba51307a83672"
     },
     {
       "bytes": 1513444,
@@ -47,10 +47,10 @@
       "sha256": "97efbb9a67e6c6b4409a280a44fc8113680d17bd8c46a109159649c62935bee1"
     },
     {
-      "bytes": 19318262,
+      "bytes": 20039493,
       "kind": "bfo",
       "name": "bfo_2026-09_p2.csv",
-      "sha256": "424a231d087bdf6bcd28e843d154aa3623ecb071819df710f66c163839c66522"
+      "sha256": "2a873a272d679b02ce0e1ac525ea45522b5d7f6eb1298175531bfdbc6c080cb2"
     },
     {
       "bytes": 753946,
@@ -65,10 +65,10 @@
       "sha256": "6e46e05e71fef7ebcf5e20a2ffa2a007734fe990acf523db2e1acb425e8e1006"
     },
     {
-      "bytes": 36933222,
+      "bytes": 37349997,
       "kind": "pinnacle",
       "name": "pinnacle_2026-09.csv",
-      "sha256": "bd077dcf9c6f8f910e67e0b941e70b39c630c30b8d4bee9f67cf83fc27d15c0a"
+      "sha256": "c43addcf5c2f1ac923e8ee344680972072634f0e0f90d6cae6aab76284e3b1f3"
     }
   ],
   "outputs": [
@@ -417,8 +417,8 @@
     {
       "changed": true,
       "path": "store/live_quotes/source=bfo_live/observed_date=2026-09-22/quotes.parquet",
-      "rows": 21340,
-      "sha256": "4c28dfba1283c762caad34f0585ea1788232fe7ed320f20b086c878c5224aedf"
+      "rows": 27356,
+      "sha256": "c7f699ff90f7e5412a6e8e5ace38c01884354503c5243fea661384052dbd88ee"
     },
     {
       "changed": false,
@@ -651,8 +651,8 @@
     {
       "changed": true,
       "path": "store/live_quotes/source=fightodds_live/observed_date=2026-09-22/quotes.parquet",
-      "rows": 5432,
-      "sha256": "f47117fe40d8783bb5413070b50ac4e1032d1d328165d61ece75ef180018a585"
+      "rows": 7366,
+      "sha256": "ce695d26c25242de0eb2c5e021cb002fb65f97ebefe060a8cc225d4a910d3a91"
     },
     {
       "changed": false,
@@ -1005,8 +1005,8 @@
     {
       "changed": true,
       "path": "store/live_quotes/source=pinnacle_live/observed_date=2026-09-22/quotes.parquet",
-      "rows": 5658,
-      "sha256": "9a8bcf61ddc3eae7222be64fabff8572ba1e48b94d5462345323f565617a4cfa"
+      "rows": 7038,
+      "sha256": "636b7a431680370d74e7f6e9e219ed2fae2c4f9b400abbfe2ddbd4ef3f3b9264"
     }
   ],
   "prop_input_files": [
@@ -1023,10 +1023,10 @@
       "sha256": "18ed71d18cfc26fec139548799413bd6855ec31aefd76a50fcb26b5946dc8196"
     },
     {
-      "bytes": 49630435,
+      "bytes": 51480533,
       "kind": "fightodds_props",
       "name": "fightodds_props_2026-09_p2.csv",
-      "sha256": "9a54252965591f15951d1959bea8c66aa2d0ef808343355e4dc7752c3efefbe6"
+      "sha256": "24de7439f86a565c9bc9ebe79ad5076ba87bf0cb096765d5420567cef4dafeb0"
     }
   ],
   "prop_outputs": [
@@ -1201,13 +1201,13 @@
     {
       "changed": true,
       "path": "store/live_props/source=fightodds_live/observed_date=2026-09-22/props.parquet",
-      "rows": 12071,
-      "sha256": "795f0d8fb4f6b5dfbaefb545f62eb76ac263be5ada652dcc35daf9c70a36f0a2"
+      "rows": 16525,
+      "sha256": "e85586e7c85b929545aa287c1fb88a4c8101d2fa8f7e99a5ac1e7d4a4c7eab6b"
     }
   ],
-  "prop_rows": 451089,
-  "quarantined_rows": 618,
-  "rows": 2017079,
+  "prop_rows": 455543,
+  "quarantined_rows": 630,
+  "rows": 2026409,
   "source_directory": "/home/runner/work/_temp/capture/data",
-  "source_revision": "1f6e4bfa20d8bfdc5b90a1851d6b5bb25d13487b"
+  "source_revision": "c4e6fce090417982fa4838be512e39435b201596"
 }
