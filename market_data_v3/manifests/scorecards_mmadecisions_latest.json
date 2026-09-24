@@ -3,15 +3,15 @@
   "decisions_refreshed": 12,
   "direct_feature_use": false,
   "discovery_year": 2026,
-  "generated_utc": "2026-09-23T15:12:27.331751+00:00",
+  "generated_utc": "2026-09-24T15:31:23.774056+00:00",
   "global_requests_per_second": 4.0,
   "known_pages_refreshed": 12,
   "output": "store/reference/source=mmadecisions/dataset=official_scorecards/data.parquet",
-  "output_sha256": "4a4ae6a8093607f9d27053b4ec240a72e4481a3173676b5d843ab2d876be6d18",
+  "output_sha256": "a2feb7bd6cc4e2e1f5f92e936843305f61bc90166a721dae56b0c6574c9aca4c",
   "pages": [
     {
       "rows": 9,
-      "sha256": "aefa876e0af605cb11189316169098cb492ae2ec5750888848deab3ce40b44bf",
+      "sha256": "fce27481e8cfb7f7b8f091590f9381370bdb775e576ce254f0f6ab5ce9ff399a",
       "url": "https://mmadecisions.com/decision/16339/Ignacio-Bahamondes-vs-Muslim-Salikhov"
     },
     {
@@ -26,22 +26,22 @@
     },
     {
       "rows": 9,
-      "sha256": "0bf2e5df171730f2b4c2428acdf7b04ddc294c04cdaf50918e21e995d4ae9f6e",
+      "sha256": "90fa518842210c9bb21ce743ae9f1cb7293827bfbdff715760711e29ed97f672",
       "url": "https://mmadecisions.com/decision/16342/Curtis-Blaydes-vs-Waldo-Cortes-Acosta"
     },
     {
       "rows": 9,
-      "sha256": "f51eab371cb396ee98165670154e73891e3dc5e865442ec485c3e1accb3963a9",
+      "sha256": "82a666fdafe7c4bd88a5701465cd358cb7ee6c5524da6db546dadbb863846bbb",
       "url": "https://mmadecisions.com/decision/16343/Alexa-Grasso-vs-Manon-Fiorot"
     },
     {
       "rows": 9,
-      "sha256": "0e0cef37c1c286350c799086b526f3cbad15f077c9262bfc131c16567fdf7a2a",
+      "sha256": "944dfe55a7e3dbbd13d91ec52d63bf626899dc025808a7d95a7c0da0bd5811c4",
       "url": "https://mmadecisions.com/decision/16344/Tommy-McMillen-vs-Marwan-Rahiki"
     },
     {
       "rows": 9,
-      "sha256": "4f02dd044a4e66a780c1975a87caea1f887ae91bbe43da49d243eff0aece9047",
+      "sha256": "e50270b60eee2a3bd536641f017395f24168132c786f149e0d6dddcd9210e4fc",
       "url": "https://mmadecisions.com/decision/16345/Brandon-Moreno-vs-Joseph-Morales"
     },
     {
@@ -51,22 +51,22 @@
     },
     {
       "rows": 9,
-      "sha256": "fbefb61ae01ddace6939cf1fedb888c51d527d4c52975120600fa1906d377ddb",
+      "sha256": "05560cab041ba8c95c6f15e87e0c27f35ebb80d6a3fb9d7b9a4b0b88d67d4120",
       "url": "https://mmadecisions.com/decision/16351/Michael-Aswell-vs-Joo-Sang-Yoo"
     },
     {
       "rows": 9,
-      "sha256": "7a85b8ce16dbb5f81d4596bebf5c0a27ca0f9d8389925e49662bff05a5514b54",
+      "sha256": "7a1297c42567fb3c6faffb09fe3455e9a3d2eb31766a1158a6c777aab6411a10",
       "url": "https://mmadecisions.com/decision/16352/Robelis-Despaigne-vs-Tai-Tuivasa"
     },
     {
       "rows": 9,
-      "sha256": "95f51eeb222df812a445cf8ad74a5fa19981c6ed0d451f2585d42f4d71adcac3",
+      "sha256": "434fa1c60c2858f97f78864d2b1cbb36a25bc0ddbe7832fda11f0cce47dab14a",
       "url": "https://mmadecisions.com/decision/16354/Alonzo-Menifield-vs-Iwo-Baraniewski"
     },
     {
       "rows": 15,
-      "sha256": "d82dd74c76985f487ba0f764e467c43a15796628ea014956f683aa04a9d68d37",
+      "sha256": "4bfe98fdeb4f96fe55bbc7723168a8d2ac7ff07223561d6d54d40486cc4f9549",
       "url": "https://mmadecisions.com/decision/16358/Josh-Van-vs-Alexandre-Pantoja"
     }
   ],
