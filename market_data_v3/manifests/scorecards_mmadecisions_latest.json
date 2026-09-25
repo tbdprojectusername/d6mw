@@ -3,11 +3,11 @@
   "decisions_refreshed": 12,
   "direct_feature_use": false,
   "discovery_year": 2026,
-  "generated_utc": "2026-09-24T15:31:23.774056+00:00",
+  "generated_utc": "2026-09-25T15:35:43.680935+00:00",
   "global_requests_per_second": 4.0,
   "known_pages_refreshed": 12,
   "output": "store/reference/source=mmadecisions/dataset=official_scorecards/data.parquet",
-  "output_sha256": "a2feb7bd6cc4e2e1f5f92e936843305f61bc90166a721dae56b0c6574c9aca4c",
+  "output_sha256": "863055c6110689b5404e70caf81f33a467cf46af82fd8fb7e0f3168053d0c30d",
   "pages": [
     {
       "rows": 9,
@@ -26,12 +26,12 @@
     },
     {
       "rows": 9,
-      "sha256": "90fa518842210c9bb21ce743ae9f1cb7293827bfbdff715760711e29ed97f672",
+      "sha256": "7d4343c86e43f16bf953973225586df2d5bd1f33fbcc5f6312355bb302dbb63a",
       "url": "https://mmadecisions.com/decision/16342/Curtis-Blaydes-vs-Waldo-Cortes-Acosta"
     },
     {
       "rows": 9,
-      "sha256": "82a666fdafe7c4bd88a5701465cd358cb7ee6c5524da6db546dadbb863846bbb",
+      "sha256": "9aaed4ebbfb0e42e4cf7b2bfae748b87c2114c47f5a0ddefa988eb4e68020940",
       "url": "https://mmadecisions.com/decision/16343/Alexa-Grasso-vs-Manon-Fiorot"
     },
     {
@@ -41,12 +41,12 @@
     },
     {
       "rows": 9,
-      "sha256": "e50270b60eee2a3bd536641f017395f24168132c786f149e0d6dddcd9210e4fc",
+      "sha256": "a4cea6009462aba2d255e459dedd987e620d88b048eed664c033b0c7e3ba360f",
       "url": "https://mmadecisions.com/decision/16345/Brandon-Moreno-vs-Joseph-Morales"
     },
     {
       "rows": 9,
-      "sha256": "e99579b8cc858345e6489772e330c63a50f5f11ec2276dcf39e38423be108c9c",
+      "sha256": "0f6a00cc0fbe6134b69ccc0d0405f9b88ae74b826df377271ebc4c359929f490",
       "url": "https://mmadecisions.com/decision/16349/Edmen-Shahbazyan-vs-Brunno-Ferreira"
     },
     {
@@ -61,12 +61,12 @@
     },
     {
       "rows": 9,
-      "sha256": "434fa1c60c2858f97f78864d2b1cbb36a25bc0ddbe7832fda11f0cce47dab14a",
+      "sha256": "db360b2598b591a71ec7c03305339a5138a06e0b393cd012c3ad43d0df9bc6cf",
       "url": "https://mmadecisions.com/decision/16354/Alonzo-Menifield-vs-Iwo-Baraniewski"
     },
     {
       "rows": 15,
-      "sha256": "4bfe98fdeb4f96fe55bbc7723168a8d2ac7ff07223561d6d54d40486cc4f9549",
+      "sha256": "01201f9f90a5dfaa9f4b698e02d645c882f6c96a7b57c0c06ec8c6a0df7a94b8",
       "url": "https://mmadecisions.com/decision/16358/Josh-Van-vs-Alexandre-Pantoja"
     }
   ],

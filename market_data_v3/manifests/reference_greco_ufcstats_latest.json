@@ -1,7 +1,7 @@
 {
   "contract": "MARKET-DATA-REFERENCE-RAW-1",
   "direct_feature_use": false,
-  "generated_utc": "2026-09-24T15:31:08.153591+00:00",
+  "generated_utc": "2026-09-25T15:35:27.552279+00:00",
   "outputs": [
     {
       "columns": [
@@ -92,11 +92,11 @@
         "url"
       ],
       "output": "store/reference/source=greco_ufcstats/dataset=fighter_details/data.parquet",
-      "output_sha256": "6b8d307cf55ea2803c37b241225c115d2ad6760cb22e6030e66be6b96b94aca4",
-      "rows": 4618,
+      "output_sha256": "0b5b783b573b17c694ce42b70bf2f9d755183086b9bb8cfce1baf5663b33c1b9",
+      "rows": 4619,
       "source_file": "ufc_fighter_details.csv",
-      "source_file_bytes": 339665,
-      "source_file_sha256": "0f8c6eaa1d731ba08f1554fc2c2aabbf7af5e6c16fd4305ffeea9b7cf4b16bf0",
+      "source_file_bytes": 339754,
+      "source_file_sha256": "cad222d370d5893602dc21f85144cf4566b9a8b862081a09b068fbb9fb134e7a",
       "table": "fighter_details"
     },
     {
@@ -110,16 +110,16 @@
         "url"
       ],
       "output": "store/reference/source=greco_ufcstats/dataset=fighter_tott/data.parquet",
-      "output_sha256": "486b1f49df6c53a66532507288dfbfd6a057efb6752eb227863ffb33e2def517",
-      "rows": 4619,
+      "output_sha256": "c6524e0cf72e09275e1e21277d6c16703b073f448b32c974821fef413807818a",
+      "rows": 4620,
       "source_file": "ufc_fighter_tott.csv",
-      "source_file_bytes": 507405,
-      "source_file_sha256": "7ab0b4d1c064cd3ae65bd42fdea712033feb79b7888bc534ffba3d79ee7b40bb",
+      "source_file_bytes": 507507,
+      "source_file_sha256": "f34f04622f728732a99d3d3a485a90ec5bb0b8e7a06b2040bf472d86af862b4b",
       "table": "fighter_tott"
     }
   ],
-  "rows": 69832,
+  "rows": 69834,
   "source": "greco_ufcstats",
   "source_directory": "/home/runner/work/_temp/ufcstats",
-  "source_revision": "a3c5452eee2f5bb4f5eae4ce958f0f23dd8863d8"
+  "source_revision": "c5a4defbbd5b606f24c5c0090b3dabf7e0835a9a"
 }
