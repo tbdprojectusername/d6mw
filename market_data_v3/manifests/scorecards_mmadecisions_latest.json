@@ -3,20 +3,20 @@
   "decisions_refreshed": 12,
   "direct_feature_use": false,
   "discovery_year": 2026,
-  "generated_utc": "2026-09-29T16:39:39.929800+00:00",
+  "generated_utc": "2026-09-30T16:31:56.893841+00:00",
   "global_requests_per_second": 4.0,
   "known_pages_refreshed": 12,
   "output": "store/reference/source=mmadecisions/dataset=official_scorecards/data.parquet",
-  "output_sha256": "ceadc534defe7500a18652763db0ef4b1cd06f537afa4e36fa3b1690e7474d9c",
+  "output_sha256": "2f3be1a162723bfad1730c2cb4a765fa261fe3b728b93c1dd751c800b93deb88",
   "pages": [
     {
       "rows": 9,
-      "sha256": "789c48b9e73b3d1d64fb40caf5d9607d9cb7ab51a2f72a97a5790212ea58cde8",
+      "sha256": "cd780490eea0a2d4d8f8340c47a6749ebbd4cd2cafd6cef37bbbbf4b0539368a",
       "url": "https://mmadecisions.com/decision/16345/Brandon-Moreno-vs-Joseph-Morales"
     },
     {
       "rows": 9,
-      "sha256": "ca8fb28ed0a0adf6f09f9ad6934a226835d7d8c43a0ebfb1a9145a08da1b0141",
+      "sha256": "b9f8f082136e6391e252ea33c429e548627b88a9af38ace9877656c5b87f01c4",
       "url": "https://mmadecisions.com/decision/16349/Edmen-Shahbazyan-vs-Brunno-Ferreira"
     },
     {
@@ -31,12 +31,12 @@
     },
     {
       "rows": 9,
-      "sha256": "79ddbcdac4a1f58ec740a9869fcd3836d3fca72ce67105811e708c3280a50ffe",
+      "sha256": "8b3c3e8d22143de47ca03f53d4c355e9906cb13c74538720dfff2c78adb2fb56",
       "url": "https://mmadecisions.com/decision/16354/Alonzo-Menifield-vs-Iwo-Baraniewski"
     },
     {
       "rows": 15,
-      "sha256": "7953bfb2193072a7b56f02c18ee61b6e0f0587a7a6981dd0494302f76d4176c6",
+      "sha256": "eba3f53a3e9f82d89422ecbafcd8c00ea5ea639e82291f1bbe12121ebde5d1a4",
       "url": "https://mmadecisions.com/decision/16358/Josh-Van-vs-Alexandre-Pantoja"
     },
     {
@@ -56,17 +56,17 @@
     },
     {
       "rows": 9,
-      "sha256": "813ab1146edb2fd4e937188d723d94b197d6a0302a7a55c72a793de4bf3c0feb",
+      "sha256": "d7a3b2e0b6523332dbbc10f1702c96ec51c06060059425007cc05ab4974e76ec",
       "url": "https://mmadecisions.com/decision/16363/Heili-Alateng-vs-John-Castaneda"
     },
     {
       "rows": 9,
-      "sha256": "ba772e43004e6816114a69d10eb45f58fafc862fcda81d01d50409cc82f181fd",
+      "sha256": "4728f8c603caa3974806ed72d628a707d08506ebcadfab38a82bef234b423646",
       "url": "https://mmadecisions.com/decision/16367/Rodolfo-Vieira-vs-Robert-Bryczek"
     },
     {
       "rows": 9,
-      "sha256": "c9f50b40d3a13bcfae047f87897bc40107d8d016509e6e74f77e335e9c807f3d",
+      "sha256": "18c48858a4d2c3e56ea8dbe5fd06d0f28cc9254fea05825e718e238c16e415d7",
       "url": "https://mmadecisions.com/decision/16372/Ailin-Perez-vs-Norma-Dumont"
     }
   ],
