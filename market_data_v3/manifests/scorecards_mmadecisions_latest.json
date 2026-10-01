@@ -3,11 +3,11 @@
   "decisions_refreshed": 12,
   "direct_feature_use": false,
   "discovery_year": 2026,
-  "generated_utc": "2026-09-30T16:31:56.893841+00:00",
+  "generated_utc": "2026-10-01T17:10:03.759593+00:00",
   "global_requests_per_second": 4.0,
   "known_pages_refreshed": 12,
   "output": "store/reference/source=mmadecisions/dataset=official_scorecards/data.parquet",
-  "output_sha256": "2f3be1a162723bfad1730c2cb4a765fa261fe3b728b93c1dd751c800b93deb88",
+  "output_sha256": "9ff180228db1a016af304a4a02433d457738c6be982a5cef623f2b542ca8e488",
   "pages": [
     {
       "rows": 9,
@@ -16,7 +16,7 @@
     },
     {
       "rows": 9,
-      "sha256": "b9f8f082136e6391e252ea33c429e548627b88a9af38ace9877656c5b87f01c4",
+      "sha256": "ca8fb28ed0a0adf6f09f9ad6934a226835d7d8c43a0ebfb1a9145a08da1b0141",
       "url": "https://mmadecisions.com/decision/16349/Edmen-Shahbazyan-vs-Brunno-Ferreira"
     },
     {
@@ -26,7 +26,7 @@
     },
     {
       "rows": 9,
-      "sha256": "f68fbc2f1fa282d2c9ea308fcc837d5ebc7d44d71788bd315675bfbc274c9298",
+      "sha256": "d292fce6e4e6a372bfc94314dc16f0a15d683f3c84e8dd9a1bbe55af834ddd93",
       "url": "https://mmadecisions.com/decision/16352/Robelis-Despaigne-vs-Tai-Tuivasa"
     },
     {
@@ -36,7 +36,7 @@
     },
     {
       "rows": 15,
-      "sha256": "eba3f53a3e9f82d89422ecbafcd8c00ea5ea639e82291f1bbe12121ebde5d1a4",
+      "sha256": "6bba8c3d8dff6d18be65dcbc8f7d8e76b6c482832de487045a201b7ceb733c77",
       "url": "https://mmadecisions.com/decision/16358/Josh-Van-vs-Alexandre-Pantoja"
     },
     {
@@ -56,7 +56,7 @@
     },
     {
       "rows": 9,
-      "sha256": "d7a3b2e0b6523332dbbc10f1702c96ec51c06060059425007cc05ab4974e76ec",
+      "sha256": "c4d4d4d9060066eff31186c346abef8e59fd7a4fa0be024c51db297b7da4e8f8",
       "url": "https://mmadecisions.com/decision/16363/Heili-Alateng-vs-John-Castaneda"
     },
     {
@@ -66,7 +66,7 @@
     },
     {
       "rows": 9,
-      "sha256": "18c48858a4d2c3e56ea8dbe5fd06d0f28cc9254fea05825e718e238c16e415d7",
+      "sha256": "3c840b44b669036547d0b719adfee6e1fd13e3e856b661f3f238f71705fa7f14",
       "url": "https://mmadecisions.com/decision/16372/Ailin-Perez-vs-Norma-Dumont"
     }
   ],
