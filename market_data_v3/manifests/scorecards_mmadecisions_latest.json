@@ -3,11 +3,11 @@
   "decisions_refreshed": 12,
   "direct_feature_use": false,
   "discovery_year": 2026,
-  "generated_utc": "2026-10-01T17:10:03.759593+00:00",
+  "generated_utc": "2026-10-02T16:23:07.604788+00:00",
   "global_requests_per_second": 4.0,
   "known_pages_refreshed": 12,
   "output": "store/reference/source=mmadecisions/dataset=official_scorecards/data.parquet",
-  "output_sha256": "9ff180228db1a016af304a4a02433d457738c6be982a5cef623f2b542ca8e488",
+  "output_sha256": "8630ee83273424fea69ec508139107d5b124385a54647b01804bc9126487c9dd",
   "pages": [
     {
       "rows": 9,
@@ -16,7 +16,7 @@
     },
     {
       "rows": 9,
-      "sha256": "ca8fb28ed0a0adf6f09f9ad6934a226835d7d8c43a0ebfb1a9145a08da1b0141",
+      "sha256": "b9f8f082136e6391e252ea33c429e548627b88a9af38ace9877656c5b87f01c4",
       "url": "https://mmadecisions.com/decision/16349/Edmen-Shahbazyan-vs-Brunno-Ferreira"
     },
     {
@@ -26,17 +26,17 @@
     },
     {
       "rows": 9,
-      "sha256": "d292fce6e4e6a372bfc94314dc16f0a15d683f3c84e8dd9a1bbe55af834ddd93",
+      "sha256": "1e580a68a45c65e68d4a30fed8d39cf5e7913b88dfdd4973cb10df40c553a728",
       "url": "https://mmadecisions.com/decision/16352/Robelis-Despaigne-vs-Tai-Tuivasa"
     },
     {
       "rows": 9,
-      "sha256": "8b3c3e8d22143de47ca03f53d4c355e9906cb13c74538720dfff2c78adb2fb56",
+      "sha256": "66792c1dae9712367b8e7e8bf6dca463c9146105514f577eba771ad7536b0cfe",
       "url": "https://mmadecisions.com/decision/16354/Alonzo-Menifield-vs-Iwo-Baraniewski"
     },
     {
       "rows": 15,
-      "sha256": "6bba8c3d8dff6d18be65dcbc8f7d8e76b6c482832de487045a201b7ceb733c77",
+      "sha256": "14d71effcc613a66a86869d8273b352f166f609c6292bb1698a34b2398af4e5d",
       "url": "https://mmadecisions.com/decision/16358/Josh-Van-vs-Alexandre-Pantoja"
     },
     {
@@ -56,7 +56,7 @@
     },
     {
       "rows": 9,
-      "sha256": "c4d4d4d9060066eff31186c346abef8e59fd7a4fa0be024c51db297b7da4e8f8",
+      "sha256": "ca8608a011a962bb459c9466b0fd5f6d5b3235ab5be2630ca61e235728bf8db4",
       "url": "https://mmadecisions.com/decision/16363/Heili-Alateng-vs-John-Castaneda"
     },
     {
@@ -66,7 +66,7 @@
     },
     {
       "rows": 9,
-      "sha256": "3c840b44b669036547d0b719adfee6e1fd13e3e856b661f3f238f71705fa7f14",
+      "sha256": "dc1c7ab646990ef3c4f03238f3eb76189b1210c681faa2d666abde377b93ee81",
       "url": "https://mmadecisions.com/decision/16372/Ailin-Perez-vs-Norma-Dumont"
     }
   ],
