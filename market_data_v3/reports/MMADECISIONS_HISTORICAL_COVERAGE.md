@@ -1,6 +1,6 @@
 # Historical UFC judging coverage
 
-Generated: 2026-10-03T14:57:37.312949+00:00
+Generated: 2026-10-04T15:31:45.714555+00:00
 
 - Indexed UFC decisions: 3,547
 - Bootstrap fights with valid judge-round scores: 3,120

@@ -3,40 +3,25 @@
   "decisions_refreshed": 12,
   "direct_feature_use": false,
   "discovery_year": 2026,
-  "generated_utc": "2026-10-03T14:57:20.298508+00:00",
+  "generated_utc": "2026-10-04T15:31:22.523051+00:00",
   "global_requests_per_second": 4.0,
   "known_pages_refreshed": 12,
   "output": "store/reference/source=mmadecisions/dataset=official_scorecards/data.parquet",
-  "output_sha256": "3c0fa0e5f5bf4278e63bee023ac9d4ab9e9d832df4b037c492937d73f6b85bc2",
+  "output_sha256": "9fd86ebe463eb8473c32c9a1d3bb9dcd4bc2f4294aff97e4f389961d55e4fafc",
   "pages": [
     {
       "rows": 9,
-      "sha256": "4efa5ef522933ad8b131593a5f967af4ac31e2333eff252b79486ddd014fe982",
-      "url": "https://mmadecisions.com/decision/16345/Brandon-Moreno-vs-Joseph-Morales"
-    },
-    {
-      "rows": 9,
-      "sha256": "83305a124d1ebece9b5f5f2795d5306975d8b6db2c7c73053cebcbc2bc40d1ac",
-      "url": "https://mmadecisions.com/decision/16349/Edmen-Shahbazyan-vs-Brunno-Ferreira"
-    },
-    {
-      "rows": 9,
-      "sha256": "1d2c5a0fe7a9266ef73cb7eb0adc1315a6dd55cceb8075a25dca57c3391b1b6a",
-      "url": "https://mmadecisions.com/decision/16351/Michael-Aswell-vs-Joo-Sang-Yoo"
-    },
-    {
-      "rows": 9,
-      "sha256": "59fefef436dedfd3dc2cfc5c40c0ea2cc1f434ce6f5063b4a65775519ade3180",
+      "sha256": "304481af9f21f4df7a65f90b65a52230daebddc68c7c469ad013283a48654704",
       "url": "https://mmadecisions.com/decision/16352/Robelis-Despaigne-vs-Tai-Tuivasa"
     },
     {
       "rows": 9,
-      "sha256": "8a55be2be152df39f6186df8ef8d075f5740461a633052f19c9958665d9a32f2",
+      "sha256": "8c4b79e5c790653790bb9084543045e5a85fec9413ae106c0b225230e6e9a6a5",
       "url": "https://mmadecisions.com/decision/16354/Alonzo-Menifield-vs-Iwo-Baraniewski"
     },
     {
       "rows": 15,
-      "sha256": "b26135f5efab14d87e4911aa72209814483962f532f5bac0e4c9f0965ed9e2a9",
+      "sha256": "305d99e7cd0f5694b76bafafb6ffaa2509b273b819b2d9133f1e204e51462932",
       "url": "https://mmadecisions.com/decision/16358/Josh-Van-vs-Alexandre-Pantoja"
     },
     {
@@ -56,7 +41,7 @@
     },
     {
       "rows": 9,
-      "sha256": "0e0ea1e56d2ab6ce73190429ea83ae4e3e14833ef18370f0e2482e85d1f42c60",
+      "sha256": "cdddd91abde3b9b55ec0dba755ff4a0b0a9a31b0ab7f9dccd408b5c68b9bdfd2",
       "url": "https://mmadecisions.com/decision/16363/Heili-Alateng-vs-John-Castaneda"
     },
     {
@@ -66,12 +51,27 @@
     },
     {
       "rows": 9,
-      "sha256": "d65e5d72d1fee532d017da0767d2e4e6cc564913a1cce4a4621e31c187f9f7f7",
+      "sha256": "22563d520f6e0fa4792979731e6c1dee4de04aa4b3badb816d828c5d449e8866",
       "url": "https://mmadecisions.com/decision/16372/Ailin-Perez-vs-Norma-Dumont"
+    },
+    {
+      "rows": 9,
+      "sha256": "7f74d4297348aad2f8ba6406be0746f99ee3300daa0804a82c658da87d0b820d",
+      "url": "https://mmadecisions.com/decision/16375/Ismail-Naurdiev-vs-Marvin-Vettori"
+    },
+    {
+      "rows": 9,
+      "sha256": "85dd5607a9b8a19f6f51cdd8324cc52b6422f3618c603afa933fd04f1bed2965",
+      "url": "https://mmadecisions.com/decision/16384/Roberto-Soldic-vs-Khaos-Williams"
+    },
+    {
+      "rows": 15,
+      "sha256": "4260d806015a2575f0962212214f2d0273eb82b109a2b3f14db3c21c8dd575ec",
+      "url": "https://mmadecisions.com/decision/16387/Natalia-Silva-vs-Wang-Cong"
     }
   ],
   "pages_refreshed": 12,
   "source_pacing_seconds": 0.25,
-  "total_rows": 34895,
+  "total_rows": 34928,
   "workers": 6
 }
