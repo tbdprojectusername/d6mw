@@ -1,6 +1,6 @@
 {
   "contract": "MARKET-DATA-INVENTORY-1",
-  "generated_utc": "2026-10-04T15:31:52.244227+00:00",
+  "generated_utc": "2026-10-05T19:25:30.956976+00:00",
   "historical_props_by_category": [
     {
       "category": "A_5",
@@ -506,16 +506,16 @@
   "live_by_source": [
     {
       "first_observed": "2026-07-27T19:09:21.183156+00:00",
-      "last_observed": "2026-10-04T12:42:22.487674+00:00",
+      "last_observed": "2026-10-05T15:03:02.845148+00:00",
       "record_status": "accepted",
-      "row_count": 2048696,
+      "row_count": 2084978,
       "source": "bfo_live"
     },
     {
       "first_observed": "2026-08-13T13:20:49.217295+00:00",
-      "last_observed": "2026-10-04T12:42:50.530854+00:00",
+      "last_observed": "2026-10-05T15:05:30.017926+00:00",
       "record_status": "accepted",
-      "row_count": 265067,
+      "row_count": 268647,
       "source": "fightodds_live"
     },
     {
@@ -527,9 +527,9 @@
     },
     {
       "first_observed": "2026-07-26T04:18:01.319120+00:00",
-      "last_observed": "2026-10-04T12:42:31.694565+00:00",
+      "last_observed": "2026-10-05T15:03:09.341567+00:00",
       "record_status": "accepted",
-      "row_count": 289072,
+      "row_count": 295064,
       "source": "pinnacle_live"
     },
     {
@@ -558,33 +558,33 @@
     },
     {
       "first_observed": "2026-08-23T23:29:09.145038+00:00",
-      "last_observed": "2026-10-04T12:43:04.953371+00:00",
+      "last_observed": "2026-10-05T15:05:44.379929+00:00",
       "record_status": "raw_unverified",
-      "row_count": 583102,
+      "row_count": 583447,
       "source": "fightodds_live"
     }
   ],
-  "parquet_bytes": 424416498,
-  "parquet_files": 350,
+  "parquet_bytes": 426725054,
+  "parquet_files": 356,
   "reference_by_table": [
     {
       "dataset": "event_details",
-      "row_count": 790,
+      "row_count": 791,
       "source": "greco_ufcstats"
     },
     {
       "dataset": "fight_details",
-      "row_count": 8936,
+      "row_count": 8950,
       "source": "greco_ufcstats"
     },
     {
       "dataset": "fight_results",
-      "row_count": 8936,
+      "row_count": 8950,
       "source": "greco_ufcstats"
     },
     {
       "dataset": "fight_stats",
-      "row_count": 42012,
+      "row_count": 42062,
       "source": "greco_ufcstats"
     },
     {
@@ -632,15 +632,15 @@
     {
       "dataset": "rankings",
       "first_snapshot": "2026-08-23",
-      "last_snapshot": "2026-10-04",
-      "row_count": 8528,
+      "last_snapshot": "2026-10-05",
+      "row_count": 8736,
       "source": "octagon_api"
     },
     {
       "dataset": "roster",
       "first_snapshot": "2026-08-23",
-      "last_snapshot": "2026-10-04",
-      "row_count": 7134,
+      "last_snapshot": "2026-10-05",
+      "row_count": 7308,
       "source": "octagon_api"
     }
   ]

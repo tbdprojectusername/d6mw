@@ -1,7 +1,7 @@
 {
   "contract": "MARKET-DATA-REFERENCE-RAW-1",
   "direct_feature_use": false,
-  "generated_utc": "2026-10-04T15:31:05.385093+00:00",
+  "generated_utc": "2026-10-05T19:25:06.981321+00:00",
   "outputs": [
     {
       "columns": [
@@ -11,11 +11,11 @@
         "location"
       ],
       "output": "store/reference/source=greco_ufcstats/dataset=event_details/data.parquet",
-      "output_sha256": "972b91689a25ffaf3046b61f49b93843202235d62765079b337a4d5df25457dc",
-      "rows": 790,
+      "output_sha256": "a5585b4c6ddf27dec931250c40142f9e475a4173dad67cc4661d4471da97babf",
+      "rows": 791,
       "source_file": "ufc_event_details.csv",
-      "source_file_bytes": 102380,
-      "source_file_sha256": "a93868bba319fe0750c547dbe572be2222402cbf56bb86284f867c1b4ac96f13",
+      "source_file_bytes": 102502,
+      "source_file_sha256": "7ff5ff0155d6a1dc55a39b4ec61ef569c6ce0f43b1f22edd730744759e7ee66a",
       "table": "event_details"
     },
     {
@@ -25,11 +25,11 @@
         "url"
       ],
       "output": "store/reference/source=greco_ufcstats/dataset=fight_details/data.parquet",
-      "output_sha256": "f7a30b72948327c048e1150ffa22df8467853bce3b51ac80e054e7ece55b981c",
-      "rows": 8936,
+      "output_sha256": "45b6f1b0fc069966689fb51176ca53606eb613dbfb148311eefcfdb08fb97141",
+      "rows": 8950,
       "source_file": "ufc_fight_details.csv",
-      "source_file_bytes": 1040656,
-      "source_file_sha256": "19e970db06e5a42e83cfd67959b29d8e1b995af7d20d64512bf8c1b2fbb4e66b",
+      "source_file_bytes": 1042165,
+      "source_file_sha256": "075cb7928c86891d998e9d6a2fda971850979a0ebbbdd2c56ce2baa43d96af86",
       "table": "fight_details"
     },
     {
@@ -47,11 +47,11 @@
         "url"
       ],
       "output": "store/reference/source=greco_ufcstats/dataset=fight_results/data.parquet",
-      "output_sha256": "e5e7b69bb01732b1c644c7353f4c4165d01ca4fb9fe960698ad5da49b2b0738f",
-      "rows": 8936,
+      "output_sha256": "65d21a632e9fab988194e173107c15cbca72d6215b4b01aec5a323ece1abee0c",
+      "rows": 8950,
       "source_file": "ufc_fight_results.csv",
-      "source_file_bytes": 2098877,
-      "source_file_sha256": "67d25395a7925922c92f8c98e5cace863ebe4d47fc8fb7f1d47e4e798802c41b",
+      "source_file_bytes": 2101833,
+      "source_file_sha256": "e7253107447bf2eaab780776401b2543ac5283d0272771b67fde3d1983be139b",
       "table": "fight_results"
     },
     {
@@ -77,11 +77,11 @@
         "ground"
       ],
       "output": "store/reference/source=greco_ufcstats/dataset=fight_stats/data.parquet",
-      "output_sha256": "6cee43451fe84d2bce1ed1a70e8918cca39ec93877427e64c206f3f98e3674f5",
-      "rows": 42012,
+      "output_sha256": "ec82419c721c1a828da5cff3e66eeb43e4b508dfb02fc1cd12fcff711edd1030",
+      "rows": 42062,
       "source_file": "ufc_fight_stats.csv",
-      "source_file_bytes": 7644543,
-      "source_file_sha256": "f7ceb4db1b0493a65358507680542d1281a7cc4d604775608fc65250c0ee1aa5",
+      "source_file_bytes": 7653241,
+      "source_file_sha256": "58f6f0d7ac45f299c877e16135458c33cc3c50454c948abdeec5dc8ea54d2c09",
       "table": "fight_stats"
     },
     {
@@ -118,8 +118,8 @@
       "table": "fighter_tott"
     }
   ],
-  "rows": 69931,
+  "rows": 70010,
   "source": "greco_ufcstats",
   "source_directory": "/home/runner/work/_temp/ufcstats",
-  "source_revision": "6fa0560a596553f2ee6567877343b9cb9820146f"
+  "source_revision": "1ccacc5cd4f642bd2deb8b278405a0205791bfa3"
 }
