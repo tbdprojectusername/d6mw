@@ -1,20 +1,20 @@
 {
   "contract": "OCTAGON-PROSPECTIVE-SNAPSHOT-1",
   "direct_feature_use": false,
-  "generated_utc": "2026-10-06T16:58:11.007671+00:00",
+  "generated_utc": "2026-10-07T17:34:14.044315+00:00",
   "outputs": [
     {
-      "output": "store/snapshots/source=octagon_api/dataset=rankings/snapshot_date=2026-10-06/data.parquet",
+      "output": "store/snapshots/source=octagon_api/dataset=rankings/snapshot_date=2026-10-07/data.parquet",
       "rows": 208,
-      "sha256": "a9eff346f8891ce5907f694ff28b168fc6d794e3ed918530bbefd6329b69cd15",
+      "sha256": "e4276eda72c550018a6eb383fa518df479af681e6d3c36c364e9d26f40052d26",
       "table": "rankings"
     },
     {
-      "output": "store/snapshots/source=octagon_api/dataset=roster/snapshot_date=2026-10-06/data.parquet",
+      "output": "store/snapshots/source=octagon_api/dataset=roster/snapshot_date=2026-10-07/data.parquet",
       "rows": 174,
-      "sha256": "87bcac012520d5adc9db1bc82d6a1fa4339ea95a18f4aedf22bb10ee68bdf3d1",
+      "sha256": "f0e4a34375c698764b2912ac5197ffe4a043910f87ac37165c06b072c1c84761",
       "table": "roster"
     }
   ],
-  "snapshot_date": "2026-10-06"
+  "snapshot_date": "2026-10-07"
 }
