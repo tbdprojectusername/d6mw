@@ -3,7 +3,7 @@
   "contract": "MMADECISIONS-DIRECT-HISTORY-1",
   "direct_feature_use": false,
   "failed_pages": 0,
-  "generated_utc": "2026-10-09T17:12:55.954347+00:00",
+  "generated_utc": "2026-10-10T15:58:18.948595+00:00",
   "global_requests_per_second": 2.0,
   "max_pages": 100,
   "output": "store/reference/source=mmadecisions/dataset=official_scorecards/data.parquet",
