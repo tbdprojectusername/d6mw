@@ -1,6 +1,6 @@
 {
   "contract": "MARKET-DATA-INVENTORY-1",
-  "generated_utc": "2026-10-12T20:01:29.441143+00:00",
+  "generated_utc": "2026-10-12T22:07:39.482411+00:00",
   "historical_props_by_category": [
     {
       "category": "A_5",
@@ -506,9 +506,9 @@
   "live_by_source": [
     {
       "first_observed": "2026-07-27T19:09:21.183156+00:00",
-      "last_observed": "2026-10-12T11:04:43.394021+00:00",
+      "last_observed": "2026-10-12T21:11:53.951009+00:00",
       "record_status": "accepted",
-      "row_count": 2343590,
+      "row_count": 2358170,
       "source": "bfo_live"
     },
     {
@@ -527,9 +527,9 @@
     },
     {
       "first_observed": "2026-07-26T04:18:01.319120+00:00",
-      "last_observed": "2026-10-12T11:04:51.532896+00:00",
+      "last_observed": "2026-10-12T21:12:03.636133+00:00",
       "record_status": "accepted",
-      "row_count": 335176,
+      "row_count": 338300,
       "source": "pinnacle_live"
     },
     {
@@ -564,7 +564,7 @@
       "source": "fightodds_live"
     }
   ],
-  "parquet_bytes": 441783297,
+  "parquet_bytes": 442575193,
   "parquet_files": 386,
   "reference_by_table": [
     {
