@@ -10,7 +10,7 @@
   "development_through_2022_only": true,
   "direct_scorecards_sha256": "1be6ca7d6a6cfa1cbc9aeb7327c551555d7523230ef0b9e1e86899f6490157d7",
   "exact_or_direct_only": 3120,
-  "generated_utc": "2026-10-13T17:49:41.136590+00:00",
+  "generated_utc": "2026-10-14T15:33:08.025828+00:00",
   "indexed_decisions": 3547,
   "model_fit_performed": false,
   "output": "store/reference/source=mmadecisions_reconciliation/dataset=ufc_scorecard_identity/data.parquet",
