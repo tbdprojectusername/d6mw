@@ -3,11 +3,11 @@
   "decisions_refreshed": 12,
   "direct_feature_use": false,
   "discovery_year": 2026,
-  "generated_utc": "2026-10-13T17:49:16.625761+00:00",
+  "generated_utc": "2026-10-15T15:21:17.413782+00:00",
   "global_requests_per_second": 4.0,
   "known_pages_refreshed": 12,
   "output": "store/reference/source=mmadecisions/dataset=official_scorecards/data.parquet",
-  "output_sha256": "1be6ca7d6a6cfa1cbc9aeb7327c551555d7523230ef0b9e1e86899f6490157d7",
+  "output_sha256": "db6ee66eb3948d1348b2ff6f738633ccc49a60ea9302a456523edcec1f06fa60",
   "pages": [
     {
       "rows": 9,
@@ -36,7 +36,7 @@
     },
     {
       "rows": 9,
-      "sha256": "3499f8b823bafcf03b0bbf60ed8a47d57387f1fae35871bc99ad8930e984b9d0",
+      "sha256": "39de32e307decf911421219622eebd9c0e4468cb48a73953feab27c66b6f0cc8",
       "url": "https://mmadecisions.com/decision/16372/Ailin-Perez-vs-Norma-Dumont"
     },
     {
@@ -46,27 +46,27 @@
     },
     {
       "rows": 9,
-      "sha256": "89a4f51a0194e8746a7914e370ad3c0a753d3471b59daf8bda7cd756a9d5a9ee",
+      "sha256": "bc1fcb81b27d36cce74f9466a1f8292e0a78750821178d5fa20ac439100b13e7",
       "url": "https://mmadecisions.com/decision/16384/Roberto-Soldic-vs-Khaos-Williams"
     },
     {
       "rows": 15,
-      "sha256": "96031536df287a345f98ac6756b6b6ddcb1fd3b7ee5d475a0c07461563eeda16",
+      "sha256": "f1494fb51978dee684ff9469cf44e8e797638c8246b0f1d9fae68b566211d215",
       "url": "https://mmadecisions.com/decision/16387/Natalia-Silva-vs-Wang-Cong"
     },
     {
       "rows": 9,
-      "sha256": "f4ab514d94974801c49e7023429d0051fda0ce7f50fc6f98299830585d93d954",
+      "sha256": "9aac19674839be7fd24dd0fa582475abf331c4c956f23c02c65c377b4a074d09",
       "url": "https://mmadecisions.com/decision/16388/Ernesta-Kareckaite-vs-Melissa-Gatto"
     },
     {
       "rows": 9,
-      "sha256": "73a8b05a6364f5ddb9f863f91f8bf0a2de75b2ff934be206b872d9282c3c9876",
+      "sha256": "1094c6b9fc5739284685be172a97220b57b39708787be06d47f5d28b5388d5d0",
       "url": "https://mmadecisions.com/decision/16397/Lupita-Godinez-vs-Ketlen-Souza"
     },
     {
       "rows": 9,
-      "sha256": "7145e310c54f37cdb0aed4c88edaab21c1b6000d72bd7492b4d1a3a1428e362e",
+      "sha256": "934176a0399d27e1dc1381e59ec3d7a44786ae908f4fc794a407eed19a808755",
       "url": "https://mmadecisions.com/decision/16398/Jai-Herbert-vs-Matheus-Camilo"
     }
   ],
