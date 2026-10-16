@@ -3,11 +3,11 @@
   "decisions_refreshed": 12,
   "direct_feature_use": false,
   "discovery_year": 2026,
-  "generated_utc": "2026-10-15T15:21:17.413782+00:00",
+  "generated_utc": "2026-10-16T15:01:41.430034+00:00",
   "global_requests_per_second": 4.0,
   "known_pages_refreshed": 12,
   "output": "store/reference/source=mmadecisions/dataset=official_scorecards/data.parquet",
-  "output_sha256": "db6ee66eb3948d1348b2ff6f738633ccc49a60ea9302a456523edcec1f06fa60",
+  "output_sha256": "912bd8412c04a0356485ef5ff9536cb56377dc8346bdd8be28913e5ac754edb2",
   "pages": [
     {
       "rows": 9,
@@ -26,7 +26,7 @@
     },
     {
       "rows": 9,
-      "sha256": "24dc345959e56afb8b3cbb4145d34891ac7a318ed5b81b247081f2eb65a97d6e",
+      "sha256": "29af48e2f7ee63425bedd5836971ef9834c79658cff747c3e4fcf3bfdd95c55e",
       "url": "https://mmadecisions.com/decision/16363/Heili-Alateng-vs-John-Castaneda"
     },
     {
@@ -41,22 +41,22 @@
     },
     {
       "rows": 9,
-      "sha256": "2ccf167cb71bdc01b6248dfa80d0b204073a108ccf2a7c0bd1110c326ab8eede",
+      "sha256": "000668b3f78fdcd2f8d656cdca7fa4ad312daaa8c219c458799c4d230abd336c",
       "url": "https://mmadecisions.com/decision/16375/Ismail-Naurdiev-vs-Marvin-Vettori"
     },
     {
       "rows": 9,
-      "sha256": "bc1fcb81b27d36cce74f9466a1f8292e0a78750821178d5fa20ac439100b13e7",
+      "sha256": "1372c4119e5619a2c8233f188c8e1f4ca3f4831e0a75378eac733197eb4d9df3",
       "url": "https://mmadecisions.com/decision/16384/Roberto-Soldic-vs-Khaos-Williams"
     },
     {
       "rows": 15,
-      "sha256": "f1494fb51978dee684ff9469cf44e8e797638c8246b0f1d9fae68b566211d215",
+      "sha256": "3c83563548db5a22bb26bc29db4339b006011767720e9b74c0a474acebcf7c09",
       "url": "https://mmadecisions.com/decision/16387/Natalia-Silva-vs-Wang-Cong"
     },
     {
       "rows": 9,
-      "sha256": "9aac19674839be7fd24dd0fa582475abf331c4c956f23c02c65c377b4a074d09",
+      "sha256": "f8b68c2df2089958086ace1ac194bd20f95bd6368502190f74cc2b6ede45c573",
       "url": "https://mmadecisions.com/decision/16388/Ernesta-Kareckaite-vs-Melissa-Gatto"
     },
     {
