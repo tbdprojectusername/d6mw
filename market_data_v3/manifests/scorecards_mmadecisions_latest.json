@@ -3,32 +3,12 @@
   "decisions_refreshed": 12,
   "direct_feature_use": false,
   "discovery_year": 2026,
-  "generated_utc": "2026-10-16T15:01:41.430034+00:00",
+  "generated_utc": "2026-10-17T13:58:21.394583+00:00",
   "global_requests_per_second": 4.0,
   "known_pages_refreshed": 12,
   "output": "store/reference/source=mmadecisions/dataset=official_scorecards/data.parquet",
-  "output_sha256": "912bd8412c04a0356485ef5ff9536cb56377dc8346bdd8be28913e5ac754edb2",
+  "output_sha256": "78804f852e149d8475115d4a9eedb3c641b4c2f583a34a41bb5661bda7436d0e",
   "pages": [
-    {
-      "rows": 9,
-      "sha256": "e30eba57961402430e8562bf4b051aa7424c88cd0079506f71a1c5df17d14c03",
-      "url": "https://mmadecisions.com/decision/16359/Miguel-Haro-vs-Damien-McKenna"
-    },
-    {
-      "rows": 9,
-      "sha256": "a09683df03daae8aa927593bfe1d7ee2acb19b146c7450f337b44bfe03b4eb8e",
-      "url": "https://mmadecisions.com/decision/16360/Oliver-Tero-vs-Lewis-Byrne"
-    },
-    {
-      "rows": 9,
-      "sha256": "5518ca06db48d6f19d91e3085a586387a4b4037954e43cffa3e4aecf5720e33e",
-      "url": "https://mmadecisions.com/decision/16361/Kenny-Mokhonoana-vs-Solomon-Simon"
-    },
-    {
-      "rows": 9,
-      "sha256": "29af48e2f7ee63425bedd5836971ef9834c79658cff747c3e4fcf3bfdd95c55e",
-      "url": "https://mmadecisions.com/decision/16363/Heili-Alateng-vs-John-Castaneda"
-    },
     {
       "rows": 9,
       "sha256": "2f93a97982fb04c65567abe61ced899750b685163d2d46929c42b7305ac328ff",
@@ -36,7 +16,7 @@
     },
     {
       "rows": 9,
-      "sha256": "39de32e307decf911421219622eebd9c0e4468cb48a73953feab27c66b6f0cc8",
+      "sha256": "763a98fa3c02c4bc5a6db3bd9b3f3abef22c93aef547624810c192c003682630",
       "url": "https://mmadecisions.com/decision/16372/Ailin-Perez-vs-Norma-Dumont"
     },
     {
@@ -46,32 +26,52 @@
     },
     {
       "rows": 9,
-      "sha256": "1372c4119e5619a2c8233f188c8e1f4ca3f4831e0a75378eac733197eb4d9df3",
+      "sha256": "89a4f51a0194e8746a7914e370ad3c0a753d3471b59daf8bda7cd756a9d5a9ee",
       "url": "https://mmadecisions.com/decision/16384/Roberto-Soldic-vs-Khaos-Williams"
     },
     {
       "rows": 15,
-      "sha256": "3c83563548db5a22bb26bc29db4339b006011767720e9b74c0a474acebcf7c09",
+      "sha256": "c3a57ce9c7c1a55ae1467886886db5f6a4fed8dc4273ef3314a1fff58c483a45",
       "url": "https://mmadecisions.com/decision/16387/Natalia-Silva-vs-Wang-Cong"
     },
     {
       "rows": 9,
-      "sha256": "f8b68c2df2089958086ace1ac194bd20f95bd6368502190f74cc2b6ede45c573",
+      "sha256": "9aac19674839be7fd24dd0fa582475abf331c4c956f23c02c65c377b4a074d09",
       "url": "https://mmadecisions.com/decision/16388/Ernesta-Kareckaite-vs-Melissa-Gatto"
     },
     {
       "rows": 9,
-      "sha256": "1094c6b9fc5739284685be172a97220b57b39708787be06d47f5d28b5388d5d0",
+      "sha256": "ed8acd2b21c642a5b2f68b86c238295eaadb07c10354f30994fed0537a5133b7",
       "url": "https://mmadecisions.com/decision/16397/Lupita-Godinez-vs-Ketlen-Souza"
     },
     {
       "rows": 9,
       "sha256": "934176a0399d27e1dc1381e59ec3d7a44786ae908f4fc794a407eed19a808755",
       "url": "https://mmadecisions.com/decision/16398/Jai-Herbert-vs-Matheus-Camilo"
+    },
+    {
+      "rows": 3,
+      "sha256": "8a5d55b75f84e844af03d62e8a8731a945e93772a6efeed7d0d31e0506991735",
+      "url": "https://mmadecisions.com/decision/16400/Paulina-Wisniewska-vs-Chelsea-Hackett"
+    },
+    {
+      "rows": 5,
+      "sha256": "b302557e6a4fae2adbc778865912df039015a0e408186835c7b39f9aaa4bd4ba",
+      "url": "https://mmadecisions.com/decision/16401/Oualy-Tandia-vs-J.P.-Saint-Louis"
+    },
+    {
+      "rows": 3,
+      "sha256": "fcf0cc6a1f71a2c771ba408b80492ab2da7afdffc2bd849d8414c4c023bfda25",
+      "url": "https://mmadecisions.com/decision/16402/Timur-Khizriev-vs-Gabriel-Braga"
+    },
+    {
+      "rows": 3,
+      "sha256": "d1960d83b5bd946b75b02a29046c4d2af58c72a5f1b7c19d404d0513d0db6761",
+      "url": "https://mmadecisions.com/decision/16403/Jena-Bishop-vs-Liz-Carmouche"
     }
   ],
   "pages_refreshed": 12,
   "source_pacing_seconds": 0.25,
-  "total_rows": 34955,
+  "total_rows": 34969,
   "workers": 6
 }
