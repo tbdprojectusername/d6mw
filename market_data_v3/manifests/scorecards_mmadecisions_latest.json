@@ -3,11 +3,11 @@
   "decisions_refreshed": 12,
   "direct_feature_use": false,
   "discovery_year": 2026,
-  "generated_utc": "2026-10-20T15:24:14.474728+00:00",
+  "generated_utc": "2026-10-21T15:39:50.536176+00:00",
   "global_requests_per_second": 4.0,
   "known_pages_refreshed": 12,
   "output": "store/reference/source=mmadecisions/dataset=official_scorecards/data.parquet",
-  "output_sha256": "2fcdcaa28bfe6b70a31f8c7a1c03c2f18d42dca94b55e701abc6134aae84be9f",
+  "output_sha256": "ffd48abc4ee2030d515e520baa897c602024da7cfd17047220847c7870f509ef",
   "pages": [
     {
       "rows": 9,
@@ -16,12 +16,12 @@
     },
     {
       "rows": 15,
-      "sha256": "5f96ec2710148d688197d27ba24e5e31d48df31499f2faab8e5e4c7a6e27ca15",
+      "sha256": "2fb64880b816bb785f1c7427e60a943f06d24e05c7a582d18ec53d06276c32c2",
       "url": "https://mmadecisions.com/decision/16387/Natalia-Silva-vs-Wang-Cong"
     },
     {
       "rows": 9,
-      "sha256": "da0bf4da8349dc555831727d046217ab03bb21f00c193e1a78fd94f158b151e4",
+      "sha256": "65be6d8a744413458805f348ba67829e840b866689fde2b65e6ffdd703ab7060",
       "url": "https://mmadecisions.com/decision/16388/Ernesta-Kareckaite-vs-Melissa-Gatto"
     },
     {
@@ -31,7 +31,7 @@
     },
     {
       "rows": 9,
-      "sha256": "49f4790db53a26f15c522a7a3460603fcf9c3ed5dac22e48999b74239ffea479",
+      "sha256": "c0b4dab5bda29878809100a281638f0a8424d9ca7af9a8928f03008927554985",
       "url": "https://mmadecisions.com/decision/16398/Jai-Herbert-vs-Matheus-Camilo"
     },
     {
@@ -46,7 +46,7 @@
     },
     {
       "rows": 3,
-      "sha256": "b02709e3f7a9ec55f80c400f6d67a8f1ee77b69716416ab8869e4e9135e33540",
+      "sha256": "56bfcd44481f73e0e900b5bbc0f81ea07020f79a808c0bd22878148706d9cf90",
       "url": "https://mmadecisions.com/decision/16402/Timur-Khizriev-vs-Gabriel-Braga"
     },
     {
@@ -56,17 +56,17 @@
     },
     {
       "rows": 9,
-      "sha256": "6b4ddce2cd93ab5c64d991f0e47256081a86f87f36144f919a951aebcc224da0",
+      "sha256": "ca672dedca2c2c8a9f1f2c101cd70fe257be98093c13e5fee5178e62bd77d40c",
       "url": "https://mmadecisions.com/decision/16415/Jasmine-Jasudavicius-vs-Erin-Blanchfield"
     },
     {
       "rows": 9,
-      "sha256": "064563b17ba75d92d0feed747b450474c3b006fa676eda2a008eca663e477fd4",
+      "sha256": "03cbb0b5a88d6645a578b17b109ea7d6523a753c5064b7d012fe0ab0c8d41258",
       "url": "https://mmadecisions.com/decision/16417/Elez-Guri-vs-Gabriele-Lionetti"
     },
     {
       "rows": 9,
-      "sha256": "273f2106c7a2e4e73701aa00e32be15e523ce7a1bfd45a935c55e016a041977e",
+      "sha256": "af3944c293f3643875e7cf6e72143ea44be96ad9160694e62675c975c4e2cc74",
       "url": "https://mmadecisions.com/decision/16418/Jonathan-Rivera-vs-Angelo-Coppola"
     }
   ],
