@@ -1,8 +1,8 @@
 {
-  "accepted_rows": 3404999,
+  "accepted_rows": 3415063,
   "book_registry_version": "BOOK-REGISTRY-1",
   "contract": "MARKET-DATA-LIVE-1",
-  "generated_utc": "2026-10-22T12:25:20.939119+00:00",
+  "generated_utc": "2026-10-22T17:53:35.420070+00:00",
   "input_files": [
     {
       "bytes": 12781529,
@@ -65,10 +65,16 @@
       "sha256": "00dff09dd82ab74d53ef050ec1e2cd9a791a6523946ac63517686ec122b9e57b"
     },
     {
-      "bytes": 93551349,
+      "bytes": 94381915,
       "kind": "bfo",
       "name": "bfo_2026-10.csv",
-      "sha256": "9d980f58b2a4eb98b2fa6397a2abd5b7de0bf68d85d872224030cbe5069db071"
+      "sha256": "b76967a32fef25ec23b2cd318d1305ad3ffe3ef3b087bafdbad38f1c3e2f055f"
+    },
+    {
+      "bytes": 160845,
+      "kind": "bfo",
+      "name": "bfo_2026-10_p2.csv",
+      "sha256": "2cc671a2bcf9b7c1a6d1b826c52c11e803d71ccb8411e967b358c521f8d58964"
     },
     {
       "bytes": 753946,
@@ -89,10 +95,10 @@
       "sha256": "77bdd8fade62c65a5bb9ee6520b6cc5f4f0a65eb59d26c0e0b97e66dbcd95a1a"
     },
     {
-      "bytes": 33116427,
+      "bytes": 33501936,
       "kind": "pinnacle",
       "name": "pinnacle_2026-10.csv",
-      "sha256": "f293cd25048c0ef870337fdc86c322a6bcfcc6a02895c4a42f901aa8c7918f98"
+      "sha256": "c3a8a8aa9482b9df0173e9e9562b0fd0d00dd14c35bef6455693ddbb80f94d9b"
     }
   ],
   "outputs": [
@@ -621,8 +627,8 @@
     {
       "changed": true,
       "path": "store/live_quotes/source=bfo_live/observed_date=2026-10-22/quotes.parquet",
-      "rows": 20370,
-      "sha256": "cc92c51006849987afab910274f69c4524801684bd3656a40ff0e29eb94b1b7f"
+      "rows": 29250,
+      "sha256": "32135142ed737f4bd855f7c1570fc06efff00d33d7a18973de7dc3a0d68d6b4b"
     },
     {
       "changed": false,
@@ -1473,8 +1479,8 @@
     {
       "changed": true,
       "path": "store/live_quotes/source=pinnacle_live/observed_date=2026-10-22/quotes.parquet",
-      "rows": 2720,
-      "sha256": "e734cbf40b24809ce73be807c25e43629fab7e5e233b9923c61bb5c8da439419"
+      "rows": 3904,
+      "sha256": "9f21f7177fb69892fe7188cdc60fb86a9309d1443fe5a1e70158dea63615bc75"
     }
   ],
   "prop_input_files": [
@@ -1765,7 +1771,7 @@
   ],
   "prop_rows": 638140,
   "quarantined_rows": 1062,
-  "rows": 3406061,
+  "rows": 3416125,
   "source_directory": "/home/runner/work/_temp/capture/data",
-  "source_revision": "f52d643d3d56d4e2b0cd67ff0079c8d8571a4470"
+  "source_revision": "4694926686ed66c8e80723529b827585c0a84e59"
 }
