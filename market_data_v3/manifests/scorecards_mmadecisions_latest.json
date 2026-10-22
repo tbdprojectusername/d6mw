@@ -3,11 +3,11 @@
   "decisions_refreshed": 12,
   "direct_feature_use": false,
   "discovery_year": 2026,
-  "generated_utc": "2026-10-21T15:39:50.536176+00:00",
+  "generated_utc": "2026-10-22T15:41:29.168624+00:00",
   "global_requests_per_second": 4.0,
   "known_pages_refreshed": 12,
   "output": "store/reference/source=mmadecisions/dataset=official_scorecards/data.parquet",
-  "output_sha256": "ffd48abc4ee2030d515e520baa897c602024da7cfd17047220847c7870f509ef",
+  "output_sha256": "a144bd90857d99a5417d9137b3e98c8fc3f3d64667663a3d13e51e3a177476df",
   "pages": [
     {
       "rows": 9,
@@ -21,7 +21,7 @@
     },
     {
       "rows": 9,
-      "sha256": "65be6d8a744413458805f348ba67829e840b866689fde2b65e6ffdd703ab7060",
+      "sha256": "da0bf4da8349dc555831727d046217ab03bb21f00c193e1a78fd94f158b151e4",
       "url": "https://mmadecisions.com/decision/16388/Ernesta-Kareckaite-vs-Melissa-Gatto"
     },
     {
@@ -31,7 +31,7 @@
     },
     {
       "rows": 9,
-      "sha256": "c0b4dab5bda29878809100a281638f0a8424d9ca7af9a8928f03008927554985",
+      "sha256": "49f4790db53a26f15c522a7a3460603fcf9c3ed5dac22e48999b74239ffea479",
       "url": "https://mmadecisions.com/decision/16398/Jai-Herbert-vs-Matheus-Camilo"
     },
     {
@@ -41,17 +41,17 @@
     },
     {
       "rows": 5,
-      "sha256": "3f5ac4b758d447efa0e3f4fb48078e6ac7a3acc734261da1bc80fb7e51886565",
+      "sha256": "c2e25575ce757b71f865ed78bbd88cd9d35bca3d89f093267f639e3968da2d51",
       "url": "https://mmadecisions.com/decision/16401/Oualy-Tandia-vs-J.P.-Saint-Louis"
     },
     {
       "rows": 3,
-      "sha256": "56bfcd44481f73e0e900b5bbc0f81ea07020f79a808c0bd22878148706d9cf90",
+      "sha256": "4bc0fd2cc9fe674d31e4c7646fe3546c26556e81577655000ba5ccf95f3be148",
       "url": "https://mmadecisions.com/decision/16402/Timur-Khizriev-vs-Gabriel-Braga"
     },
     {
       "rows": 3,
-      "sha256": "1e6c92ada5d33bffd20f4cc48c866bdd43ca57fc27c9965b265709ef6e0d9420",
+      "sha256": "545c1c73881d82d954771fa34069672b8a79925912a08087f049d2147df21b26",
       "url": "https://mmadecisions.com/decision/16403/Jena-Bishop-vs-Liz-Carmouche"
     },
     {
@@ -61,12 +61,12 @@
     },
     {
       "rows": 9,
-      "sha256": "03cbb0b5a88d6645a578b17b109ea7d6523a753c5064b7d012fe0ab0c8d41258",
+      "sha256": "6a930b243389086711a030914eca41e17bec45c275285be78013da02145e6043",
       "url": "https://mmadecisions.com/decision/16417/Elez-Guri-vs-Gabriele-Lionetti"
     },
     {
       "rows": 9,
-      "sha256": "af3944c293f3643875e7cf6e72143ea44be96ad9160694e62675c975c4e2cc74",
+      "sha256": "22938dd52b82277fcb4841ef65a82a3ee6838f74111c726064f4c77ff77e813c",
       "url": "https://mmadecisions.com/decision/16418/Jonathan-Rivera-vs-Angelo-Coppola"
     }
   ],
