@@ -3,11 +3,11 @@
   "decisions_refreshed": 12,
   "direct_feature_use": false,
   "discovery_year": 2026,
-  "generated_utc": "2026-10-22T15:41:29.168624+00:00",
+  "generated_utc": "2026-10-23T15:30:02.718075+00:00",
   "global_requests_per_second": 4.0,
   "known_pages_refreshed": 12,
   "output": "store/reference/source=mmadecisions/dataset=official_scorecards/data.parquet",
-  "output_sha256": "a144bd90857d99a5417d9137b3e98c8fc3f3d64667663a3d13e51e3a177476df",
+  "output_sha256": "17a637211d8bc1e76ec3d43f61ad5a954e8f56d7d0126ab3760d7dd45e8341a6",
   "pages": [
     {
       "rows": 9,
@@ -21,7 +21,7 @@
     },
     {
       "rows": 9,
-      "sha256": "da0bf4da8349dc555831727d046217ab03bb21f00c193e1a78fd94f158b151e4",
+      "sha256": "65be6d8a744413458805f348ba67829e840b866689fde2b65e6ffdd703ab7060",
       "url": "https://mmadecisions.com/decision/16388/Ernesta-Kareckaite-vs-Melissa-Gatto"
     },
     {
@@ -41,27 +41,27 @@
     },
     {
       "rows": 5,
-      "sha256": "c2e25575ce757b71f865ed78bbd88cd9d35bca3d89f093267f639e3968da2d51",
+      "sha256": "3f5ac4b758d447efa0e3f4fb48078e6ac7a3acc734261da1bc80fb7e51886565",
       "url": "https://mmadecisions.com/decision/16401/Oualy-Tandia-vs-J.P.-Saint-Louis"
     },
     {
       "rows": 3,
-      "sha256": "4bc0fd2cc9fe674d31e4c7646fe3546c26556e81577655000ba5ccf95f3be148",
+      "sha256": "9ad2e8dd155cb51c6d51d4f2c7662cb9dab0021d05a0cce65c2ca49cad832e9c",
       "url": "https://mmadecisions.com/decision/16402/Timur-Khizriev-vs-Gabriel-Braga"
     },
     {
       "rows": 3,
-      "sha256": "545c1c73881d82d954771fa34069672b8a79925912a08087f049d2147df21b26",
+      "sha256": "1b0f896d42a0567d9db9f7995309db6dccfc441abf66012b97cf94a6ba60a0eb",
       "url": "https://mmadecisions.com/decision/16403/Jena-Bishop-vs-Liz-Carmouche"
     },
     {
       "rows": 9,
-      "sha256": "ca672dedca2c2c8a9f1f2c101cd70fe257be98093c13e5fee5178e62bd77d40c",
+      "sha256": "3f8765b70af130bdb8baf23789aa01ad7b3aafe7af677369c0b31c9cf6b8b47b",
       "url": "https://mmadecisions.com/decision/16415/Jasmine-Jasudavicius-vs-Erin-Blanchfield"
     },
     {
       "rows": 9,
-      "sha256": "6a930b243389086711a030914eca41e17bec45c275285be78013da02145e6043",
+      "sha256": "b700d05e61eda4e876c8425a423dcb60e13e4ab0f477193537d9e8e0fa79be83",
       "url": "https://mmadecisions.com/decision/16417/Elez-Guri-vs-Gabriele-Lionetti"
     },
     {
