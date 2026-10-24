@@ -3,20 +3,20 @@
   "decisions_refreshed": 12,
   "direct_feature_use": false,
   "discovery_year": 2026,
-  "generated_utc": "2026-10-23T15:30:02.718075+00:00",
+  "generated_utc": "2026-10-24T14:08:20.776113+00:00",
   "global_requests_per_second": 4.0,
   "known_pages_refreshed": 12,
   "output": "store/reference/source=mmadecisions/dataset=official_scorecards/data.parquet",
-  "output_sha256": "17a637211d8bc1e76ec3d43f61ad5a954e8f56d7d0126ab3760d7dd45e8341a6",
+  "output_sha256": "08377a9c853a076e51b42a94959c9aace61059d39b5c2a2cb6b6869f593c05c4",
   "pages": [
     {
       "rows": 9,
-      "sha256": "8bf5204f436c724230b19705507e518e1b5318c308683af4d19a08c997b56311",
+      "sha256": "addf824b6bb1eb344fd845eda8be23020b95173a0eb6f463bd71e56d6b88bd3e",
       "url": "https://mmadecisions.com/decision/16384/Roberto-Soldic-vs-Khaos-Williams"
     },
     {
       "rows": 15,
-      "sha256": "2fb64880b816bb785f1c7427e60a943f06d24e05c7a582d18ec53d06276c32c2",
+      "sha256": "027ea862cdf130acc28bd69f53be210a4d555df63605a878499df92c88df69b2",
       "url": "https://mmadecisions.com/decision/16387/Natalia-Silva-vs-Wang-Cong"
     },
     {
@@ -41,12 +41,12 @@
     },
     {
       "rows": 5,
-      "sha256": "3f5ac4b758d447efa0e3f4fb48078e6ac7a3acc734261da1bc80fb7e51886565",
+      "sha256": "94440a8476f087d4cf0f269441298e85ac6ac90e598a186732218210fdcba97e",
       "url": "https://mmadecisions.com/decision/16401/Oualy-Tandia-vs-J.P.-Saint-Louis"
     },
     {
       "rows": 3,
-      "sha256": "9ad2e8dd155cb51c6d51d4f2c7662cb9dab0021d05a0cce65c2ca49cad832e9c",
+      "sha256": "6b52d7442a6649e747743f6b29d94c42d8e557160a36f8e1c439c48bb5e252f4",
       "url": "https://mmadecisions.com/decision/16402/Timur-Khizriev-vs-Gabriel-Braga"
     },
     {
@@ -61,12 +61,12 @@
     },
     {
       "rows": 9,
-      "sha256": "b700d05e61eda4e876c8425a423dcb60e13e4ab0f477193537d9e8e0fa79be83",
+      "sha256": "928f42d1e20571fb70979ef5e1a3a6f892867ac466e71c043ceaa473d66393c8",
       "url": "https://mmadecisions.com/decision/16417/Elez-Guri-vs-Gabriele-Lionetti"
     },
     {
       "rows": 9,
-      "sha256": "22938dd52b82277fcb4841ef65a82a3ee6838f74111c726064f4c77ff77e813c",
+      "sha256": "8b7cb0f2acbcd6b766f32be6e6c3d75f9bceaf66e738eae90c6f27fd32425bfe",
       "url": "https://mmadecisions.com/decision/16418/Jonathan-Rivera-vs-Angelo-Coppola"
     }
   ],
