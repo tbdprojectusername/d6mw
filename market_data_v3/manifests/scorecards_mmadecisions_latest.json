@@ -3,50 +3,15 @@
   "decisions_refreshed": 12,
   "direct_feature_use": false,
   "discovery_year": 2026,
-  "generated_utc": "2026-10-24T14:08:20.776113+00:00",
+  "generated_utc": "2026-10-25T14:36:01.303028+00:00",
   "global_requests_per_second": 4.0,
   "known_pages_refreshed": 12,
   "output": "store/reference/source=mmadecisions/dataset=official_scorecards/data.parquet",
-  "output_sha256": "08377a9c853a076e51b42a94959c9aace61059d39b5c2a2cb6b6869f593c05c4",
+  "output_sha256": "0b5527ae5300470f8cc8551b71e15708627376290d40a77e674338a24d8a36b0",
   "pages": [
     {
-      "rows": 9,
-      "sha256": "addf824b6bb1eb344fd845eda8be23020b95173a0eb6f463bd71e56d6b88bd3e",
-      "url": "https://mmadecisions.com/decision/16384/Roberto-Soldic-vs-Khaos-Williams"
-    },
-    {
-      "rows": 15,
-      "sha256": "027ea862cdf130acc28bd69f53be210a4d555df63605a878499df92c88df69b2",
-      "url": "https://mmadecisions.com/decision/16387/Natalia-Silva-vs-Wang-Cong"
-    },
-    {
-      "rows": 9,
-      "sha256": "65be6d8a744413458805f348ba67829e840b866689fde2b65e6ffdd703ab7060",
-      "url": "https://mmadecisions.com/decision/16388/Ernesta-Kareckaite-vs-Melissa-Gatto"
-    },
-    {
-      "rows": 9,
-      "sha256": "4eec7e32b4267c0917149453e0d6b81a7ffb9aecec313500b5907c6c181d9ddd",
-      "url": "https://mmadecisions.com/decision/16397/Lupita-Godinez-vs-Ketlen-Souza"
-    },
-    {
-      "rows": 9,
-      "sha256": "49f4790db53a26f15c522a7a3460603fcf9c3ed5dac22e48999b74239ffea479",
-      "url": "https://mmadecisions.com/decision/16398/Jai-Herbert-vs-Matheus-Camilo"
-    },
-    {
       "rows": 3,
-      "sha256": "4f0d85b8c33ed096a4eab86b10b900ea42d75d238c54948cb337452c28b0bb4a",
-      "url": "https://mmadecisions.com/decision/16400/Paulina-Wisniewska-vs-Chelsea-Hackett"
-    },
-    {
-      "rows": 5,
-      "sha256": "94440a8476f087d4cf0f269441298e85ac6ac90e598a186732218210fdcba97e",
-      "url": "https://mmadecisions.com/decision/16401/Oualy-Tandia-vs-J.P.-Saint-Louis"
-    },
-    {
-      "rows": 3,
-      "sha256": "6b52d7442a6649e747743f6b29d94c42d8e557160a36f8e1c439c48bb5e252f4",
+      "sha256": "ed5efda41d3f6682849976439262c459dcf92a827bdb4cb6cb012bed4f84cda3",
       "url": "https://mmadecisions.com/decision/16402/Timur-Khizriev-vs-Gabriel-Braga"
     },
     {
@@ -56,22 +21,57 @@
     },
     {
       "rows": 9,
-      "sha256": "3f8765b70af130bdb8baf23789aa01ad7b3aafe7af677369c0b31c9cf6b8b47b",
+      "sha256": "f60439b8834f803ba26a1b65514d57be35497c1a409355ae7a5ec781c4f96f63",
       "url": "https://mmadecisions.com/decision/16415/Jasmine-Jasudavicius-vs-Erin-Blanchfield"
     },
     {
       "rows": 9,
-      "sha256": "928f42d1e20571fb70979ef5e1a3a6f892867ac466e71c043ceaa473d66393c8",
+      "sha256": "9793b2245a73d59d87cab743cf397353eacdcb31bb1b229287a3823a216283d3",
       "url": "https://mmadecisions.com/decision/16417/Elez-Guri-vs-Gabriele-Lionetti"
     },
     {
       "rows": 9,
       "sha256": "8b7cb0f2acbcd6b766f32be6e6c3d75f9bceaf66e738eae90c6f27fd32425bfe",
       "url": "https://mmadecisions.com/decision/16418/Jonathan-Rivera-vs-Angelo-Coppola"
+    },
+    {
+      "rows": 9,
+      "sha256": "236072b7012cd1f2365b84f0b4be40926ab00114f31e0063ecda6048fab74bd3",
+      "url": "https://mmadecisions.com/decision/16419/Iasmin-Lucindo-vs-Nicolle-Caliari"
+    },
+    {
+      "rows": 9,
+      "sha256": "4da7ef76194614562360f06974b81d98b0cb571a86c716e569d775fafddb0a48",
+      "url": "https://mmadecisions.com/decision/16421/Daniel-Santos-vs-Bolaji-Oki"
+    },
+    {
+      "rows": 9,
+      "sha256": "3e9d06a4141ad9642fc04c65bf593bb91514246d0fa41cba4979768ddb176e0f",
+      "url": "https://mmadecisions.com/decision/16422/Abubakar-Vagaev-vs-Jacob-Malkoun"
+    },
+    {
+      "rows": 9,
+      "sha256": "5e438c3e19be02d5dca6e4c328dbf5cfeeb138366468a4a02b3f6ee26b6bdb17",
+      "url": "https://mmadecisions.com/decision/16423/Colby-Thicknesse-vs-Asaf-Chopurov"
+    },
+    {
+      "rows": 9,
+      "sha256": "1a9978b3698c36041bb8dff99cfc8b7dee74dc398886fa43dfca61bb11131cdd",
+      "url": "https://mmadecisions.com/decision/16424/Grant-Dawson-vs-Nurullo-Aliev"
+    },
+    {
+      "rows": 9,
+      "sha256": "748a20cf9a50b2327f60f2e195c58e665104cfcf11a9e27d6624a6a1cf469a2c",
+      "url": "https://mmadecisions.com/decision/16429/Alexander-Volkov-vs-Rizvan-Kuniev"
+    },
+    {
+      "rows": 15,
+      "sha256": "2c5b93dae2e6be40e78c9e378281fb53643f2bf8cba53f7b55dceac60b9cbf83",
+      "url": "https://mmadecisions.com/decision/16431/Petr-Yan-vs-Merab-Dvalishvili"
     }
   ],
   "pages_refreshed": 12,
   "source_pacing_seconds": 0.25,
-  "total_rows": 34996,
+  "total_rows": 35065,
   "workers": 6
 }
