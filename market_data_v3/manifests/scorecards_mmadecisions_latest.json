@@ -3,30 +3,30 @@
   "decisions_refreshed": 12,
   "direct_feature_use": false,
   "discovery_year": 2026,
-  "generated_utc": "2026-10-26T17:01:54.124044+00:00",
+  "generated_utc": "2026-10-27T16:03:43.184482+00:00",
   "global_requests_per_second": 4.0,
   "known_pages_refreshed": 12,
   "output": "store/reference/source=mmadecisions/dataset=official_scorecards/data.parquet",
-  "output_sha256": "85160c257f1a23f69eed21904f34cfe9d841ce3382738bcd5462ffec868b74b6",
+  "output_sha256": "a0e4e97e7f31cefd36983753eb7885b056ab2ecd7a047dbd20049b0e1f5bfb9f",
   "pages": [
     {
       "rows": 3,
-      "sha256": "abf0581a5d07db7f37e2af95c805eaec04cc0cc4fb1494a42bbb141855671ed0",
+      "sha256": "790fd5578e4cb2541d2a172f881c70213b2a93a7c578f87f6335296e4ff34e28",
       "url": "https://mmadecisions.com/decision/16402/Timur-Khizriev-vs-Gabriel-Braga"
     },
     {
       "rows": 3,
-      "sha256": "1b0f896d42a0567d9db9f7995309db6dccfc441abf66012b97cf94a6ba60a0eb",
+      "sha256": "006777b9aea376ddbf0a10520825de12afb4e0121416e0ff7ddd93ee646dea36",
       "url": "https://mmadecisions.com/decision/16403/Jena-Bishop-vs-Liz-Carmouche"
     },
     {
       "rows": 9,
-      "sha256": "4120c76b9f30be01397732d932f56f2aec7e6fe00846fe59d959e7d654c76bf1",
+      "sha256": "0423493255e46475deb26e93b6ee3f8e9c0613015c485ce50188a49af7b14671",
       "url": "https://mmadecisions.com/decision/16415/Jasmine-Jasudavicius-vs-Erin-Blanchfield"
     },
     {
       "rows": 9,
-      "sha256": "8a407ebdf45bb75ced9d9d701bd607e654d8c4c088b78042fea3121cf460da1c",
+      "sha256": "3651e24d8033d72e022ad2f2694b3e1a3069c3f9edb45b479f360f152eddfb45",
       "url": "https://mmadecisions.com/decision/16417/Elez-Guri-vs-Gabriele-Lionetti"
     },
     {
@@ -36,37 +36,37 @@
     },
     {
       "rows": 9,
-      "sha256": "c5994828e71ba39791e98a646389a25f4b8042ed701bf1a90d70f8445b95040a",
+      "sha256": "6c740d2261e8ee811b7a984262a78187350928747b3e0a4564d76364d220d037",
       "url": "https://mmadecisions.com/decision/16419/Iasmin-Lucindo-vs-Nicolle-Caliari"
     },
     {
       "rows": 9,
-      "sha256": "1b733d33d0a3ceabb53bd037fb8a5bac1908740e855909cede82eb06385e3a2a",
+      "sha256": "37dee4bd7a8066d04a9ee2441d70b85c9d9ec96eb87c1394cb907926041ad244",
       "url": "https://mmadecisions.com/decision/16421/Daniel-Santos-vs-Bolaji-Oki"
     },
     {
       "rows": 9,
-      "sha256": "9d6c9a54dbd8f61fd8fb6f202c75e3b4c301bfa02c975685abcc5fcb073003d2",
+      "sha256": "0efd0e4b349d177ced5d428cd0c3a30d0214ce84b7bf8657fcde9e1cd4729114",
       "url": "https://mmadecisions.com/decision/16422/Abubakar-Vagaev-vs-Jacob-Malkoun"
     },
     {
       "rows": 9,
-      "sha256": "ec29e6d278ad681df40466e476adbeeb3c90167a380c7676f84a3564d4f011f9",
+      "sha256": "7183e7c56a247a0f474b52b7bf4b523454f9e32babb9ce77e636bc9675f735df",
       "url": "https://mmadecisions.com/decision/16423/Colby-Thicknesse-vs-Asaf-Chopurov"
     },
     {
       "rows": 9,
-      "sha256": "1b46f956bae850dd1c61b5607ea5d9fb6d2df67fc4a70bd6be9dfcc9252128f7",
+      "sha256": "99609b5b72016114a100d95e4c15d865e7198d58f8b195ba7d6892ed54014af5",
       "url": "https://mmadecisions.com/decision/16424/Grant-Dawson-vs-Nurullo-Aliev"
     },
     {
       "rows": 9,
-      "sha256": "ecb17047b6b5d5caf0695a598eea3a75d42b96d6ed4ab2290f8fc4766718afe2",
+      "sha256": "9f4b9d6203f492a2213b384197d6a3b459dc72ba7bba62841f408340a24df70d",
       "url": "https://mmadecisions.com/decision/16429/Alexander-Volkov-vs-Rizvan-Kuniev"
     },
     {
       "rows": 15,
-      "sha256": "2dda0676f27ccb45b2ce38c5a7f15be487ef1e7d4feb737763bb9bee32728cbd",
+      "sha256": "388cec74a21403325549cd09e5bb78e5b5a352e6a7c4c197c11426e56091df6e",
       "url": "https://mmadecisions.com/decision/16431/Petr-Yan-vs-Merab-Dvalishvili"
     }
   ],
