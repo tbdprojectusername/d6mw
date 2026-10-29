@@ -3,15 +3,15 @@
   "decisions_refreshed": 12,
   "direct_feature_use": false,
   "discovery_year": 2026,
-  "generated_utc": "2026-10-28T16:52:27.762616+00:00",
+  "generated_utc": "2026-10-29T17:06:41.821045+00:00",
   "global_requests_per_second": 4.0,
   "known_pages_refreshed": 12,
   "output": "store/reference/source=mmadecisions/dataset=official_scorecards/data.parquet",
-  "output_sha256": "ab1888425f96df76ce4a71ad2f4d8c5dc9e32f4792046b81f452a1b613892d97",
+  "output_sha256": "8b0c73ecebea82757a309f1ea2393f8446f74588318305fa5b67a835844a34a1",
   "pages": [
     {
       "rows": 3,
-      "sha256": "790fd5578e4cb2541d2a172f881c70213b2a93a7c578f87f6335296e4ff34e28",
+      "sha256": "8b2f3552ff7e4294910692952cd03bc00846c4aa927ad28ac8ba4ef20f36ecaa",
       "url": "https://mmadecisions.com/decision/16402/Timur-Khizriev-vs-Gabriel-Braga"
     },
     {
@@ -26,47 +26,47 @@
     },
     {
       "rows": 9,
-      "sha256": "f788e2ae2df04f8d12769e0ed1b250d7d6a6f915d09cb0b88b725666e4ffa2a4",
+      "sha256": "4fc6fcd70040feebea72bec5b07bf56de52f892d4a43efae48f8b29814791cde",
       "url": "https://mmadecisions.com/decision/16417/Elez-Guri-vs-Gabriele-Lionetti"
     },
     {
       "rows": 9,
-      "sha256": "6a22b347000ba0576d85406b29fb5ff5cc127bdf655dfb249e4ebdcc339b3077",
+      "sha256": "a6d72d7ada600811198af2a75d09fafe78d8f01a3045d95e074172bfd6576862",
       "url": "https://mmadecisions.com/decision/16418/Jonathan-Rivera-vs-Angelo-Coppola"
     },
     {
       "rows": 9,
-      "sha256": "2878140c28055f140ea7f93156329d25827aa7ddd9c0b9328ac2f41a5e34167e",
+      "sha256": "760f46771e167bc6e64790504351c063a03ae1caba6cca535153894997b5b95c",
       "url": "https://mmadecisions.com/decision/16419/Iasmin-Lucindo-vs-Nicolle-Caliari"
     },
     {
       "rows": 9,
-      "sha256": "cf0dff64d64db61f75b9ebec52e33c929d0863511faa7d93ea355233a89569c2",
+      "sha256": "631cd48a0aa146c3ff2fa00a0239a0dd3820c98e99e20e990cc41e3ed7d559b6",
       "url": "https://mmadecisions.com/decision/16421/Daniel-Santos-vs-Bolaji-Oki"
     },
     {
       "rows": 9,
-      "sha256": "0bd70614d054c54fb0018c83ae53afcc2477d15781968cc23a51ba5f64046517",
+      "sha256": "cebc2cfe5ed995b38b318f3889a30db67a2a431a2dc1494f17bd810dbfd84f86",
       "url": "https://mmadecisions.com/decision/16422/Abubakar-Vagaev-vs-Jacob-Malkoun"
     },
     {
       "rows": 9,
-      "sha256": "fc2c8c876e9098ec62bae9fa2f64ace56d68cc3bebb730ba9a27c33e4d66f43d",
+      "sha256": "f4b87a265455471493b3db1226e2874aa699f30d1af3a600b993c61458db746e",
       "url": "https://mmadecisions.com/decision/16423/Colby-Thicknesse-vs-Asaf-Chopurov"
     },
     {
       "rows": 9,
-      "sha256": "c38c092e85c04449c4e4c6b9c5ff87c1eb919b2a3425f4f922ef4a9510880ae0",
+      "sha256": "c1a77aaaa3c9dc4370b0095922b08493a2b707faa053929115f67b335b739247",
       "url": "https://mmadecisions.com/decision/16424/Grant-Dawson-vs-Nurullo-Aliev"
     },
     {
       "rows": 9,
-      "sha256": "a685bef69f8eec106e1a93f24c1bf0d21208d7cc8cfe4d03dc78ae76f4597f58",
+      "sha256": "8c87dc86720b6ac5181be4110053ab8e485a401f54e67ecbca6ed57b7487e381",
       "url": "https://mmadecisions.com/decision/16429/Alexander-Volkov-vs-Rizvan-Kuniev"
     },
     {
       "rows": 15,
-      "sha256": "6192e657bbcb252170ac97ae5e04258f897f4015d36d3a8f9f7a248b3e83ea47",
+      "sha256": "cdff3332aea3f4858ecaf2a963dd5d0b09070651da82db0858cf9042e15d29ac",
       "url": "https://mmadecisions.com/decision/16431/Petr-Yan-vs-Merab-Dvalishvili"
     }
   ],
