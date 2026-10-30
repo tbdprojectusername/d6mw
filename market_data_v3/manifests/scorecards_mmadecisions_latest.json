@@ -3,11 +3,11 @@
   "decisions_refreshed": 12,
   "direct_feature_use": false,
   "discovery_year": 2026,
-  "generated_utc": "2026-10-29T17:06:41.821045+00:00",
+  "generated_utc": "2026-10-30T16:50:29.184362+00:00",
   "global_requests_per_second": 4.0,
   "known_pages_refreshed": 12,
   "output": "store/reference/source=mmadecisions/dataset=official_scorecards/data.parquet",
-  "output_sha256": "8b0c73ecebea82757a309f1ea2393f8446f74588318305fa5b67a835844a34a1",
+  "output_sha256": "ed33c03ce8d056913d2e4ae8153d3ade8c1b39f4c12380ed735f580300e03263",
   "pages": [
     {
       "rows": 3,
@@ -26,17 +26,17 @@
     },
     {
       "rows": 9,
-      "sha256": "4fc6fcd70040feebea72bec5b07bf56de52f892d4a43efae48f8b29814791cde",
+      "sha256": "65ee61641df8ea1653c1544981556eb4c4452f18d698ccdc7528abdd9b11c30c",
       "url": "https://mmadecisions.com/decision/16417/Elez-Guri-vs-Gabriele-Lionetti"
     },
     {
       "rows": 9,
-      "sha256": "a6d72d7ada600811198af2a75d09fafe78d8f01a3045d95e074172bfd6576862",
+      "sha256": "6a22b347000ba0576d85406b29fb5ff5cc127bdf655dfb249e4ebdcc339b3077",
       "url": "https://mmadecisions.com/decision/16418/Jonathan-Rivera-vs-Angelo-Coppola"
     },
     {
       "rows": 9,
-      "sha256": "760f46771e167bc6e64790504351c063a03ae1caba6cca535153894997b5b95c",
+      "sha256": "5a4d8853d73c3d8d30b9abe4a5b4f6e927556ec379a56cf7c9aa4cf0f461d24a",
       "url": "https://mmadecisions.com/decision/16419/Iasmin-Lucindo-vs-Nicolle-Caliari"
     },
     {
@@ -46,12 +46,12 @@
     },
     {
       "rows": 9,
-      "sha256": "cebc2cfe5ed995b38b318f3889a30db67a2a431a2dc1494f17bd810dbfd84f86",
+      "sha256": "4def96b727d39c700ef5db125f9d56532191246cc4d8452637b3b4f8959d3dfd",
       "url": "https://mmadecisions.com/decision/16422/Abubakar-Vagaev-vs-Jacob-Malkoun"
     },
     {
       "rows": 9,
-      "sha256": "f4b87a265455471493b3db1226e2874aa699f30d1af3a600b993c61458db746e",
+      "sha256": "63b54a5eb540a023e2b1047ae042393366bf35b12c07496f829f2e3b5d310d9a",
       "url": "https://mmadecisions.com/decision/16423/Colby-Thicknesse-vs-Asaf-Chopurov"
     },
     {
@@ -61,12 +61,12 @@
     },
     {
       "rows": 9,
-      "sha256": "8c87dc86720b6ac5181be4110053ab8e485a401f54e67ecbca6ed57b7487e381",
+      "sha256": "cf001a4574ca7bd5e409fd85347f09cea1fba3f33a9662f8947abe26afa6fdf9",
       "url": "https://mmadecisions.com/decision/16429/Alexander-Volkov-vs-Rizvan-Kuniev"
     },
     {
       "rows": 15,
-      "sha256": "cdff3332aea3f4858ecaf2a963dd5d0b09070651da82db0858cf9042e15d29ac",
+      "sha256": "e08b35c48daaa569bd4c9621c3c41f53a872ec4f25533185d109070068d92673",
       "url": "https://mmadecisions.com/decision/16431/Petr-Yan-vs-Merab-Dvalishvili"
     }
   ],
