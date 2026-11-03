@@ -3,11 +3,11 @@
   "decisions_refreshed": 12,
   "direct_feature_use": false,
   "discovery_year": 2026,
-  "generated_utc": "2026-11-02T20:32:03.546145+00:00",
+  "generated_utc": "2026-11-03T18:05:19.510564+00:00",
   "global_requests_per_second": 4.0,
   "known_pages_refreshed": 12,
   "output": "store/reference/source=mmadecisions/dataset=official_scorecards/data.parquet",
-  "output_sha256": "007164ffc2ce929184aa451c89def4be08f553a94117878af0a2c9358e6bd87b",
+  "output_sha256": "e0413d35f7d0cdacdecfd0125f1b3459fe88d594c8fb3884c0ddcc9b38a4e4f5",
   "pages": [
     {
       "rows": 9,
@@ -21,12 +21,12 @@
     },
     {
       "rows": 9,
-      "sha256": "71a612f1f0c722bfd0365e318d4cca9502f4e8ed58b15c0442f6a60ecaded148",
+      "sha256": "6a4a1eadb1183bbc2ba713807aeec5f0e6441171680650227ea5cf2c1f47ace6",
       "url": "https://mmadecisions.com/decision/16423/Colby-Thicknesse-vs-Asaf-Chopurov"
     },
     {
       "rows": 9,
-      "sha256": "f0297f1f7cae576046a32ff56a882c32757eeab8e4b2ea83def6f83bcbd6a4cd",
+      "sha256": "ef3d1460d0aac299abd389cdb3f5a5770aeada90be44bd5e821949455a362c86",
       "url": "https://mmadecisions.com/decision/16424/Grant-Dawson-vs-Nurullo-Aliev"
     },
     {
@@ -36,7 +36,7 @@
     },
     {
       "rows": 15,
-      "sha256": "ec62eb5f9c4eeba72d5e885a7b8d217b609a6a2b313c4532ad65b91226eff9cf",
+      "sha256": "f74019a4f179ec770694f881830cc799474a7a3510d743ac9655bd9b9fe906f0",
       "url": "https://mmadecisions.com/decision/16431/Petr-Yan-vs-Merab-Dvalishvili"
     },
     {
@@ -51,7 +51,7 @@
     },
     {
       "rows": 9,
-      "sha256": "6c2056de51d5a0a1f331fb346f252039890de38c6f22cb7460c8bc2e1f04f811",
+      "sha256": "3cb4d1fb78b7b13849173167275848a58af15ad319fb121d89365dd670c6644d",
       "url": "https://mmadecisions.com/decision/16439/Dakota-Hope-vs-Francis-Marshall"
     },
     {
@@ -61,12 +61,12 @@
     },
     {
       "rows": 9,
-      "sha256": "71c4edbbbec0c11f80bbd726043e772287de8391d86a0ca227ee60a71ba4ede5",
+      "sha256": "34e0d48272046bac8c6da3f491e0bbe4e53462a20e15861c984a66db01ded36b",
       "url": "https://mmadecisions.com/decision/16442/Cody-Durden-vs-Ode-Osbourne"
     },
     {
       "rows": 9,
-      "sha256": "2b5604e93913edbfed46fb3eb0d89e6d2f02aaafc8398df9e82b866967784e82",
+      "sha256": "0c0fa455b4c457c5909b067427def132495d24722857b6a32d9fa3e56fb4abd9",
       "url": "https://mmadecisions.com/decision/16443/Jacobe-Smith-vs-Randy-Brown"
     }
   ],

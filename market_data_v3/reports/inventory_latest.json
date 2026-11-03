@@ -1,6 +1,6 @@
 {
   "contract": "MARKET-DATA-INVENTORY-1",
-  "generated_utc": "2026-11-02T22:45:36.052526+00:00",
+  "generated_utc": "2026-11-03T18:05:50.996775+00:00",
   "historical_props_by_category": [
     {
       "category": "A_5",
@@ -506,9 +506,9 @@
   "live_by_source": [
     {
       "first_observed": "2026-07-27T19:09:21.183156+00:00",
-      "last_observed": "2026-11-02T19:33:52.949185+00:00",
+      "last_observed": "2026-11-03T11:09:56.634074+00:00",
       "record_status": "accepted",
-      "row_count": 3206084,
+      "row_count": 3237814,
       "source": "bfo_live"
     },
     {
@@ -527,9 +527,9 @@
     },
     {
       "first_observed": "2026-07-26T04:18:01.319120+00:00",
-      "last_observed": "2026-11-02T19:34:03.400613+00:00",
+      "last_observed": "2026-11-03T11:10:08.947246+00:00",
       "record_status": "accepted",
-      "row_count": 451978,
+      "row_count": 455278,
       "source": "pinnacle_live"
     },
     {
@@ -564,8 +564,8 @@
       "source": "fightodds_live"
     }
   ],
-  "parquet_bytes": 488502353,
-  "parquet_files": 470,
+  "parquet_bytes": 490212491,
+  "parquet_files": 474,
   "reference_by_table": [
     {
       "dataset": "event_details",
@@ -632,15 +632,15 @@
     {
       "dataset": "rankings",
       "first_snapshot": "2026-08-23",
-      "last_snapshot": "2026-11-02",
-      "row_count": 14560,
+      "last_snapshot": "2026-11-03",
+      "row_count": 14768,
       "source": "octagon_api"
     },
     {
       "dataset": "roster",
       "first_snapshot": "2026-08-23",
-      "last_snapshot": "2026-11-02",
-      "row_count": 12180,
+      "last_snapshot": "2026-11-03",
+      "row_count": 12354,
       "source": "octagon_api"
     }
   ]
