@@ -3,11 +3,11 @@
   "decisions_refreshed": 12,
   "direct_feature_use": false,
   "discovery_year": 2026,
-  "generated_utc": "2026-11-03T18:05:19.510564+00:00",
+  "generated_utc": "2026-11-04T18:15:54.725928+00:00",
   "global_requests_per_second": 4.0,
   "known_pages_refreshed": 12,
   "output": "store/reference/source=mmadecisions/dataset=official_scorecards/data.parquet",
-  "output_sha256": "e0413d35f7d0cdacdecfd0125f1b3459fe88d594c8fb3884c0ddcc9b38a4e4f5",
+  "output_sha256": "7f1222af5994f0042b6b2bb8a76f9f4ce4da496ccd00e2afd5aba7f83ab447e1",
   "pages": [
     {
       "rows": 9,
@@ -41,32 +41,32 @@
     },
     {
       "rows": 9,
-      "sha256": "80037dc730fbb24b8da6a93f4ea8ab7bae6d0ce2ede1f15b03ad4889d1db3d2b",
+      "sha256": "66953cf9da1ab432ad9e13460060cac133c34ae2959c47b49f07ced0398da2db",
       "url": "https://mmadecisions.com/decision/16434/Piera-Rodriguez-vs-Talita-Alencar"
     },
     {
       "rows": 9,
-      "sha256": "367b0b4c9f5a87b6268156b745e87f9ee25b1c38c730a8a5dc8716d6ce8ca718",
+      "sha256": "a7d1a3b0a198fbadc9ba81e5d29582ec5f3c2034bb23468c3537c8bf41c6885c",
       "url": "https://mmadecisions.com/decision/16436/Zach-Reese-vs-Mickey-Gall"
     },
     {
       "rows": 9,
-      "sha256": "3cb4d1fb78b7b13849173167275848a58af15ad319fb121d89365dd670c6644d",
+      "sha256": "ddb3ad27303836e339e7f2cfd09f54ef6e7abc6dc5ae3b88e9c437a97fb43596",
       "url": "https://mmadecisions.com/decision/16439/Dakota-Hope-vs-Francis-Marshall"
     },
     {
       "rows": 9,
-      "sha256": "182b732c71b4e4a50a35e5785d56f1fd024588aef6f16f835ad221594377c4de",
+      "sha256": "ccfd5f6f4c9242a9c9cd5e6430822596a6d930de2835069e2993c2d0294c128f",
       "url": "https://mmadecisions.com/decision/16441/Luana-Santos-vs-Yana-Santos"
     },
     {
       "rows": 9,
-      "sha256": "34e0d48272046bac8c6da3f491e0bbe4e53462a20e15861c984a66db01ded36b",
+      "sha256": "0292f254cd6b2ebd2b7e74728e29743d7085829aef5c37b3ebdbffd7f4bcad7a",
       "url": "https://mmadecisions.com/decision/16442/Cody-Durden-vs-Ode-Osbourne"
     },
     {
       "rows": 9,
-      "sha256": "0c0fa455b4c457c5909b067427def132495d24722857b6a32d9fa3e56fb4abd9",
+      "sha256": "a03f68d07625f0f9cd70cb5ea58f4f6d20024e0a2ff59a952c26df412729b666",
       "url": "https://mmadecisions.com/decision/16443/Jacobe-Smith-vs-Randy-Brown"
     }
   ],
