@@ -3,11 +3,11 @@
   "decisions_refreshed": 12,
   "direct_feature_use": false,
   "discovery_year": 2026,
-  "generated_utc": "2026-11-04T18:15:54.725928+00:00",
+  "generated_utc": "2026-11-05T18:19:38.319565+00:00",
   "global_requests_per_second": 4.0,
   "known_pages_refreshed": 12,
   "output": "store/reference/source=mmadecisions/dataset=official_scorecards/data.parquet",
-  "output_sha256": "7f1222af5994f0042b6b2bb8a76f9f4ce4da496ccd00e2afd5aba7f83ab447e1",
+  "output_sha256": "d282a12aea551ec82cfb3c7aea4f8218fe03b43b572cdddfaf8c1a53c0a17ec7",
   "pages": [
     {
       "rows": 9,
@@ -26,7 +26,7 @@
     },
     {
       "rows": 9,
-      "sha256": "ef3d1460d0aac299abd389cdb3f5a5770aeada90be44bd5e821949455a362c86",
+      "sha256": "9ff2059ae7719faf923a104134550c6fcdbb38d781831ba6d83646b718515510",
       "url": "https://mmadecisions.com/decision/16424/Grant-Dawson-vs-Nurullo-Aliev"
     },
     {
@@ -36,37 +36,37 @@
     },
     {
       "rows": 15,
-      "sha256": "f74019a4f179ec770694f881830cc799474a7a3510d743ac9655bd9b9fe906f0",
+      "sha256": "6825bcf78d765be3818b903b19476f5ec049392ac80ea0a5cff32730a6b93ef3",
       "url": "https://mmadecisions.com/decision/16431/Petr-Yan-vs-Merab-Dvalishvili"
     },
     {
       "rows": 9,
-      "sha256": "66953cf9da1ab432ad9e13460060cac133c34ae2959c47b49f07ced0398da2db",
+      "sha256": "1b0d47e0d6d2d0ef5850ae22576007d391d3390a6ef6d0dc6070ff2231eec9de",
       "url": "https://mmadecisions.com/decision/16434/Piera-Rodriguez-vs-Talita-Alencar"
     },
     {
       "rows": 9,
-      "sha256": "a7d1a3b0a198fbadc9ba81e5d29582ec5f3c2034bb23468c3537c8bf41c6885c",
+      "sha256": "6a67ca8bc6dc9eec33722619d82084b8c1800b41f4888a7d974e98bb06c2f66d",
       "url": "https://mmadecisions.com/decision/16436/Zach-Reese-vs-Mickey-Gall"
     },
     {
       "rows": 9,
-      "sha256": "ddb3ad27303836e339e7f2cfd09f54ef6e7abc6dc5ae3b88e9c437a97fb43596",
+      "sha256": "11bb435e0f2351ee16fc3651dea0eaa2acd49fe52de9406e1041c1b08d793070",
       "url": "https://mmadecisions.com/decision/16439/Dakota-Hope-vs-Francis-Marshall"
     },
     {
       "rows": 9,
-      "sha256": "ccfd5f6f4c9242a9c9cd5e6430822596a6d930de2835069e2993c2d0294c128f",
+      "sha256": "abd87e0584b016796f486b424b2b26cfcd100d80d43598e0b137cdbb5acda9f5",
       "url": "https://mmadecisions.com/decision/16441/Luana-Santos-vs-Yana-Santos"
     },
     {
       "rows": 9,
-      "sha256": "0292f254cd6b2ebd2b7e74728e29743d7085829aef5c37b3ebdbffd7f4bcad7a",
+      "sha256": "4ca5f9778eb5cb97190f69b712325b6525a09d2eadbc6606c2541d46106fff25",
       "url": "https://mmadecisions.com/decision/16442/Cody-Durden-vs-Ode-Osbourne"
     },
     {
       "rows": 9,
-      "sha256": "a03f68d07625f0f9cd70cb5ea58f4f6d20024e0a2ff59a952c26df412729b666",
+      "sha256": "e25f37a92ecd295fc8f43047d122911194a0c94b6f1ec5fa9af8406af6d5c26e",
       "url": "https://mmadecisions.com/decision/16443/Jacobe-Smith-vs-Randy-Brown"
     }
   ],
