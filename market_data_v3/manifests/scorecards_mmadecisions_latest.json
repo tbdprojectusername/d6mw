@@ -3,11 +3,11 @@
   "decisions_refreshed": 12,
   "direct_feature_use": false,
   "discovery_year": 2026,
-  "generated_utc": "2026-11-05T18:19:38.319565+00:00",
+  "generated_utc": "2026-11-06T17:42:16.521094+00:00",
   "global_requests_per_second": 4.0,
   "known_pages_refreshed": 12,
   "output": "store/reference/source=mmadecisions/dataset=official_scorecards/data.parquet",
-  "output_sha256": "d282a12aea551ec82cfb3c7aea4f8218fe03b43b572cdddfaf8c1a53c0a17ec7",
+  "output_sha256": "14c9a7a5550d21378bf69a32fa51c85d7db2325e07e807056f50604ad1076006",
   "pages": [
     {
       "rows": 9,
@@ -16,17 +16,17 @@
     },
     {
       "rows": 9,
-      "sha256": "a2e89ec226f672d50833a80c9f73987dbe8d92862b766851206fcd7dbadeda46",
+      "sha256": "175eac0ab0ca8fb95cef7f285f6f98067d4811871bde468d03aa8498ef25da20",
       "url": "https://mmadecisions.com/decision/16422/Abubakar-Vagaev-vs-Jacob-Malkoun"
     },
     {
       "rows": 9,
-      "sha256": "6a4a1eadb1183bbc2ba713807aeec5f0e6441171680650227ea5cf2c1f47ace6",
+      "sha256": "6dafec162dfdf306325fea073db3b0b4279c40c449780d9c042708f5163bf158",
       "url": "https://mmadecisions.com/decision/16423/Colby-Thicknesse-vs-Asaf-Chopurov"
     },
     {
       "rows": 9,
-      "sha256": "9ff2059ae7719faf923a104134550c6fcdbb38d781831ba6d83646b718515510",
+      "sha256": "f0297f1f7cae576046a32ff56a882c32757eeab8e4b2ea83def6f83bcbd6a4cd",
       "url": "https://mmadecisions.com/decision/16424/Grant-Dawson-vs-Nurullo-Aliev"
     },
     {
@@ -41,7 +41,7 @@
     },
     {
       "rows": 9,
-      "sha256": "1b0d47e0d6d2d0ef5850ae22576007d391d3390a6ef6d0dc6070ff2231eec9de",
+      "sha256": "10059bbdb05c6ce1676a0482b0a8d2060e8939b9753e990407bf93bb373a35e9",
       "url": "https://mmadecisions.com/decision/16434/Piera-Rodriguez-vs-Talita-Alencar"
     },
     {
@@ -66,7 +66,7 @@
     },
     {
       "rows": 9,
-      "sha256": "e25f37a92ecd295fc8f43047d122911194a0c94b6f1ec5fa9af8406af6d5c26e",
+      "sha256": "4cfc9a8f3675d912cc2283a7a98731193f5af3973a7409a0a671fd63d284279c",
       "url": "https://mmadecisions.com/decision/16443/Jacobe-Smith-vs-Randy-Brown"
     }
   ],
