@@ -3,11 +3,11 @@
   "decisions_refreshed": 12,
   "direct_feature_use": false,
   "discovery_year": 2026,
-  "generated_utc": "2026-11-06T17:42:16.521094+00:00",
+  "generated_utc": "2026-11-07T16:39:14.600630+00:00",
   "global_requests_per_second": 4.0,
   "known_pages_refreshed": 12,
   "output": "store/reference/source=mmadecisions/dataset=official_scorecards/data.parquet",
-  "output_sha256": "14c9a7a5550d21378bf69a32fa51c85d7db2325e07e807056f50604ad1076006",
+  "output_sha256": "fc6a5169639a936a552d9c5b90a641b13641fd79fbb50cbb37d86232271782f6",
   "pages": [
     {
       "rows": 9,
@@ -26,7 +26,7 @@
     },
     {
       "rows": 9,
-      "sha256": "f0297f1f7cae576046a32ff56a882c32757eeab8e4b2ea83def6f83bcbd6a4cd",
+      "sha256": "977ac0e37aacc9b1e5beea903bab8865cb0d4348d158d75ede5c6edb0ef62658",
       "url": "https://mmadecisions.com/decision/16424/Grant-Dawson-vs-Nurullo-Aliev"
     },
     {
@@ -36,7 +36,7 @@
     },
     {
       "rows": 15,
-      "sha256": "6825bcf78d765be3818b903b19476f5ec049392ac80ea0a5cff32730a6b93ef3",
+      "sha256": "6f8c009d7a4a718c0e35766db1f9b286baedca64818ac3e988c610a32e9a2658",
       "url": "https://mmadecisions.com/decision/16431/Petr-Yan-vs-Merab-Dvalishvili"
     },
     {
@@ -61,12 +61,12 @@
     },
     {
       "rows": 9,
-      "sha256": "4ca5f9778eb5cb97190f69b712325b6525a09d2eadbc6606c2541d46106fff25",
+      "sha256": "b1e0e1424ac5a084772c004cda3b34428d86a3f52d20faddd0ec9e8785d647e6",
       "url": "https://mmadecisions.com/decision/16442/Cody-Durden-vs-Ode-Osbourne"
     },
     {
       "rows": 9,
-      "sha256": "4cfc9a8f3675d912cc2283a7a98731193f5af3973a7409a0a671fd63d284279c",
+      "sha256": "152e28cecc75082abd02ad295518b391fb451f14b7a23860dc988c564cbb0c6c",
       "url": "https://mmadecisions.com/decision/16443/Jacobe-Smith-vs-Randy-Brown"
     }
   ],
