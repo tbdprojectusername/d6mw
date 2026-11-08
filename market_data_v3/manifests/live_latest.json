@@ -1,8 +1,8 @@
 {
-  "accepted_rows": 4253743,
+  "accepted_rows": 4265055,
   "book_registry_version": "BOOK-REGISTRY-1",
   "contract": "MARKET-DATA-LIVE-1",
-  "generated_utc": "2026-11-08T14:04:19.115058+00:00",
+  "generated_utc": "2026-11-08T20:04:44.596613+00:00",
   "input_files": [
     {
       "bytes": 12781529,
@@ -77,10 +77,10 @@
       "sha256": "af65abd7ed9c62cf43bb69c3e1c84c74815450269e9b15c5f1502c92b00d7f1a"
     },
     {
-      "bytes": 45799230,
+      "bytes": 47079813,
       "kind": "bfo",
       "name": "bfo_2026-11.csv",
-      "sha256": "bb6ed93ff9ed4ca49dbf0e49e8786fbbd71b450ba807010c2ae91f272b961118"
+      "sha256": "78942679fe3d61ce1fb1235b43f8f79bc6243cc20f2eb3b3f2b10663416f50b0"
     },
     {
       "bytes": 753946,
@@ -107,10 +107,10 @@
       "sha256": "d50c5963c67cf7d55c6d2b620a6317faab08f2967e9049060b74081a0210b382"
     },
     {
-      "bytes": 9472434,
+      "bytes": 9500574,
       "kind": "pinnacle",
       "name": "pinnacle_2026-11.csv",
-      "sha256": "aff28a49d13ee440fb1df9b795a7c168ba4e13c1b887ff0a72f0806a32f4abc5"
+      "sha256": "4c87c8eceb6427f7c04f75923cac218e7b3a4559f2b912dfad8e208931436e3f"
     }
   ],
   "outputs": [
@@ -741,8 +741,8 @@
     {
       "changed": true,
       "path": "store/live_quotes/source=bfo_live/observed_date=2026-11-08/quotes.parquet",
-      "rows": 28972,
-      "sha256": "d994d11a24207a68b03a9bf0d94e840286177a5346d5c75c1325040b6d068a77"
+      "rows": 40116,
+      "sha256": "66e56a14fdaa7d9b19a3d6183e56132ac2830fc85fcea1b7b8eae3d42203c700"
     },
     {
       "changed": false,
@@ -1695,8 +1695,8 @@
     {
       "changed": true,
       "path": "store/live_quotes/source=pinnacle_live/observed_date=2026-11-08/quotes.parquet",
-      "rows": 612,
-      "sha256": "fbc1eeba3ba16732d1d5b6f1e40e0188d6d5752fffe253c9db0a50595fe3f32f"
+      "rows": 780,
+      "sha256": "a00f0c0ee14adc68fa0b0a00e09b13126c9beb72a4f647a7cd9a1499b43f8cdb"
     }
   ],
   "prop_input_files": [
@@ -1987,7 +1987,7 @@
   ],
   "prop_rows": 638140,
   "quarantined_rows": 1118,
-  "rows": 4254861,
+  "rows": 4266173,
   "source_directory": "/home/runner/work/_temp/capture/data",
-  "source_revision": "df4f21b5b59c76fb4e18282244c9e0fe81e1aa0d"
+  "source_revision": "08f8eccbb2e37946ffe93b3db8aa51d1e0ad2660"
 }
