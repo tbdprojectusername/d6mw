@@ -1,6 +1,6 @@
 {
   "contract": "MARKET-DATA-INVENTORY-1",
-  "generated_utc": "2026-11-07T16:39:37.537055+00:00",
+  "generated_utc": "2026-11-08T16:48:56.850863+00:00",
   "historical_props_by_category": [
     {
       "category": "A_5",
@@ -506,9 +506,9 @@
   "live_by_source": [
     {
       "first_observed": "2026-07-27T19:09:21.183156+00:00",
-      "last_observed": "2026-11-07T10:32:40.571944+00:00",
+      "last_observed": "2026-11-08T13:43:34.042718+00:00",
       "record_status": "accepted",
-      "row_count": 3441340,
+      "row_count": 3502758,
       "source": "bfo_live"
     },
     {
@@ -527,16 +527,16 @@
     },
     {
       "first_observed": "2026-07-26T04:18:01.319120+00:00",
-      "last_observed": "2026-11-07T10:32:54.538356+00:00",
+      "last_observed": "2026-11-08T13:43:44.944581+00:00",
       "record_status": "accepted",
-      "row_count": 474108,
+      "row_count": 477622,
       "source": "pinnacle_live"
     },
     {
       "first_observed": "2026-08-01T17:16:55.114156+00:00",
-      "last_observed": "2026-11-01T02:34:59.587223+00:00",
+      "last_observed": "2026-11-08T03:53:57.344468+00:00",
       "record_status": "quarantined",
-      "row_count": 266,
+      "row_count": 278,
       "source": "pinnacle_live"
     }
   ],
@@ -564,8 +564,8 @@
       "source": "fightodds_live"
     }
   ],
-  "parquet_bytes": 500795970,
-  "parquet_files": 490,
+  "parquet_bytes": 503884870,
+  "parquet_files": 494,
   "reference_by_table": [
     {
       "dataset": "event_details",
@@ -599,7 +599,7 @@
     },
     {
       "dataset": "official_scorecards",
-      "row_count": 35119,
+      "row_count": 35209,
       "source": "mmadecisions"
     },
     {
@@ -632,15 +632,15 @@
     {
       "dataset": "rankings",
       "first_snapshot": "2026-08-23",
-      "last_snapshot": "2026-11-07",
-      "row_count": 15600,
+      "last_snapshot": "2026-11-08",
+      "row_count": 15808,
       "source": "octagon_api"
     },
     {
       "dataset": "roster",
       "first_snapshot": "2026-08-23",
-      "last_snapshot": "2026-11-07",
-      "row_count": 13050,
+      "last_snapshot": "2026-11-08",
+      "row_count": 13224,
       "source": "octagon_api"
     }
   ]
