@@ -1,7 +1,7 @@
 {
   "contract": "MARKET-DATA-REFERENCE-RAW-1",
   "direct_feature_use": false,
-  "generated_utc": "2026-11-02T22:45:27.685406+00:00",
+  "generated_utc": "2026-11-09T23:25:20.427698+00:00",
   "outputs": [
     {
       "columns": [
@@ -12,7 +12,7 @@
         "blue_fighter_total_pts"
       ],
       "output": "store/reference/source=ufc_datalab/dataset=scorecards_ocr/data.parquet",
-      "output_sha256": "bedcc24e1c30051f7437c5f360c7653cac98d1d8fdd6fe1bc856e3bc6f74e146",
+      "output_sha256": "109e386ec9a5cde111193c536fc033ae3496f93944f93cdf707c2b2faff38447",
       "rows": 2251,
       "source_file": "data/scorecards/OCR_parsed_scorecards/SCORECARDS.csv",
       "source_file_bytes": 128717,
@@ -83,7 +83,7 @@
         "blue_fighter_sig_str_ground_pct"
       ],
       "output": "store/reference/source=ufc_datalab/dataset=stats_raw/data.parquet",
-      "output_sha256": "359d0ab7be3c982cad9000521ab541d67032bbb905a059a216c833f34fc74b2e",
+      "output_sha256": "d18ee791b5eb83a26cda8af50d4662a57ced7f7a144d977070fab04b27be76d5",
       "rows": 8737,
       "source_file": "data/stats/stats_raw.csv",
       "source_file_bytes": 4249642,
