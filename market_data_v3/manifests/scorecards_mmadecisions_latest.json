@@ -3,15 +3,15 @@
   "decisions_refreshed": 12,
   "direct_feature_use": false,
   "discovery_year": 2026,
-  "generated_utc": "2026-11-08T16:48:35.381442+00:00",
+  "generated_utc": "2026-11-09T21:07:53.115523+00:00",
   "global_requests_per_second": 4.0,
   "known_pages_refreshed": 12,
   "output": "store/reference/source=mmadecisions/dataset=official_scorecards/data.parquet",
-  "output_sha256": "15b4651700409b59e108a054f8a850a5fe1137a35f29135dfc056ce6c5fe2222",
+  "output_sha256": "3d29e49a76c922a2a414816dc0e9a3a67f29665adf442347a8e5ae74433ca380",
   "pages": [
     {
       "rows": 9,
-      "sha256": "484a6fdf40652f146c4ba5ac340b138114a8961022790a6c48bd0e47b84a5d18",
+      "sha256": "43b2040a0c6e0baacbc169b61ae5833735e7f00b72c6448f59a527661acbe3ea",
       "url": "https://mmadecisions.com/decision/16442/Cody-Durden-vs-Ode-Osbourne"
     },
     {
@@ -26,12 +26,12 @@
     },
     {
       "rows": 9,
-      "sha256": "2f646d92a8b53e0db7a5ab267352ee9db906474ff0bbebda47fe8e7954d706c3",
+      "sha256": "aee851981b6c7a5c010914e3bf814ad0e90156bbe44ed59f5b2e4882b01e6620",
       "url": "https://mmadecisions.com/decision/16446/Paddy-Rutledge-vs-Omar-Sargent"
     },
     {
       "rows": 9,
-      "sha256": "d3a8ad68552562c3ff12b56e39ec1dbe5b3b01b1369206d8f9da2bbe02bad5a2",
+      "sha256": "4d03bfe06fce98859aec231bed29ec9dde55b382b19434ddfc1e51889315520b",
       "url": "https://mmadecisions.com/decision/16448/Seok-Hyeon-Ko-vs-Wellington-Turman"
     },
     {
@@ -41,32 +41,32 @@
     },
     {
       "rows": 9,
-      "sha256": "861af43a02f1a7c6c9402e00b62415c32f6652914cdec0f0da03ff7c8b5d4f45",
+      "sha256": "84dc4d5ea3a67cf253869514ac5ee0d3627d859dc9f71a1f62c4299269fafa02",
       "url": "https://mmadecisions.com/decision/16452/Murtazali-Magomedov-vs-Jose-Delano"
     },
     {
       "rows": 9,
-      "sha256": "09a18edd28355027456efc1604e5557762f26b12d3a34f84c1961e5105c9057c",
+      "sha256": "c36e1fabb6d394fe3199c80e829c43ed062278873e842157614ed1b1c3b76bdc",
       "url": "https://mmadecisions.com/decision/16453/Karine-Silva-vs-Gabriella-Fernandes"
     },
     {
       "rows": 9,
-      "sha256": "fa27edf8a7bbcbf74621aab0a24b510d9711fa7cc4a8d4b06ae6c1d7011c0ff4",
+      "sha256": "9cf066c1d96e3632dcfbb53ba6e61a286b64ea52126e4e3d6112b34cee37dd34",
       "url": "https://mmadecisions.com/decision/16455/Ollie-Schmid-vs-Keiichiro-Nakamura"
     },
     {
       "rows": 9,
-      "sha256": "bc9f32f829dc2c5c472f05d528701c85ec91c8594714e94cf75588ed9a6d0a45",
+      "sha256": "86ac9ab8ba2aeff85ee9fd075a6e2981239152e96e158393df57a507441b3b83",
       "url": "https://mmadecisions.com/decision/16456/Mitch-Raposo-vs-Marcos-Degli"
     },
     {
       "rows": 9,
-      "sha256": "210fe7fdecf52cc2de58f88f548b4533dc93dd5bd01bddeaa8dc83cf78360991",
+      "sha256": "23d0a0f8b0d16303988c6e9f140aca05b71588fb2dcd0fd8affd6b0a6ece2ec7",
       "url": "https://mmadecisions.com/decision/16458/Lucas-Fernando-vs-Billy-Elekana"
     },
     {
       "rows": 9,
-      "sha256": "a2638954df2590f58d70fe5fa1c954098487b811de3718ec3d6276f890757e84",
+      "sha256": "d26278474b7daa4e7eaea9739750edecb4d9949562a3468d8509dbda13c8f216",
       "url": "https://mmadecisions.com/decision/16460/Tatiana-Suarez-vs-Virna-Jandiroba"
     }
   ],
