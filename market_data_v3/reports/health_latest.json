@@ -148,12 +148,12 @@
   ],
   "contract": "MARKET-DATA-VALIDATION-1",
   "failures": [],
-  "generated_utc": "2026-11-10T17:42:27.234551+00:00",
+  "generated_utc": "2026-11-10T18:19:07.959282+00:00",
   "historical_prop_rows": 1446875,
   "history_rows": 7101288,
   "live_prop_rows": 638140,
   "live_rows": 4332701,
   "reference_rows": 151993,
-  "snapshot_rows": 29414,
+  "snapshot_rows": 29796,
   "status": "PASS"
 }

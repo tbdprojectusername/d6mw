@@ -3,11 +3,11 @@
   "decisions_refreshed": 12,
   "direct_feature_use": false,
   "discovery_year": 2026,
-  "generated_utc": "2026-11-09T21:07:53.115523+00:00",
+  "generated_utc": "2026-11-10T18:18:43.741125+00:00",
   "global_requests_per_second": 4.0,
   "known_pages_refreshed": 12,
   "output": "store/reference/source=mmadecisions/dataset=official_scorecards/data.parquet",
-  "output_sha256": "3d29e49a76c922a2a414816dc0e9a3a67f29665adf442347a8e5ae74433ca380",
+  "output_sha256": "ff439b545bc63dd352aba042d457039a38066089983370bd688a0e58367336e9",
   "pages": [
     {
       "rows": 9,
@@ -31,7 +31,7 @@
     },
     {
       "rows": 9,
-      "sha256": "4d03bfe06fce98859aec231bed29ec9dde55b382b19434ddfc1e51889315520b",
+      "sha256": "382f4dcd46c84bb1b6ebb2800b49d0bc3f5e9da525705de6f43191d2db944c87",
       "url": "https://mmadecisions.com/decision/16448/Seok-Hyeon-Ko-vs-Wellington-Turman"
     },
     {
@@ -41,32 +41,32 @@
     },
     {
       "rows": 9,
-      "sha256": "84dc4d5ea3a67cf253869514ac5ee0d3627d859dc9f71a1f62c4299269fafa02",
+      "sha256": "a82758d14d3d99e4ef44f7b08542d8cefd00251f1494606f24573a35ecf7e6e4",
       "url": "https://mmadecisions.com/decision/16452/Murtazali-Magomedov-vs-Jose-Delano"
     },
     {
       "rows": 9,
-      "sha256": "c36e1fabb6d394fe3199c80e829c43ed062278873e842157614ed1b1c3b76bdc",
+      "sha256": "90e7bfd3afab12e3854115ca8bd95585996d0340942aa68d3428081cae393da0",
       "url": "https://mmadecisions.com/decision/16453/Karine-Silva-vs-Gabriella-Fernandes"
     },
     {
       "rows": 9,
-      "sha256": "9cf066c1d96e3632dcfbb53ba6e61a286b64ea52126e4e3d6112b34cee37dd34",
+      "sha256": "cedee0b03ba007eac0b24a525a590f4eb93f63388a50b560a2f5760192f00950",
       "url": "https://mmadecisions.com/decision/16455/Ollie-Schmid-vs-Keiichiro-Nakamura"
     },
     {
       "rows": 9,
-      "sha256": "86ac9ab8ba2aeff85ee9fd075a6e2981239152e96e158393df57a507441b3b83",
+      "sha256": "16342182824e0d50dd5c7407c7d188076a85e9674e9f8f9476d43208c300eb1c",
       "url": "https://mmadecisions.com/decision/16456/Mitch-Raposo-vs-Marcos-Degli"
     },
     {
       "rows": 9,
-      "sha256": "23d0a0f8b0d16303988c6e9f140aca05b71588fb2dcd0fd8affd6b0a6ece2ec7",
+      "sha256": "0d673888f5a37992ae23d0a4dd5f42d7559d9d1b20905533b209118f671c71b2",
       "url": "https://mmadecisions.com/decision/16458/Lucas-Fernando-vs-Billy-Elekana"
     },
     {
       "rows": 9,
-      "sha256": "d26278474b7daa4e7eaea9739750edecb4d9949562a3468d8509dbda13c8f216",
+      "sha256": "fd7bc6ed8421196530c0c7070a29bf570b8e4c3f43fbcd6922e59430aad2160a",
       "url": "https://mmadecisions.com/decision/16460/Tatiana-Suarez-vs-Virna-Jandiroba"
     }
   ],
