@@ -3,7 +3,7 @@
     {
       "name": "live_rows_positive",
       "passed": true,
-      "value": 4317595
+      "value": 4332701
     },
     {
       "name": "quote_keys_unique",
@@ -148,11 +148,11 @@
   ],
   "contract": "MARKET-DATA-VALIDATION-1",
   "failures": [],
-  "generated_utc": "2026-11-10T08:07:38.747857+00:00",
+  "generated_utc": "2026-11-10T17:42:27.234551+00:00",
   "historical_prop_rows": 1446875,
   "history_rows": 7101288,
   "live_prop_rows": 638140,
-  "live_rows": 4317595,
+  "live_rows": 4332701,
   "reference_rows": 151993,
   "snapshot_rows": 29414,
   "status": "PASS"
