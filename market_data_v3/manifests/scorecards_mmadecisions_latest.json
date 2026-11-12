@@ -3,11 +3,11 @@
   "decisions_refreshed": 12,
   "direct_feature_use": false,
   "discovery_year": 2026,
-  "generated_utc": "2026-11-11T18:06:47.689175+00:00",
+  "generated_utc": "2026-11-12T18:37:37.923518+00:00",
   "global_requests_per_second": 4.0,
   "known_pages_refreshed": 12,
   "output": "store/reference/source=mmadecisions/dataset=official_scorecards/data.parquet",
-  "output_sha256": "9912eff778a61a6781212014ed776df9c3869b67bf524402c0fffe39321cee28",
+  "output_sha256": "a18d1be62ce523643c43584ca53021ff71a01ffb3432b8b08f19ab98120d0c7f",
   "pages": [
     {
       "rows": 9,
@@ -41,7 +41,7 @@
     },
     {
       "rows": 9,
-      "sha256": "1b9c4269f08a33a2684d3193de487951366c7f5016d5c5eba6f415c25e31c7c0",
+      "sha256": "d7bcddc47c5861635aad60e3c4bd81c886b2a544cdaf95a20e486f335ed5aafe",
       "url": "https://mmadecisions.com/decision/16452/Murtazali-Magomedov-vs-Jose-Delano"
     },
     {
@@ -51,7 +51,7 @@
     },
     {
       "rows": 9,
-      "sha256": "430866496d472b6d064622f1792fc57e2bb2082e199bd65a31e6c66c7e96627c",
+      "sha256": "fce4eafccecd03ae32bdf92c71f09449774b91253ef80864763963b0386b613a",
       "url": "https://mmadecisions.com/decision/16455/Ollie-Schmid-vs-Keiichiro-Nakamura"
     },
     {
@@ -66,7 +66,7 @@
     },
     {
       "rows": 9,
-      "sha256": "44401ad0e729f1cd89ed4f05d8baec945f07a28b45ea07c6cc6d53bd1342f5bc",
+      "sha256": "4f8d1fcb17b474a0107e786c4ab312dd44c86a54d0007bf3d44e4a6500c98a0d",
       "url": "https://mmadecisions.com/decision/16460/Tatiana-Suarez-vs-Virna-Jandiroba"
     }
   ],
