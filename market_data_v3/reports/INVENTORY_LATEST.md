@@ -1,16 +1,16 @@
 # Market data inventory
 
-Generated: 2026-11-12T18:38:02.720641+00:00
-Parquet: 510 files / 487.1 MiB
+Generated: 2026-11-13T18:08:21.896404+00:00
+Parquet: 514 files / 489.2 MiB
 
 ## Live capture
 
 | Source | Status | Rows | First | Last |
 |---|---|---:|---|---|
-| bfo_live | accepted | 3,631,540 | 2026-07-27T19:09:21.183156+00:00 | 2026-11-12T11:36:26.031907+00:00 |
+| bfo_live | accepted | 3,672,124 | 2026-07-27T19:09:21.183156+00:00 | 2026-11-13T11:13:42.928555+00:00 |
 | fightodds_live | accepted | 273,363 | 2026-08-13T13:20:49.217295+00:00 | 2026-10-06T13:24:25.664304+00:00 |
 | fightodds_live | quarantined | 840 | 2026-08-17T20:03:19.217823+00:00 | 2026-10-03T23:52:26.100985+00:00 |
-| pinnacle_live | accepted | 490,702 | 2026-07-26T04:18:01.319120+00:00 | 2026-11-12T11:36:36.217493+00:00 |
+| pinnacle_live | accepted | 494,992 | 2026-07-26T04:18:01.319120+00:00 | 2026-11-13T11:13:53.189925+00:00 |
 | pinnacle_live | quarantined | 278 | 2026-08-01T17:16:55.114156+00:00 | 2026-11-08T03:53:57.344468+00:00 |
 
 ## Historical FightOdds
@@ -95,7 +95,7 @@ Parquet: 510 files / 487.1 MiB
 
 | Source | Table | Rows | First | Last |
 |---|---|---:|---|---|
-| octagon_api | rankings | 16,640 | 2026-08-23 | 2026-11-12 |
-| octagon_api | roster | 13,920 | 2026-08-23 | 2026-11-12 |
+| octagon_api | rankings | 16,848 | 2026-08-23 | 2026-11-13 |
+| octagon_api | roster | 14,094 | 2026-08-23 | 2026-11-13 |
 
 Historical book policy is preserved separately from effective row eligibility; unresolved rows remain unusable. Raw reference and snapshot tables also remain feature-ineligible until point-in-time canonical transforms pass their own gates.

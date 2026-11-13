@@ -3,11 +3,11 @@
   "decisions_refreshed": 12,
   "direct_feature_use": false,
   "discovery_year": 2026,
-  "generated_utc": "2026-11-12T18:37:37.923518+00:00",
+  "generated_utc": "2026-11-13T18:08:01.682742+00:00",
   "global_requests_per_second": 4.0,
   "known_pages_refreshed": 12,
   "output": "store/reference/source=mmadecisions/dataset=official_scorecards/data.parquet",
-  "output_sha256": "a18d1be62ce523643c43584ca53021ff71a01ffb3432b8b08f19ab98120d0c7f",
+  "output_sha256": "d01ac1a1ecc0084bca82ad3efd18909621939be53f58e7739354f9c757276fb8",
   "pages": [
     {
       "rows": 9,
@@ -41,7 +41,7 @@
     },
     {
       "rows": 9,
-      "sha256": "d7bcddc47c5861635aad60e3c4bd81c886b2a544cdaf95a20e486f335ed5aafe",
+      "sha256": "eeb2c95ac538a11a2f26ef6cea7283438dfdd12d4acbfb5519dd795f75234a1f",
       "url": "https://mmadecisions.com/decision/16452/Murtazali-Magomedov-vs-Jose-Delano"
     },
     {
@@ -66,7 +66,7 @@
     },
     {
       "rows": 9,
-      "sha256": "4f8d1fcb17b474a0107e786c4ab312dd44c86a54d0007bf3d44e4a6500c98a0d",
+      "sha256": "1c57e6182a428db129c0c0abb6cb928875a2cf56e2974392d6564cf2cec5cf22",
       "url": "https://mmadecisions.com/decision/16460/Tatiana-Suarez-vs-Virna-Jandiroba"
     }
   ],
