@@ -3,11 +3,11 @@
   "decisions_refreshed": 12,
   "direct_feature_use": false,
   "discovery_year": 2026,
-  "generated_utc": "2026-11-13T18:08:01.682742+00:00",
+  "generated_utc": "2026-11-14T16:44:47.121854+00:00",
   "global_requests_per_second": 4.0,
   "known_pages_refreshed": 12,
   "output": "store/reference/source=mmadecisions/dataset=official_scorecards/data.parquet",
-  "output_sha256": "d01ac1a1ecc0084bca82ad3efd18909621939be53f58e7739354f9c757276fb8",
+  "output_sha256": "7f0f20d1cf1595c090f56ad1fbff67cb8db0771b647117f8f6c5c30c0a8b3f43",
   "pages": [
     {
       "rows": 9,
@@ -16,7 +16,7 @@
     },
     {
       "rows": 9,
-      "sha256": "00c19776f11ddadd1769fb736dd7342f735cc0139f834e6a000e0c54ef95dc07",
+      "sha256": "9cda03e827df9119879b1a251786a60ef1b6da7c49ffb2ab5b8f337390688c16",
       "url": "https://mmadecisions.com/decision/16443/Jacobe-Smith-vs-Randy-Brown"
     },
     {
@@ -31,7 +31,7 @@
     },
     {
       "rows": 9,
-      "sha256": "382f4dcd46c84bb1b6ebb2800b49d0bc3f5e9da525705de6f43191d2db944c87",
+      "sha256": "8c7c2b8ca9fb848ce720d8bd9461c30c62d1e05a4c5b32c98055b579380966b5",
       "url": "https://mmadecisions.com/decision/16448/Seok-Hyeon-Ko-vs-Wellington-Turman"
     },
     {
@@ -41,7 +41,7 @@
     },
     {
       "rows": 9,
-      "sha256": "eeb2c95ac538a11a2f26ef6cea7283438dfdd12d4acbfb5519dd795f75234a1f",
+      "sha256": "0ece2456b221a23ab8008bd2394764d1e906591ceb21ace61e98ba8efe383645",
       "url": "https://mmadecisions.com/decision/16452/Murtazali-Magomedov-vs-Jose-Delano"
     },
     {
