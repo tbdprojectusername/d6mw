@@ -1,8 +1,8 @@
 {
-  "accepted_rows": 4554963,
+  "accepted_rows": 4567199,
   "book_registry_version": "BOOK-REGISTRY-1",
   "contract": "MARKET-DATA-LIVE-1",
-  "generated_utc": "2026-11-15T16:49:55.130000+00:00",
+  "generated_utc": "2026-11-15T23:16:32.657686+00:00",
   "input_files": [
     {
       "bytes": 12781529,
@@ -77,10 +77,10 @@
       "sha256": "af65abd7ed9c62cf43bb69c3e1c84c74815450269e9b15c5f1502c92b00d7f1a"
     },
     {
-      "bytes": 76909187,
+      "bytes": 78297294,
       "kind": "bfo",
       "name": "bfo_2026-11.csv",
-      "sha256": "dd685195ee75c19584d88fe1f237daf73c35f77aa1b90fde97e0f9537a964481"
+      "sha256": "7536588cff04bd9728e7382dd1bad959af99fb8411a0778f89a1070aef277a36"
     },
     {
       "bytes": 753946,
@@ -783,8 +783,8 @@
     {
       "changed": true,
       "path": "store/live_quotes/source=bfo_live/observed_date=2026-11-15/quotes.parquet",
-      "rows": 34860,
-      "sha256": "985659d2795cbb24c9972d222bf33507d615c61be88d8c645cee95ed9c47d619"
+      "rows": 47096,
+      "sha256": "7840bc162a82fbc6d76f9820f75c97848bfd2da3735149cd0e0c916d919a6ca9"
     },
     {
       "changed": false,
@@ -2071,7 +2071,7 @@
   ],
   "prop_rows": 638140,
   "quarantined_rows": 1164,
-  "rows": 4556127,
+  "rows": 4568363,
   "source_directory": "/home/runner/work/_temp/capture/data",
-  "source_revision": "c46ac666089eec3306d1d3a0dc45f69aefa28333"
+  "source_revision": "0f0f096888a08c67a808d4118c30d85d2312a212"
 }
