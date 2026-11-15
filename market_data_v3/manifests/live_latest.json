@@ -1,8 +1,8 @@
 {
-  "accepted_rows": 4536795,
+  "accepted_rows": 4554963,
   "book_registry_version": "BOOK-REGISTRY-1",
   "contract": "MARKET-DATA-LIVE-1",
-  "generated_utc": "2026-11-15T07:17:09.755963+00:00",
+  "generated_utc": "2026-11-15T16:49:55.130000+00:00",
   "input_files": [
     {
       "bytes": 12781529,
@@ -77,10 +77,10 @@
       "sha256": "af65abd7ed9c62cf43bb69c3e1c84c74815450269e9b15c5f1502c92b00d7f1a"
     },
     {
-      "bytes": 74853253,
+      "bytes": 76909187,
       "kind": "bfo",
       "name": "bfo_2026-11.csv",
-      "sha256": "2ec10a1d689046d64e96d4bd623c7f9453f8157ac73773a5dc3940d20137621a"
+      "sha256": "dd685195ee75c19584d88fe1f237daf73c35f77aa1b90fde97e0f9537a964481"
     },
     {
       "bytes": 753946,
@@ -775,7 +775,7 @@
       "sha256": "47ff8600ef96b72d29f4955606a491e36a2e4b0c717ce88407fbc76ee53ddaaf"
     },
     {
-      "changed": true,
+      "changed": false,
       "path": "store/live_quotes/source=bfo_live/observed_date=2026-11-14/quotes.parquet",
       "rows": 49680,
       "sha256": "a63fc35d3baea54001da7bb70dc326403dae0a51cdc5b01ba46924da8b6f2288"
@@ -783,8 +783,8 @@
     {
       "changed": true,
       "path": "store/live_quotes/source=bfo_live/observed_date=2026-11-15/quotes.parquet",
-      "rows": 16692,
-      "sha256": "4036125251d84eba15ea93e9c687208acd1f1a5302ade838f67896107da598d3"
+      "rows": 34860,
+      "sha256": "985659d2795cbb24c9972d222bf33507d615c61be88d8c645cee95ed9c47d619"
     },
     {
       "changed": false,
@@ -1771,13 +1771,13 @@
       "sha256": "2b0e4e91413ff5343fa017cf2803103f7dbb614bf6fc4e4e76c8030046145250"
     },
     {
-      "changed": true,
+      "changed": false,
       "path": "store/live_quotes/source=pinnacle_live/observed_date=2026-11-14/quotes.parquet",
       "rows": 4298,
       "sha256": "b2670ff16916ffe81fb6f7abd82ab1330a3befc6f563d5433ec4a874f0c04e9c"
     },
     {
-      "changed": true,
+      "changed": false,
       "path": "store/live_quotes/source=pinnacle_live/observed_date=2026-11-15/quotes.parquet",
       "rows": 334,
       "sha256": "2ab2d063973af9b4236c40bcd9e1275947810ad472c684adb1cd6ab068c4ed4d"
@@ -2071,7 +2071,7 @@
   ],
   "prop_rows": 638140,
   "quarantined_rows": 1164,
-  "rows": 4537959,
+  "rows": 4556127,
   "source_directory": "/home/runner/work/_temp/capture/data",
-  "source_revision": "b31b166112f84ab59410bac27805cf638484f354"
+  "source_revision": "c46ac666089eec3306d1d3a0dc45f69aefa28333"
 }
