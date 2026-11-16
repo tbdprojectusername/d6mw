@@ -1,16 +1,16 @@
 # Market data inventory
 
-Generated: 2026-11-15T17:26:48.757540+00:00
-Parquet: 522 files / 494.4 MiB
+Generated: 2026-11-16T20:42:31.317986+00:00
+Parquet: 526 files / 496.6 MiB
 
 ## Live capture
 
 | Source | Status | Rows | First | Last |
 |---|---|---:|---|---|
-| bfo_live | accepted | 3,779,708 | 2026-07-27T19:09:21.183156+00:00 | 2026-11-15T16:21:51.805982+00:00 |
+| bfo_live | accepted | 3,824,904 | 2026-07-27T19:09:21.183156+00:00 | 2026-11-16T19:44:56.685736+00:00 |
 | fightodds_live | accepted | 273,363 | 2026-08-13T13:20:49.217295+00:00 | 2026-10-06T13:24:25.664304+00:00 |
 | fightodds_live | quarantined | 840 | 2026-08-17T20:03:19.217823+00:00 | 2026-10-03T23:52:26.100985+00:00 |
-| pinnacle_live | accepted | 501,892 | 2026-07-26T04:18:01.319120+00:00 | 2026-11-15T05:11:09.300508+00:00 |
+| pinnacle_live | accepted | 504,730 | 2026-07-26T04:18:01.319120+00:00 | 2026-11-16T19:45:05.178978+00:00 |
 | pinnacle_live | quarantined | 324 | 2026-08-01T17:16:55.114156+00:00 | 2026-11-15T05:22:56.889589+00:00 |
 
 ## Historical FightOdds
@@ -78,10 +78,10 @@ Parquet: 522 files / 494.4 MiB
 
 | Source | Table | Rows |
 |---|---|---:|
-| greco_ufcstats | event_details | 796 |
-| greco_ufcstats | fight_details | 9,015 |
-| greco_ufcstats | fight_results | 9,015 |
-| greco_ufcstats | fight_stats | 42,356 |
+| greco_ufcstats | event_details | 797 |
+| greco_ufcstats | fight_details | 9,028 |
+| greco_ufcstats | fight_results | 9,028 |
+| greco_ufcstats | fight_stats | 42,428 |
 | greco_ufcstats | fighter_details | 4,628 |
 | greco_ufcstats | fighter_tott | 4,629 |
 | mmadecisions | official_scorecards | 35,328 |
@@ -95,7 +95,7 @@ Parquet: 522 files / 494.4 MiB
 
 | Source | Table | Rows | First | Last |
 |---|---|---:|---|---|
-| octagon_api | rankings | 17,264 | 2026-08-23 | 2026-11-15 |
-| octagon_api | roster | 14,442 | 2026-08-23 | 2026-11-15 |
+| octagon_api | rankings | 17,472 | 2026-08-23 | 2026-11-16 |
+| octagon_api | roster | 14,616 | 2026-08-23 | 2026-11-16 |
 
 Historical book policy is preserved separately from effective row eligibility; unresolved rows remain unusable. Raw reference and snapshot tables also remain feature-ineligible until point-in-time canonical transforms pass their own gates.

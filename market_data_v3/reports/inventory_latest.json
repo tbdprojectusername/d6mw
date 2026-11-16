@@ -1,6 +1,6 @@
 {
   "contract": "MARKET-DATA-INVENTORY-1",
-  "generated_utc": "2026-11-15T17:26:48.757540+00:00",
+  "generated_utc": "2026-11-16T20:42:31.317986+00:00",
   "historical_props_by_category": [
     {
       "category": "A_5",
@@ -506,9 +506,9 @@
   "live_by_source": [
     {
       "first_observed": "2026-07-27T19:09:21.183156+00:00",
-      "last_observed": "2026-11-15T16:21:51.805982+00:00",
+      "last_observed": "2026-11-16T19:44:56.685736+00:00",
       "record_status": "accepted",
-      "row_count": 3779708,
+      "row_count": 3824904,
       "source": "bfo_live"
     },
     {
@@ -527,9 +527,9 @@
     },
     {
       "first_observed": "2026-07-26T04:18:01.319120+00:00",
-      "last_observed": "2026-11-15T05:11:09.300508+00:00",
+      "last_observed": "2026-11-16T19:45:05.178978+00:00",
       "record_status": "accepted",
-      "row_count": 501892,
+      "row_count": 504730,
       "source": "pinnacle_live"
     },
     {
@@ -564,27 +564,27 @@
       "source": "fightodds_live"
     }
   ],
-  "parquet_bytes": 518397606,
-  "parquet_files": 522,
+  "parquet_bytes": 520681473,
+  "parquet_files": 526,
   "reference_by_table": [
     {
       "dataset": "event_details",
-      "row_count": 796,
+      "row_count": 797,
       "source": "greco_ufcstats"
     },
     {
       "dataset": "fight_details",
-      "row_count": 9015,
+      "row_count": 9028,
       "source": "greco_ufcstats"
     },
     {
       "dataset": "fight_results",
-      "row_count": 9015,
+      "row_count": 9028,
       "source": "greco_ufcstats"
     },
     {
       "dataset": "fight_stats",
-      "row_count": 42356,
+      "row_count": 42428,
       "source": "greco_ufcstats"
     },
     {
@@ -632,15 +632,15 @@
     {
       "dataset": "rankings",
       "first_snapshot": "2026-08-23",
-      "last_snapshot": "2026-11-15",
-      "row_count": 17264,
+      "last_snapshot": "2026-11-16",
+      "row_count": 17472,
       "source": "octagon_api"
     },
     {
       "dataset": "roster",
       "first_snapshot": "2026-08-23",
-      "last_snapshot": "2026-11-15",
-      "row_count": 14442,
+      "last_snapshot": "2026-11-16",
+      "row_count": 14616,
       "source": "octagon_api"
     }
   ]
