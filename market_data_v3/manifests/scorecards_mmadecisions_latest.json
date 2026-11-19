@@ -3,11 +3,11 @@
   "decisions_refreshed": 12,
   "direct_feature_use": false,
   "discovery_year": 2026,
-  "generated_utc": "2026-11-18T19:07:49.526296+00:00",
+  "generated_utc": "2026-11-19T19:10:57.628472+00:00",
   "global_requests_per_second": 4.0,
   "known_pages_refreshed": 12,
   "output": "store/reference/source=mmadecisions/dataset=official_scorecards/data.parquet",
-  "output_sha256": "e9846c70814e8a67167e97e282afe7c6c2b6eae8430d1da106244f33e768aea3",
+  "output_sha256": "eeef6192b5be9804fa256185957479a17b4ea9f624aef986a96780a54cba5776",
   "pages": [
     {
       "rows": 9,
@@ -21,17 +21,17 @@
     },
     {
       "rows": 9,
-      "sha256": "1e8dc21f71d650aeca5c900e42261c2fb853bbbe05d157e3c9f575c7dcea9d09",
+      "sha256": "18cc1fab9d084585700effc834af2047f2cca310ce02a36ad241211c84813f6e",
       "url": "https://mmadecisions.com/decision/16468/Chris-Duncan-vs-Drew-Dober"
     },
     {
       "rows": 9,
-      "sha256": "ec7fc135cdb06488059d6e95054e8c05e13fa9e136e8789bea0e1cc03ab1119d",
+      "sha256": "b955a3dc715dfce8a7655854627298d03dd0fb2aa2f2a2007dde13cd140eb237",
       "url": "https://mmadecisions.com/decision/16470/Luis-Gurule-vs-Bilal-Hasan"
     },
     {
       "rows": 9,
-      "sha256": "05cdc2d55c223a0aa8c7752d9550d776429ca06dbf2de1dc2d7a8116f29f0609",
+      "sha256": "e565fb3f6c49382a2cf20422cb2fe673958830141ba72baad1b0f25a3dd039d5",
       "url": "https://mmadecisions.com/decision/16471/Kevin-Holland-vs-Uros-Medic"
     },
     {
@@ -41,7 +41,7 @@
     },
     {
       "rows": 15,
-      "sha256": "c47e31cd8919a7ffdfb749140e911d35a864beb47f2e9d01f1e52cb8e37bbd27",
+      "sha256": "3c26ee5d1b57444993e85fbcead4010180eda6d67100cb3d2075236f4637fcb3",
       "url": "https://mmadecisions.com/decision/16474/Ciryl-Gane-vs-Josh-Hokit"
     },
     {
@@ -51,12 +51,12 @@
     },
     {
       "rows": 5,
-      "sha256": "9bdfafb0d2265bdc2f7243b32028f4661419a28cff1fe5b5fdfa402558f6713d",
+      "sha256": "451b9c83aad57da09890ae210eed5c9f6e89820008fc186d02e994d822ebb268",
       "url": "https://mmadecisions.com/decision/16476/Oleg-Popov-vs-Pouya-Rahmani"
     },
     {
       "rows": 3,
-      "sha256": "ad44a64a0f8efef724181811075d54fee507c33dbd6fccb306181ae8b586bc7d",
+      "sha256": "1d8744fe92167b2215461472ff7455b76c5798ad604c33abc77ab8e9c676a221",
       "url": "https://mmadecisions.com/decision/16477/Sergey-Bilostenniy-vs-Vadim-Nemkov"
     },
     {
@@ -66,7 +66,7 @@
     },
     {
       "rows": 15,
-      "sha256": "52268653e9f6c42935fc2679d86007737f26ce3d42d21c4d42311f43941bc17a",
+      "sha256": "1d5bd875062f539e571bda9e3caf29778b8f90a89b71b65eeb6e453972a73d09",
       "url": "https://mmadecisions.com/decision/16479/Jawany-Scott-vs-Willians-Nogueira"
     }
   ],
