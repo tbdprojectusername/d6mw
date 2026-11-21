@@ -1,8 +1,8 @@
 {
-  "accepted_rows": 4761875,
+  "accepted_rows": 4772291,
   "book_registry_version": "BOOK-REGISTRY-1",
   "contract": "MARKET-DATA-LIVE-1",
-  "generated_utc": "2026-11-20T20:56:46.686360+00:00",
+  "generated_utc": "2026-11-21T02:54:06.970892+00:00",
   "input_files": [
     {
       "bytes": 12781529,
@@ -83,10 +83,10 @@
       "sha256": "e3c48fb24003ffc174724b6d1b27b29de75d52f206155b0066386517368a0faa"
     },
     {
-      "bytes": 4194344,
+      "bytes": 5281874,
       "kind": "bfo",
       "name": "bfo_2026-11_p2.csv",
-      "sha256": "0ace090d8964d1a3c1cef11829cde35f4f86c8fdeb518370de60112b8c0eb47a"
+      "sha256": "3a09e7aabe6e123983e8b5cebac06c51551d9260e774aef7674684142dba8a4d"
     },
     {
       "bytes": 753946,
@@ -113,10 +113,10 @@
       "sha256": "d50c5963c67cf7d55c6d2b620a6317faab08f2967e9049060b74081a0210b382"
     },
     {
-      "bytes": 23144897,
+      "bytes": 23495880,
       "kind": "pinnacle",
       "name": "pinnacle_2026-11.csv",
-      "sha256": "f744c433d94266a4ea4da02f5cd94ab6464845b6d847adf1035ed8e6ec388cb9"
+      "sha256": "bc5f84b0e9478f23347d4446991601cf5c1caa807c8064274ee207ab9ccac665"
     }
   ],
   "outputs": [
@@ -819,8 +819,14 @@
     {
       "changed": true,
       "path": "store/live_quotes/source=bfo_live/observed_date=2026-11-20/quotes.parquet",
-      "rows": 32342,
-      "sha256": "4ebeaad57a763196fccf12781d504d96240561f1b0abe1fa37462a3db205ab21"
+      "rows": 37718,
+      "sha256": "25d0ad77a24a13065e26cf0e973fc4e0f6150bdaa3cf16491402b1bcd70ac47e"
+    },
+    {
+      "changed": true,
+      "path": "store/live_quotes/source=bfo_live/observed_date=2026-11-21/quotes.parquet",
+      "rows": 4032,
+      "sha256": "db9a2c967f9a2669a751ad342b1dbcda062a37515b18c309bd723d8a42474e1f"
     },
     {
       "changed": false,
@@ -1845,8 +1851,14 @@
     {
       "changed": true,
       "path": "store/live_quotes/source=pinnacle_live/observed_date=2026-11-20/quotes.parquet",
-      "rows": 3504,
-      "sha256": "dd873d3b62b1a4962f312df1ab6c9d73bac3acb39bbe55d1716ac0a7e78dc23c"
+      "rows": 4080,
+      "sha256": "4971f8fe4de0455847a33e1e7b244fc5eb2690b8e5d8f61a3cf0467ad6d49195"
+    },
+    {
+      "changed": true,
+      "path": "store/live_quotes/source=pinnacle_live/observed_date=2026-11-21/quotes.parquet",
+      "rows": 432,
+      "sha256": "4cf052b39987b3fd3fe4ecbd548de1adeb68057d7fe5db7f897be684d49d40f4"
     }
   ],
   "prop_input_files": [
@@ -2137,7 +2149,7 @@
   ],
   "prop_rows": 638140,
   "quarantined_rows": 1164,
-  "rows": 4763039,
+  "rows": 4773455,
   "source_directory": "/home/runner/work/_temp/capture/data",
-  "source_revision": "d57228c3af42cde1b6af8ace3c28dde609dcaae7"
+  "source_revision": "2085692e1179f05f2ca6d63a318c3d45c9c7dae7"
 }
