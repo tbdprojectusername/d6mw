@@ -1,16 +1,16 @@
 # Market data inventory
 
-Generated: 2026-11-20T18:52:33.983184+00:00
-Parquet: 542 files / 503.2 MiB
+Generated: 2026-11-21T17:48:02.814827+00:00
+Parquet: 546 files / 505.1 MiB
 
 ## Live capture
 
 | Source | Status | Rows | First | Last |
 |---|---|---:|---|---|
-| bfo_live | accepted | 3,954,508 | 2026-07-27T19:09:21.183156+00:00 | 2026-11-20T11:56:58.788936+00:00 |
+| bfo_live | accepted | 3,991,612 | 2026-07-27T19:09:21.183156+00:00 | 2026-11-21T11:27:49.330462+00:00 |
 | fightodds_live | accepted | 273,363 | 2026-08-13T13:20:49.217295+00:00 | 2026-10-06T13:24:25.664304+00:00 |
 | fightodds_live | quarantined | 840 | 2026-08-17T20:03:19.217823+00:00 | 2026-10-03T23:52:26.100985+00:00 |
-| pinnacle_live | accepted | 518,956 | 2026-07-26T04:18:01.319120+00:00 | 2026-11-20T11:57:06.448897+00:00 |
+| pinnacle_live | accepted | 522,940 | 2026-07-26T04:18:01.319120+00:00 | 2026-11-21T11:27:58.108812+00:00 |
 | pinnacle_live | quarantined | 324 | 2026-08-01T17:16:55.114156+00:00 | 2026-11-15T05:22:56.889589+00:00 |
 
 ## Historical FightOdds
@@ -84,7 +84,7 @@ Parquet: 542 files / 503.2 MiB
 | greco_ufcstats | fight_stats | 42,428 |
 | greco_ufcstats | fighter_details | 4,629 |
 | greco_ufcstats | fighter_tott | 4,630 |
-| mmadecisions | official_scorecards | 35,328 |
+| mmadecisions | official_scorecards | 35,351 |
 | mmadecisions_reconciliation | ufc_scorecard_identity | 3,120 |
 | mmadecisions_snapshot | ufc_decision_index | 3,547 |
 | mmadecisions_snapshot | ufc_judge_rounds | 28,690 |
@@ -95,7 +95,7 @@ Parquet: 542 files / 503.2 MiB
 
 | Source | Table | Rows | First | Last |
 |---|---|---:|---|---|
-| octagon_api | rankings | 18,304 | 2026-08-23 | 2026-11-20 |
-| octagon_api | roster | 15,312 | 2026-08-23 | 2026-11-20 |
+| octagon_api | rankings | 18,512 | 2026-08-23 | 2026-11-21 |
+| octagon_api | roster | 15,486 | 2026-08-23 | 2026-11-21 |
 
 Historical book policy is preserved separately from effective row eligibility; unresolved rows remain unusable. Raw reference and snapshot tables also remain feature-ineligible until point-in-time canonical transforms pass their own gates.
