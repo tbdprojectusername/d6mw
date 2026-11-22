@@ -1,8 +1,8 @@
 {
-  "accepted_rows": 4811389,
+  "accepted_rows": 4823497,
   "book_registry_version": "BOOK-REGISTRY-1",
   "contract": "MARKET-DATA-LIVE-1",
-  "generated_utc": "2026-11-22T01:49:56.446655+00:00",
+  "generated_utc": "2026-11-22T12:09:24.478131+00:00",
   "input_files": [
     {
       "bytes": 12781529,
@@ -83,10 +83,10 @@
       "sha256": "e3c48fb24003ffc174724b6d1b27b29de75d52f206155b0066386517368a0faa"
     },
     {
-      "bytes": 9517205,
+      "bytes": 10931047,
       "kind": "bfo",
       "name": "bfo_2026-11_p2.csv",
-      "sha256": "9b3a7d67acfa477fac1a462a5158a715adc502c84404674fa236eb60aea0a3d3"
+      "sha256": "41de669b5e053bf3d65c6ec9d80ea035b979666d75fe582ac1049a27b7de7ac9"
     },
     {
       "bytes": 753946,
@@ -823,7 +823,7 @@
       "sha256": "25d0ad77a24a13065e26cf0e973fc4e0f6150bdaa3cf16491402b1bcd70ac47e"
     },
     {
-      "changed": true,
+      "changed": false,
       "path": "store/live_quotes/source=bfo_live/observed_date=2026-11-21/quotes.parquet",
       "rows": 38312,
       "sha256": "f5b3f5d9ea678c93facfd7f9d1ca8d28850dc86fb25efbf48479a043ad0936cb"
@@ -831,8 +831,8 @@
     {
       "changed": true,
       "path": "store/live_quotes/source=bfo_live/observed_date=2026-11-22/quotes.parquet",
-      "rows": 2280,
-      "sha256": "7cc71590d69f62ec2c831d4c104e5859bdcb917d12ae5ead2174846f27c8d2b7"
+      "rows": 14388,
+      "sha256": "d6ff25721f690ad23f0ce8234036e1a1d3da79af7d9a4d31b5b8a3a16e18fc2e"
     },
     {
       "changed": false,
@@ -1861,7 +1861,7 @@
       "sha256": "4971f8fe4de0455847a33e1e7b244fc5eb2690b8e5d8f61a3cf0467ad6d49195"
     },
     {
-      "changed": true,
+      "changed": false,
       "path": "store/live_quotes/source=pinnacle_live/observed_date=2026-11-21/quotes.parquet",
       "rows": 2998,
       "sha256": "5ffe3375cf2e4b449ee31735bd2ac13fff1607bdee30a47274d6d1c6969ceacf"
@@ -2155,7 +2155,7 @@
   ],
   "prop_rows": 638140,
   "quarantined_rows": 1192,
-  "rows": 4812581,
+  "rows": 4824689,
   "source_directory": "/home/runner/work/_temp/capture/data",
-  "source_revision": "25f9f7deebf846323ae8e0a8516d0dbacb3aece9"
+  "source_revision": "26439beb40de8b69d641f56a75ea8581b6cfe188"
 }
