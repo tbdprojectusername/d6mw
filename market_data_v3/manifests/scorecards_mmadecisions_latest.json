@@ -3,75 +3,75 @@
   "decisions_refreshed": 12,
   "direct_feature_use": false,
   "discovery_year": 2026,
-  "generated_utc": "2026-11-21T17:47:33.429447+00:00",
+  "generated_utc": "2026-11-22T18:04:26.689627+00:00",
   "global_requests_per_second": 4.0,
   "known_pages_refreshed": 12,
   "output": "store/reference/source=mmadecisions/dataset=official_scorecards/data.parquet",
-  "output_sha256": "96c8b8658065bd1692c2c3cdba6cb7d889d2aabb551d8f8fa02f38df27ccbe03",
+  "output_sha256": "ef7b05be77c26773af6b38eef2a9d8733922c0fc0bf1b02db1a9023dcc16aa7d",
   "pages": [
     {
       "rows": 9,
-      "sha256": "44d77aaf5777d0cefb3bedb13dc0dd37a2d3c7220b206bd48a064bd203d8ef12",
+      "sha256": "30d733fd4c8adcd8250bf12619f7d62fda8436f2d807abc2acb5964796285bcf",
       "url": "https://mmadecisions.com/decision/16470/Luis-Gurule-vs-Bilal-Hasan"
     },
     {
       "rows": 9,
-      "sha256": "b620e53f8acdffdd1dd948d9ec26f183c70d769d568eee44b8c79b0d3f92f041",
+      "sha256": "22c99110703f2a27e1ec7da753fc017e48101f335b04b982211e815c6956cfd3",
       "url": "https://mmadecisions.com/decision/16471/Kevin-Holland-vs-Uros-Medic"
     },
     {
       "rows": 9,
-      "sha256": "80fc62b9e30035b74e8fd42919ee110fab670c76873719b1a38a3c49407eda21",
+      "sha256": "1ba9ff727b1717400af8f280296c8a60217882dd87c695755efb605feb3150f4",
       "url": "https://mmadecisions.com/decision/16472/Caio-Borralho-vs-Yousri-Belgaroui"
     },
     {
       "rows": 15,
-      "sha256": "01e5cb4b3bbfd65846e437689fe942290c6e3a50c60b3323b58e94094600e75e",
+      "sha256": "54269d21802033210589133aab1fd226833adf5ab210638a62a20bcc788ce047",
       "url": "https://mmadecisions.com/decision/16474/Ciryl-Gane-vs-Josh-Hokit"
     },
     {
       "rows": 9,
-      "sha256": "b72c6c6a876851da19d99008b19e97fc961d56660726eea466d0c238084cc83f",
-      "url": "https://mmadecisions.com/decision/16475/Joji-Goto-vs-Sergio-Pettis"
-    },
-    {
-      "rows": 5,
-      "sha256": "451b9c83aad57da09890ae210eed5c9f6e89820008fc186d02e994d822ebb268",
-      "url": "https://mmadecisions.com/decision/16476/Oleg-Popov-vs-Pouya-Rahmani"
-    },
-    {
-      "rows": 3,
-      "sha256": "0d797b648fe825bece48e859e7b37abda6cc522a52148de2d2ca05e44d7abdfb",
-      "url": "https://mmadecisions.com/decision/16477/Sergey-Bilostenniy-vs-Vadim-Nemkov"
-    },
-    {
-      "rows": 9,
-      "sha256": "5a177f3619566eb1f9b10c1d94157137d27ccf34c9614c5571642eff271badb3",
-      "url": "https://mmadecisions.com/decision/16478/James-Wamsley-vs-Ben-Edwards"
-    },
-    {
-      "rows": 15,
-      "sha256": "bae7d7c678105642922b9888a59845ce7b745df190386e9fb42a76108466e09b",
-      "url": "https://mmadecisions.com/decision/16479/Jawany-Scott-vs-Willians-Nogueira"
-    },
-    {
-      "rows": 9,
-      "sha256": "867b64d778b760ddee2ba8585eb3a01e9f220ebb3cf63736a96bf7adeda014bc",
+      "sha256": "a10ac5baae03a93f05620efbdd62e6e6635544c456ae843b1a954d81148e0a22",
       "url": "https://mmadecisions.com/decision/16480/Dom-Mar-Fan-vs-Nikolas-Motta"
     },
     {
       "rows": 9,
-      "sha256": "bf3e7bb1c0855717b46334a296f440489b527ab36954f39c404532e379c6df3e",
+      "sha256": "df7b9c14d1b6da3ab9fdaff97b5d7f89ba88952b93b1d90ada51ba741a7de15d",
       "url": "https://mmadecisions.com/decision/16483/Tahir-Abdullayev-vs-Jake-Matthews"
     },
     {
-      "rows": 5,
-      "sha256": "88f021f183f488f68aa1fa626857a8c2b2720dbf239b830b26969e094134d3e9",
+      "rows": 9,
+      "sha256": "cf94213ffb49529d726959e5f3d03ac0d026a54a0e942b8da686503be421ad1b",
       "url": "https://mmadecisions.com/decision/16485/Tallison-Teixeira-vs-Shamil-Gaziev"
+    },
+    {
+      "rows": 9,
+      "sha256": "5b780125daf15a0c949177add87296ab45d108beba6c97af4580216f0ff6214e",
+      "url": "https://mmadecisions.com/decision/16486/Santiago-Luna-vs-Aleksandre-Topuria"
+    },
+    {
+      "rows": 9,
+      "sha256": "cb1bdcc70541015b74124b4aa7cbee9f1fe04528fe8474a4bb26716a25305097",
+      "url": "https://mmadecisions.com/decision/16487/Ikram-Aliskerov-vs-Jared-Cannonier"
+    },
+    {
+      "rows": 9,
+      "sha256": "ff3204f953fbf1737e5446bd4b1f533df5a53c1262ef0b3994a56c9a07627082",
+      "url": "https://mmadecisions.com/decision/16488/Kyoji-Horiguchi-vs-Asu-Almabayev"
+    },
+    {
+      "rows": 9,
+      "sha256": "207fc1c804424cf4432c9953d3ddc1fd5cceb363c5362355dea4bd04d9a1ee2f",
+      "url": "https://mmadecisions.com/decision/16489/Dan-Hooker-vs-Brian-Ortega"
+    },
+    {
+      "rows": 9,
+      "sha256": "7d0fc5a6f49cc9d19502a0fa5577e013818e72fde9045f9cf2adc4659388387e",
+      "url": "https://mmadecisions.com/decision/16490/Kevin-Vallejos-vs-Aljamain-Sterling"
     }
   ],
   "pages_refreshed": 12,
   "source_pacing_seconds": 0.25,
-  "total_rows": 35351,
+  "total_rows": 35400,
   "workers": 6
 }
