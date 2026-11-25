@@ -3,20 +3,20 @@
   "decisions_refreshed": 12,
   "direct_feature_use": false,
   "discovery_year": 2026,
-  "generated_utc": "2026-11-24T20:54:10.567055+00:00",
+  "generated_utc": "2026-11-25T20:14:21.845661+00:00",
   "global_requests_per_second": 4.0,
   "known_pages_refreshed": 12,
   "output": "store/reference/source=mmadecisions/dataset=official_scorecards/data.parquet",
-  "output_sha256": "435588f347772fa5fb2ec3ef44162be8f93f37dc15367d217ebd09d5317ed163",
+  "output_sha256": "7d3f62b257e81a75cc263f026da87474b3c73c00e256c99e72ccd6d798f146b3",
   "pages": [
     {
       "rows": 9,
-      "sha256": "3d7fd92564b823f5e544464fa8eff24778aa5dd40f33442c1728b6e28c0f4c8a",
+      "sha256": "9c3b1d4c10a4e190fba4835a60caebe0bb65595749cec0e9dd9c8701cf783a33",
       "url": "https://mmadecisions.com/decision/16470/Luis-Gurule-vs-Bilal-Hasan"
     },
     {
       "rows": 9,
-      "sha256": "1d1cba779526ead2b66743043263456af1a7c87f48cd4698ba024a9dee12ea99",
+      "sha256": "6d2a553d8fa73e7c12ba138a6734cfae75c0ac39ce5270c609249317ed24417e",
       "url": "https://mmadecisions.com/decision/16471/Kevin-Holland-vs-Uros-Medic"
     },
     {
@@ -26,7 +26,7 @@
     },
     {
       "rows": 15,
-      "sha256": "19b9eb2054d5418e358ea726311b13932e536a9972c757f82eb33e1be0355a83",
+      "sha256": "7c97eb2854133659a00b66db5f18230fbaa8b195f5b0fc6adb1dcbdc2b7a4a16",
       "url": "https://mmadecisions.com/decision/16474/Ciryl-Gane-vs-Josh-Hokit"
     },
     {
@@ -56,17 +56,17 @@
     },
     {
       "rows": 9,
-      "sha256": "d2002c463d88b2fd64db519d790b1100c0daed57c310a4c3640e43a376fb646f",
+      "sha256": "70f8f1b2f74a199e94afa13b67971e1e7786eac3f3b031664e65cd4c5498408b",
       "url": "https://mmadecisions.com/decision/16488/Kyoji-Horiguchi-vs-Asu-Almabayev"
     },
     {
       "rows": 9,
-      "sha256": "811efea8569abf3ef3bde36e4a046968c3df963f6c3508333e7d74284084eeb4",
+      "sha256": "cfd572b27a87f86c7f7c8d694fd97aa45dc617c22fc85a8752feae2cb4ee5eb3",
       "url": "https://mmadecisions.com/decision/16489/Dan-Hooker-vs-Brian-Ortega"
     },
     {
       "rows": 9,
-      "sha256": "3ca7df17b4b87e197d5883d711b582d0d6c513a8c0c22b0d596473a92d57a12a",
+      "sha256": "a58e0fa9d2d99ab7373ba21658d4b02d07104c09f93be294fc2288754f990858",
       "url": "https://mmadecisions.com/decision/16490/Kevin-Vallejos-vs-Aljamain-Sterling"
     }
   ],
