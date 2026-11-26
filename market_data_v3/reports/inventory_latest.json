@@ -1,6 +1,6 @@
 {
   "contract": "MARKET-DATA-INVENTORY-1",
-  "generated_utc": "2026-11-25T20:14:44.300933+00:00",
+  "generated_utc": "2026-11-26T19:51:45.142200+00:00",
   "historical_props_by_category": [
     {
       "category": "A_5",
@@ -564,8 +564,8 @@
       "source": "fightodds_live"
     }
   ],
-  "parquet_bytes": 534224467,
-  "parquet_files": 560,
+  "parquet_bytes": 534271934,
+  "parquet_files": 562,
   "reference_by_table": [
     {
       "dataset": "event_details",
@@ -632,15 +632,15 @@
     {
       "dataset": "rankings",
       "first_snapshot": "2026-08-23",
-      "last_snapshot": "2026-11-25",
-      "row_count": 19344,
+      "last_snapshot": "2026-11-26",
+      "row_count": 19552,
       "source": "octagon_api"
     },
     {
       "dataset": "roster",
       "first_snapshot": "2026-08-23",
-      "last_snapshot": "2026-11-25",
-      "row_count": 16182,
+      "last_snapshot": "2026-11-26",
+      "row_count": 16356,
       "source": "octagon_api"
     }
   ]
