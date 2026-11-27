@@ -1,7 +1,7 @@
 # Market data inventory
 
-Generated: 2026-11-26T19:51:45.142200+00:00
-Parquet: 562 files / 509.5 MiB
+Generated: 2026-11-27T19:40:46.921828+00:00
+Parquet: 564 files / 509.6 MiB
 
 ## Live capture
 
@@ -95,7 +95,7 @@ Parquet: 562 files / 509.5 MiB
 
 | Source | Table | Rows | First | Last |
 |---|---|---:|---|---|
-| octagon_api | rankings | 19,552 | 2026-08-23 | 2026-11-26 |
-| octagon_api | roster | 16,356 | 2026-08-23 | 2026-11-26 |
+| octagon_api | rankings | 19,760 | 2026-08-23 | 2026-11-27 |
+| octagon_api | roster | 16,530 | 2026-08-23 | 2026-11-27 |
 
 Historical book policy is preserved separately from effective row eligibility; unresolved rows remain unusable. Raw reference and snapshot tables also remain feature-ineligible until point-in-time canonical transforms pass their own gates.
